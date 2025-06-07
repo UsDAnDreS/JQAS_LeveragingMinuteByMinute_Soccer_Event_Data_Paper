@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,HomeBet,DrawBet,AwayBet
+14 May 2016,Angers,Toulouse,5.99,4.03,1.60
+14 May 2016,Caen,Bordeaux,2.79,3.44,2.52
+14 May 2016,Guingamp,Nice,4.66,3.92,1.74
+14 May 2016,Lorient,GFC Ajaccio,2.79,3.46,2.50
+14 May 2016,Monaco,Montpellier,1.49,4.53,6.57
+14 May 2016,PSG,Nantes,1.19,7.85,14.02
+14 May 2016,Reims,Lyon,3.78,4.06,1.87
+14 May 2016,Rennes,Bastia,1.77,3.70,4.74
+14 May 2016,St Etienne,Lille,2.61,3.13,2.93
+14 May 2016,Troyes,Marseille,4.87,4.37,1.64
+11 May 2016,Bordeaux,PSG,5.64,4.60,1.53
+07 May 2016,Bastia,Angers,2.30,3.13,3.43
+07 May 2016,Bordeaux,Lorient,1.69,3.96,4.96
+07 May 2016,GFC Ajaccio,PSG,6.52,4.48,1.50
+07 May 2016,Lille,Guingamp,1.46,4.33,7.61
+07 May 2016,Lyon,Monaco,1.70,3.85,5.06
+07 May 2016,Marseille,Reims,1.88,3.78,3.99
+07 May 2016,Montpellier,Rennes,2.29,3.34,3.24
+07 May 2016,Nantes,Caen,1.92,3.46,4.26
+07 May 2016,Nice,St Etienne,2.05,3.36,3.86
+07 May 2016,Toulouse,Troyes,1.20,7.25,13.43
+01 May 2016,Angers,Marseille,3.12,3.21,2.41
+30 Apr 2016,Lyon,GFC Ajaccio,1.24,6.09,12.79
+30 Apr 2016,Caen,Bastia,1.94,3.38,4.31
+30 Apr 2016,Lorient,Lille,3.44,3.31,2.21
+30 Apr 2016,Monaco,Guingamp,1.44,4.57,7.79
+30 Apr 2016,Reims,Montpellier,2.06,3.45,3.72
+30 Apr 2016,Troyes,Bordeaux,4.49,4.00,1.75
+30 Apr 2016,St Etienne,Toulouse,1.98,3.49,3.98
+30 Apr 2016,Nantes,Nice,3.05,3.27,2.43
+29 Apr 2016,PSG,Rennes,1.28,5.95,10.53
+27 Apr 2016,Lille,Angers,1.60,3.67,6.79
+24 Apr 2016,Rennes,Monaco,2.81,3.24,2.62
+24 Apr 2016,GFC Ajaccio,Bastia,2.13,3.19,3.82
+24 Apr 2016,Guingamp,Caen,2.04,3.46,3.75
+24 Apr 2016,Montpellier,Troyes,1.29,5.72,10.36
+24 Apr 2016,St Etienne,Lorient,1.53,4.24,6.50
+24 Apr 2016,Marseille,Nantes,1.72,3.61,5.36
+23 Apr 2016,Toulouse,Lyon,3.51,3.55,2.07
+22 Apr 2016,Nice,Reims,1.65,4.01,5.26
+17 Apr 2016,Monaco,Marseille,1.99,3.50,3.90
+17 Apr 2016,Rennes,Guingamp,1.85,3.52,4.57
+17 Apr 2016,Nantes,Montpellier,2.54,3.12,3.03
+16 Apr 2016,Bastia,St Etienne,3.68,3.07,2.23
+16 Apr 2016,Bordeaux,Angers,1.96,3.26,4.38
+16 Apr 2016,GFC Ajaccio,Lille,3.04,3.10,2.54
+16 Apr 2016,Lorient,Toulouse,2.87,3.38,2.49
+16 Apr 2016,Troyes,Reims,5.19,4.12,1.64
+16 Apr 2016,PSG,Caen,1.26,6.21,10.96
+15 Apr 2016,Lyon,Nice,1.60,4.13,5.68
+10 Apr 2016,Marseille,Bordeaux,1.83,3.60,4.50
+10 Apr 2016,Nice,Rennes,2.31,3.27,3.27
+10 Apr 2016,Lille,Monaco,2.26,3.18,3.46
+09 Apr 2016,Angers,GFC Ajaccio,2.19,3.09,3.74
+09 Apr 2016,Caen,Lorient,1.98,3.52,3.88
+09 Apr 2016,Reims,Nantes,2.26,3.13,3.52
+09 Apr 2016,St Etienne,Troyes,1.22,6.53,12.90
+09 Apr 2016,Toulouse,Bastia,1.67,3.56,5.97
+09 Apr 2016,Guingamp,PSG,3.09,3.30,2.40
+08 Apr 2016,Montpellier,Lyon,3.58,3.47,2.09
+03 Apr 2016,Lorient,Lyon,4.07,3.69,1.90
+03 Apr 2016,Bastia,Marseille,3.55,3.17,2.23
+03 Apr 2016,Nantes,Lille,2.34,2.88,3.70
+02 Apr 2016,GFC Ajaccio,St Etienne,3.07,3.01,2.58
+02 Apr 2016,Guingamp,Montpellier,2.59,3.05,3.02
+02 Apr 2016,Rennes,Reims,1.94,3.40,4.20
+02 Apr 2016,Toulouse,Caen,1.89,3.58,4.21
+02 Apr 2016,Troyes,Angers,3.34,3.32,2.24
+02 Apr 2016,PSG,Nice,1.45,4.48,7.58
+01 Apr 2016,Monaco,Bordeaux,1.78,3.60,4.80
+20 Mar 2016,PSG,Monaco,1.38,4.80,8.91
+20 Mar 2016,Nice,GFC Ajaccio,1.83,3.51,4.70
+20 Mar 2016,Bordeaux,Bastia,1.82,3.31,5.12
+19 Mar 2016,Lyon,Nantes,1.58,3.90,6.45
+19 Mar 2016,Angers,Lorient,2.50,3.00,3.22
+19 Mar 2016,Caen,Troyes,1.48,4.49,6.81
+19 Mar 2016,Lille,Toulouse,1.88,3.35,4.70
+19 Mar 2016,Reims,Guingamp,2.13,3.20,3.81
+19 Mar 2016,St Etienne,Montpellier,2.20,3.15,3.65
+18 Mar 2016,Marseille,Rennes,1.85,3.54,4.46
+13 Mar 2016,Rennes,Lyon,3.21,3.30,2.32
+13 Mar 2016,Nantes,Angers,1.99,3.04,4.62
+13 Mar 2016,Troyes,PSG,15.73,7.11,1.19
+12 Mar 2016,Bastia,Lille,3.57,2.94,2.34
+12 Mar 2016,GFC Ajaccio,Caen,2.39,3.21,3.19
+12 Mar 2016,Guingamp,St Etienne,2.88,3.06,2.69
+12 Mar 2016,Montpellier,Nice,2.04,3.28,3.99
+12 Mar 2016,Toulouse,Bordeaux,2.05,3.35,3.87
+12 Mar 2016,Lorient,Marseille,3.03,3.35,2.39
+11 Mar 2016,Monaco,Reims,1.63,3.87,5.75
+09 Mar 2016,Bastia,Nantes,3.04,2.85,2.72
+09 Mar 2016,GFC Ajaccio,Marseille,3.87,3.29,2.06
+06 Mar 2016,Lyon,Guingamp,1.51,4.22,6.82
+06 Mar 2016,Rennes,Nantes,2.57,2.84,3.29
+06 Mar 2016,Marseille,Toulouse,1.69,3.69,5.49
+05 Mar 2016,Angers,St Etienne,3.35,2.99,2.43
+05 Mar 2016,Bastia,Lorient,2.58,3.03,3.05
+05 Mar 2016,Bordeaux,GFC Ajaccio,1.66,3.71,5.73
+05 Mar 2016,Lille,Reims,1.90,3.29,4.65
+05 Mar 2016,Nice,Troyes,1.48,4.46,6.94
+05 Mar 2016,PSG,Montpellier,1.51,4.11,7.14
+04 Mar 2016,Caen,Monaco,3.12,3.13,2.47
+28 Feb 2016,Lyon,PSG,4.66,3.65,1.80
+28 Feb 2016,St Etienne,Caen,1.71,3.67,5.35
+28 Feb 2016,Nantes,Monaco,2.51,3.06,3.12
+27 Feb 2016,Guingamp,Angers,2.20,3.07,3.77
+27 Feb 2016,Reims,Bordeaux,2.51,3.19,2.98
+27 Feb 2016,Toulouse,Rennes,2.25,3.24,3.40
+27 Feb 2016,Troyes,Lorient,2.94,3.45,2.38
+27 Feb 2016,Montpellier,Lille,2.56,2.97,3.15
+26 Feb 2016,Nice,Bastia,1.88,3.27,4.81
+21 Feb 2016,Lille,Lyon,2.62,3.10,2.92
+21 Feb 2016,Caen,Rennes,2.77,3.08,2.79
+21 Feb 2016,Marseille,St Etienne,1.96,3.40,4.17
+20 Feb 2016,Angers,Montpellier,3.22,2.94,2.52
+20 Feb 2016,Lorient,Guingamp,2.04,3.25,4.01
+20 Feb 2016,Monaco,Troyes,1.37,5.00,8.69
+20 Feb 2016,Toulouse,GFC Ajaccio,1.80,3.49,4.92
+20 Feb 2016,PSG,Reims,1.16,7.59,19.46
+19 Feb 2016,Bordeaux,Nice,2.03,3.35,3.92
+14 Feb 2016,Nice,Marseille,3.31,3.23,2.29
+14 Feb 2016,St Etienne,Monaco,2.47,3.07,3.16
+14 Feb 2016,Lyon,Caen,1.50,4.22,7.16
+13 Feb 2016,GFC Ajaccio,Troyes,1.62,3.80,6.06
+13 Feb 2016,Guingamp,Bordeaux,2.34,3.13,3.34
+13 Feb 2016,Montpellier,Toulouse,2.29,3.18,3.40
+13 Feb 2016,Nantes,Lorient,1.93,3.29,4.47
+13 Feb 2016,Reims,Bastia,1.81,3.23,5.50
+13 Feb 2016,PSG,Lille,1.45,4.25,8.46
+12 Feb 2016,Rennes,Angers,2.03,3.13,4.27
+07 Feb 2016,Marseille,PSG,4.89,3.49,1.80
+07 Feb 2016,Bordeaux,St Etienne,2.08,3.20,3.98
+07 Feb 2016,Lille,Rennes,2.00,3.18,4.37
+06 Feb 2016,Bastia,Troyes,1.82,3.53,4.71
+06 Feb 2016,Caen,Reims,2.21,3.26,3.47
+06 Feb 2016,GFC Ajaccio,Guingamp,2.66,3.03,2.92
+06 Feb 2016,Lorient,Montpellier,2.39,3.18,3.20
+06 Feb 2016,Toulouse,Nantes,2.23,3.15,3.58
+06 Feb 2016,Angers,Lyon,3.59,3.14,2.22
+06 Feb 2016,Monaco,Nice,1.89,3.42,4.51
+04 Feb 2016,Rennes,St Etienne,2.10,3.21,3.83
+03 Feb 2016,PSG,Lorient,1.20,6.54,15.87
+03 Feb 2016,Guingamp,Troyes,1.52,4.15,6.93
+03 Feb 2016,Lille,Caen,1.72,3.56,5.46
+03 Feb 2016,Lyon,Bordeaux,1.69,3.72,5.50
+03 Feb 2016,Nantes,GFC Ajaccio,1.97,3.24,4.38
+03 Feb 2016,Nice,Toulouse,2.60,3.19,2.89
+03 Feb 2016,Reims,Angers,2.25,3.04,3.70
+02 Feb 2016,Montpellier,Marseille,2.54,3.16,2.99
+02 Feb 2016,Monaco,Bastia,1.43,4.23,8.95
+31 Jan 2016,St Etienne,PSG,6.95,4.01,1.54
+31 Jan 2016,Bordeaux,Rennes,2.63,3.10,2.93
+31 Jan 2016,Caen,Nice,2.46,3.19,3.06
+30 Jan 2016,Bastia,Lyon,5.26,3.73,1.71
+30 Jan 2016,GFC Ajaccio,Montpellier,2.63,3.12,2.89
+30 Jan 2016,Lorient,Reims,2.09,3.28,3.81
+30 Jan 2016,Toulouse,Guingamp,2.03,3.29,4.01
+30 Jan 2016,Troyes,Nantes,3.30,3.30,2.28
+30 Jan 2016,Angers,Monaco,3.56,3.04,2.31
+29 Jan 2016,Marseille,Lille,2.03,3.33,3.96
+24 Jan 2016,Lyon,Marseille,2.07,3.36,3.78
+24 Jan 2016,Reims,St Etienne,2.78,3.12,2.73
+24 Jan 2016,Monaco,Toulouse,1.92,3.34,4.47
+23 Jan 2016,Guingamp,Bastia,1.77,3.36,5.52
+23 Jan 2016,Lille,Troyes,1.41,4.59,8.09
+23 Jan 2016,Montpellier,Caen,2.00,3.28,4.15
+23 Jan 2016,Nantes,Bordeaux,2.64,3.03,3.03
+23 Jan 2016,Nice,Lorient,1.95,3.44,4.19
+23 Jan 2016,PSG,Angers,1.21,6.27,17.28
+22 Jan 2016,Rennes,GFC Ajaccio,1.90,3.35,4.57
+17 Jan 2016,St Etienne,Lyon,2.80,3.17,2.67
+17 Jan 2016,Caen,Marseille,3.23,3.24,2.34
+17 Jan 2016,Lorient,Monaco,3.19,3.19,2.39
+16 Jan 2016,Bastia,Montpellier,3.22,3.00,2.49
+16 Jan 2016,Bordeaux,Lille,2.33,3.00,3.60
+16 Jan 2016,GFC Ajaccio,Reims,2.25,3.18,3.53
+16 Jan 2016,Guingamp,Nantes,2.37,2.99,3.51
+16 Jan 2016,Troyes,Rennes,3.70,3.29,2.14
+16 Jan 2016,Toulouse,PSG,6.12,4.13,1.57
+15 Jan 2016,Nice,Angers,2.03,3.14,4.26
+10 Jan 2016,Marseille,Guingamp,1.65,3.73,5.83
+10 Jan 2016,Lille,Nice,1.98,3.29,4.25
+10 Jan 2016,Nantes,St Etienne,2.51,3.02,3.18
+09 Jan 2016,Angers,Caen,2.58,3.00,3.10
+09 Jan 2016,Monaco,GFC Ajaccio,1.61,3.71,6.49
+09 Jan 2016,Montpellier,Bordeaux,2.38,3.16,3.23
+09 Jan 2016,Reims,Toulouse,2.56,3.20,2.91
+09 Jan 2016,Rennes,Lorient,1.92,3.26,4.67
+09 Jan 2016,Lyon,Troyes,1.35,5.15,8.52
+08 Jan 2016,PSG,Bastia,1.10,9.97,30.19
+20 Dec 2015,Bordeaux,Marseille,3.05,3.15,2.50
+20 Dec 2015,GFC Ajaccio,Lyon,3.29,3.22,2.34
+20 Dec 2015,St Etienne,Angers,1.99,3.19,4.39
+19 Dec 2015,Bastia,Reims,2.44,3.12,3.17
+19 Dec 2015,Guingamp,Rennes,2.52,3.02,3.17
+19 Dec 2015,Lorient,Nantes,2.21,3.17,3.61
+19 Dec 2015,Toulouse,Lille,2.60,3.15,2.89
+19 Dec 2015,Troyes,Monaco,4.32,3.52,1.88
+19 Dec 2015,Caen,PSG,8.16,4.44,1.43
+18 Dec 2015,Nice,Montpellier,2.36,3.22,3.22
+13 Dec 2015,PSG,Lyon,1.26,5.91,12.61
+13 Dec 2015,Angers,Bordeaux,2.49,2.98,3.24
+13 Dec 2015,Marseille,GFC Ajaccio,1.47,4.33,7.48
+13 Dec 2015,Monaco,St Etienne,2.13,3.23,3.76
+12 Dec 2015,Lille,Lorient,1.82,3.37,4.95
+12 Dec 2015,Montpellier,Guingamp,1.91,3.31,4.55
+12 Dec 2015,Nantes,Toulouse,2.50,3.12,3.09
+12 Dec 2015,Troyes,Bastia,2.26,3.16,3.50
+12 Dec 2015,Reims,Nice,2.69,3.17,2.76
+11 Dec 2015,Rennes,Caen,2.45,3.25,3.11
+06 Dec 2015,St Etienne,Rennes,2.09,3.15,4.05
+06 Dec 2015,Bordeaux,Guingamp,1.93,3.28,4.47
+06 Dec 2015,Marseille,Montpellier,1.70,3.77,5.27
+05 Dec 2015,Bastia,Monaco,3.90,3.20,2.09
+05 Dec 2015,Caen,Lille,2.42,3.07,3.29
+05 Dec 2015,GFC Ajaccio,Nantes,2.92,3.01,2.70
+05 Dec 2015,Reims,Troyes,1.66,3.88,5.41
+05 Dec 2015,Toulouse,Lorient,1.97,3.43,4.10
+05 Dec 2015,Lyon,Angers,1.75,3.46,5.39
+04 Dec 2015,Nice,PSG,7.30,4.40,1.46
+03 Dec 2015,Rennes,Marseille,3.26,3.21,2.34
+02 Dec 2015,Lille,St Etienne,2.50,3.06,3.15
+02 Dec 2015,Bastia,Bordeaux,2.93,3.14,2.59
+02 Dec 2015,Guingamp,Reims,1.91,3.38,4.41
+02 Dec 2015,Monaco,Caen,1.81,3.54,4.78
+02 Dec 2015,Montpellier,GFC Ajaccio,1.71,3.49,5.75
+02 Dec 2015,Troyes,Toulouse,3.12,3.27,2.38
+01 Dec 2015,Nantes,Lyon,3.23,3.21,2.36
+01 Dec 2015,Angers,PSG,10.07,4.57,1.38
+01 Dec 2015,Lorient,Nice,1.98,3.52,3.96
+29 Nov 2015,Marseille,Monaco,1.87,3.46,4.43
+29 Nov 2015,Bordeaux,Caen,1.97,3.34,4.15
+29 Nov 2015,St Etienne,Guingamp,1.95,3.31,4.35
+28 Nov 2015,Angers,Lille,2.89,2.79,2.92
+28 Nov 2015,GFC Ajaccio,Lorient,2.68,3.14,2.82
+28 Nov 2015,Nantes,Bastia,1.89,3.19,4.99
+28 Nov 2015,Reims,Rennes,2.83,3.04,2.75
+28 Nov 2015,Toulouse,Nice,2.48,3.32,2.93
+28 Nov 2015,PSG,Troyes,1.08,11.70,35.02
+27 Nov 2015,Lyon,Montpellier,1.55,4.09,6.46
+22 Nov 2015,St Etienne,Marseille,2.48,3.24,2.99
+22 Nov 2015,Rennes,Bordeaux,2.45,3.09,3.19
+22 Nov 2015,Bastia,GFC Ajaccio,2.15,3.10,3.87
+22 Nov 2015,Caen,Angers,1.88,3.24,4.81
+21 Nov 2015,Guingamp,Toulouse,2.11,3.35,3.66
+21 Nov 2015,Monaco,Nantes,1.70,3.57,5.71
+21 Nov 2015,Montpellier,Reims,2.05,3.30,3.90
+21 Nov 2015,Troyes,Lille,3.71,3.12,2.19
+21 Nov 2015,Lorient,PSG,6.93,4.24,1.51
+20 Nov 2015,Nice,Lyon,3.87,3.39,2.03
+08 Nov 2015,Bordeaux,Monaco,2.49,3.15,3.07
+08 Nov 2015,Lyon,St Etienne,1.97,3.45,4.04
+08 Nov 2015,Marseille,Nice,1.72,3.88,4.87
+07 Nov 2015,Caen,Guingamp,2.14,3.26,3.70
+07 Nov 2015,Lille,Bastia,1.66,3.54,6.25
+07 Nov 2015,Lorient,Troyes,1.62,3.90,5.70
+07 Nov 2015,Montpellier,Nantes,2.37,3.03,3.43
+07 Nov 2015,Reims,GFC Ajaccio,1.87,3.33,4.77
+07 Nov 2015,PSG,Toulouse,1.17,7.47,18.96
+06 Nov 2015,Angers,Rennes,3.04,2.95,2.65
+04 Nov 2015,Nice,Nantes,1.97,3.26,4.32
+01 Nov 2015,Nantes,Marseille,3.69,3.24,2.14
+01 Nov 2015,Monaco,Angers,1.71,3.51,5.65
+01 Nov 2015,Nice,Lille,2.34,3.18,3.30
+31 Oct 2015,Bastia,Caen,2.97,3.13,2.57
+31 Oct 2015,GFC Ajaccio,Bordeaux,4.35,3.31,1.94
+31 Oct 2015,Guingamp,Lorient,2.20,3.31,3.48
+31 Oct 2015,Toulouse,Montpellier,2.11,3.28,3.76
+31 Oct 2015,Troyes,Lyon,5.28,3.73,1.70
+31 Oct 2015,St Etienne,Reims,1.62,3.86,5.89
+30 Oct 2015,Rennes,PSG,5.86,3.71,1.65
+25 Oct 2015,PSG,St Etienne,1.33,5.12,10.12
+25 Oct 2015,Bordeaux,Troyes,1.50,4.19,7.11
+25 Oct 2015,Lille,Marseille,2.64,3.15,2.86
+25 Oct 2015,Reims,Monaco,3.36,3.24,2.28
+24 Oct 2015,Angers,Guingamp,2.60,3.04,2.98
+24 Oct 2015,GFC Ajaccio,Nice,3.85,3.36,2.05
+24 Oct 2015,Montpellier,Bastia,1.83,3.38,4.79
+24 Oct 2015,Lorient,Rennes,2.48,3.15,3.07
+23 Oct 2015,Lyon,Toulouse,1.69,3.75,5.36
+23 Oct 2015,Caen,Nantes,1.94,3.26,4.48
+18 Oct 2015,Rennes,Nice,2.06,3.42,3.73
+18 Oct 2015,Bordeaux,Montpellier,1.68,3.64,5.67
+18 Oct 2015,Marseille,Lorient,1.51,4.25,6.87
+17 Oct 2015,Guingamp,Lille,2.58,3.10,3.02
+17 Oct 2015,Nantes,Troyes,2.02,3.14,4.36
+17 Oct 2015,Reims,Caen,2.65,3.21,2.81
+17 Oct 2015,St Etienne,GFC Ajaccio,1.43,4.20,9.04
+17 Oct 2015,Toulouse,Angers,1.88,3.37,4.64
+17 Oct 2015,Bastia,PSG,9.37,5.05,1.35
+16 Oct 2015,Monaco,Lyon,2.71,3.19,2.74
+04 Oct 2015,PSG,Marseille,1.33,5.07,10.42
+04 Oct 2015,Caen,St Etienne,2.45,3.19,3.07
+04 Oct 2015,Lorient,Bordeaux,2.72,3.20,2.75
+04 Oct 2015,Monaco,Rennes,1.78,3.52,5.04
+03 Oct 2015,Angers,Bastia,2.05,3.09,4.29
+03 Oct 2015,GFC Ajaccio,Toulouse,3.21,3.20,2.37
+03 Oct 2015,Troyes,Guingamp,2.76,3.13,2.75
+03 Oct 2015,Lyon,Reims,1.53,4.14,6.66
+02 Oct 2015,Lille,Montpellier,2.07,3.16,4.08
+29 Sep 2015,Lille,Nantes,1.81,3.22,5.43
+27 Sep 2015,St Etienne,Nice,1.74,3.63,5.14
+27 Sep 2015,Guingamp,Monaco,3.06,3.10,2.52
+27 Sep 2015,Montpellier,Lorient,2.12,3.31,3.66
+27 Sep 2015,Marseille,Angers,1.50,4.07,7.48
+26 Sep 2015,Bastia,Toulouse,2.90,3.11,2.64
+26 Sep 2015,Bordeaux,Lyon,2.42,3.24,3.05
+26 Sep 2015,Caen,GFC Ajaccio,1.80,3.42,5.04
+26 Sep 2015,Rennes,Troyes,1.63,3.73,6.00
+26 Sep 2015,Nantes,PSG,10.28,4.40,1.39
+25 Sep 2015,Reims,Lille,2.71,3.06,2.82
+24 Sep 2015,Montpellier,Monaco,3.26,3.08,2.41
+23 Sep 2015,Toulouse,Marseille,3.01,3.28,2.44
+23 Sep 2015,GFC Ajaccio,Rennes,3.37,2.98,2.41
+23 Sep 2015,Lorient,Caen,2.19,3.29,3.52
+23 Sep 2015,Lyon,Bastia,1.42,4.40,8.39
+23 Sep 2015,Nice,Bordeaux,2.98,3.15,2.52
+23 Sep 2015,Troyes,St Etienne,3.66,3.28,2.14
+22 Sep 2015,PSG,Guingamp,1.18,7.08,19.29
+22 Sep 2015,Angers,Reims,2.62,3.03,2.97
+20 Sep 2015,Marseille,Lyon,2.05,3.44,3.73
+20 Sep 2015,Monaco,Lorient,1.60,3.82,6.31
+20 Sep 2015,St Etienne,Nantes,1.76,3.33,5.72
+20 Sep 2015,Bordeaux,Toulouse,2.07,3.33,3.81
+19 Sep 2015,Angers,Troyes,2.31,3.13,3.32
+19 Sep 2015,Bastia,Nice,2.57,3.09,2.92
+19 Sep 2015,Caen,Montpellier,2.24,3.20,3.40
+19 Sep 2015,Guingamp,GFC Ajaccio,1.81,3.26,5.13
+19 Sep 2015,Reims,PSG,7.70,4.38,1.45
+18 Sep 2015,Rennes,Lille,2.36,3.00,3.46
+13 Sep 2015,Marseille,Bastia,1.50,4.18,7.19
+13 Sep 2015,Nantes,Rennes,2.64,2.91,3.09
+13 Sep 2015,GFC Ajaccio,Monaco,4.28,3.12,2.04
+12 Sep 2015,Lorient,Angers,1.98,3.19,4.37
+12 Sep 2015,Montpellier,St Etienne,2.81,3.10,2.73
+12 Sep 2015,Nice,Guingamp,2.26,3.12,3.52
+12 Sep 2015,Toulouse,Reims,1.95,3.41,4.21
+12 Sep 2015,Troyes,Caen,2.36,3.21,3.21
+12 Sep 2015,Lyon,Lille,1.88,3.32,4.67
+11 Sep 2015,PSG,Bordeaux,1.25,5.91,13.25
+30 Aug 2015,Monaco,PSG,4.54,3.30,1.93
+30 Aug 2015,Bordeaux,Nantes,2.16,3.01,4.01
+30 Aug 2015,St Etienne,Bastia,1.68,3.50,6.16
+29 Aug 2015,Angers,Nice,2.29,3.14,3.44
+29 Aug 2015,Lille,GFC Ajaccio,1.57,3.65,7.30
+29 Aug 2015,Reims,Lorient,2.25,3.15,3.51
+29 Aug 2015,Rennes,Toulouse,2.23,3.17,3.52
+29 Aug 2015,Troyes,Montpellier,2.52,3.07,3.07
+29 Aug 2015,Caen,Lyon,3.34,3.20,2.28
+28 Aug 2015,Guingamp,Marseille,4.28,3.35,1.94
+23 Aug 2015,Marseille,Troyes,1.61,3.84,6.04
+23 Aug 2015,Lorient,St Etienne,2.46,3.13,3.12
+23 Aug 2015,Lille,Bordeaux,2.05,3.21,4.02
+22 Aug 2015,Bastia,Guingamp,2.33,2.99,3.55
+22 Aug 2015,GFC Ajaccio,Angers,2.54,2.92,3.25
+22 Aug 2015,Nantes,Reims,2.57,2.96,3.17
+22 Aug 2015,Nice,Caen,2.25,3.29,3.41
+22 Aug 2015,Toulouse,Monaco,2.80,3.18,2.70
+22 Aug 2015,Lyon,Rennes,1.62,3.72,6.39
+21 Aug 2015,Montpellier,PSG,0,0,0
+16 Aug 2015,PSG,GFC Ajaccio,1.14,8.40,20.61
+16 Aug 2015,Lorient,Bastia,1.89,3.35,4.58
+16 Aug 2015,Reims,Marseille,3.49,3.32,2.18
+15 Aug 2015,Angers,Nantes,2.65,2.89,3.09
+15 Aug 2015,Caen,Toulouse,2.44,3.29,3.02
+15 Aug 2015,Guingamp,Lyon,4.29,3.36,1.95
+15 Aug 2015,Rennes,Montpellier,2.18,3.04,3.86
+15 Aug 2015,Troyes,Nice,2.05,3.27,3.97
+15 Aug 2015,St Etienne,Bordeaux,2.13,3.18,3.81
+14 Aug 2015,Monaco,Lille,1.62,3.65,6.35
+09 Aug 2015,Lyon,Lorient,1.55,4.07,6.34
+09 Aug 2015,Bordeaux,Reims,1.69,3.74,5.39
+09 Aug 2015,Toulouse,St Etienne,2.69,3.08,2.85
+08 Aug 2015,Bastia,Rennes,2.63,2.97,3.01
+08 Aug 2015,Marseille,Caen,0,0,0
+08 Aug 2015,Montpellier,Angers,1.78,3.38,5.25
+08 Aug 2015,Nantes,Guingamp,2.23,3.02,3.76
+08 Aug 2015,Nice,Monaco,4.31,3.28,1.96
+08 Aug 2015,Troyes,GFC Ajaccio,1.93,3.31,4.40
+07 Aug 2015,Lille,PSG,0,0,0

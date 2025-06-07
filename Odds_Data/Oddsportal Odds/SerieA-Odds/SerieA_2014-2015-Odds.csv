@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,HomeBet,DrawBet,AwayBet
+31 May 2015,AS Roma,Palermo,1.62,4.15,5.37
+31 May 2015,Fiorentina,Chievo,1.32,5.50,9.28
+31 May 2015,Inter,Empoli,1.53,4.48,5.86
+31 May 2015,Napoli,Lazio,1.91,3.68,4.03
+31 May 2015,Sampdoria,Parma,1.47,4.65,6.55
+31 May 2015,Sassuolo,Genoa,3.10,3.72,2.19
+31 May 2015,Torino,Cesena,1.39,5.01,7.71
+31 May 2015,Cagliari,Udinese,2.00,3.72,3.61
+30 May 2015,Atalanta,AC Milan,2.77,3.45,2.53
+30 May 2015,Verona,Juventus,5.32,4.09,1.62
+25 May 2015,Lazio,AS Roma,2.57,2.55,3.70
+24 May 2015,AC Milan,Torino,2.38,3.39,3.03
+24 May 2015,Cesena,Cagliari,2.73,3.52,2.52
+24 May 2015,Chievo,Atalanta,2.12,3.35,3.65
+24 May 2015,Palermo,Fiorentina,3.64,3.68,2.00
+24 May 2015,Parma,Verona,2.38,3.60,2.88
+24 May 2015,Udinese,Sassuolo,2.06,3.51,3.63
+24 May 2015,Empoli,Sampdoria,2.15,3.58,3.33
+23 May 2015,Genoa,Inter,0,0,0
+23 May 2015,Juventus,Napoli,2.76,3.29,2.63
+18 May 2015,Napoli,Cesena,1.15,8.19,17.77
+18 May 2015,Fiorentina,Parma,1.23,6.60,12.40
+17 May 2015,AS Roma,Udinese,1.34,5.29,9.31
+17 May 2015,Atalanta,Genoa,2.72,3.24,2.70
+17 May 2015,Cagliari,Palermo,2.06,3.59,3.56
+17 May 2015,Torino,Chievo,1.95,3.47,4.13
+17 May 2015,Verona,Empoli,2.99,3.45,2.40
+17 May 2015,Sassuolo,AC Milan,2.72,3.41,2.61
+16 May 2015,Sampdoria,Lazio,3.36,3.39,2.21
+16 May 2015,Inter,Juventus,1.97,3.52,3.93
+11 May 2015,Genoa,Torino,2.48,3.27,2.98
+10 May 2015,Lazio,Inter,1.84,3.73,4.38
+10 May 2015,Empoli,Fiorentina,2.52,3.32,2.88
+10 May 2015,Parma,Napoli,7.66,4.92,1.40
+10 May 2015,Cesena,Sassuolo,2.44,3.33,2.97
+10 May 2015,Palermo,Atalanta,2.09,3.39,3.73
+10 May 2015,Udinese,Sampdoria,2.51,3.26,2.95
+10 May 2015,Chievo,Verona,2.53,3.13,3.03
+09 May 2015,AC Milan,AS Roma,3.87,3.44,2.03
+09 May 2015,Juventus,Cagliari,1.50,4.18,6.88
+06 May 2015,Torino,Empoli,1.83,3.64,4.43
+04 May 2015,Cagliari,Parma,1.63,4.04,5.44
+03 May 2015,Napoli,AC Milan,1.42,4.77,7.76
+03 May 2015,Atalanta,Lazio,4.69,3.61,1.81
+03 May 2015,Fiorentina,Cesena,1.35,5.20,8.76
+03 May 2015,Inter,Chievo,1.42,4.58,8.34
+03 May 2015,Verona,Udinese,2.20,3.43,3.37
+03 May 2015,AS Roma,Genoa,1.51,4.25,6.91
+02 May 2015,Sassuolo,Palermo,2.59,3.28,2.82
+02 May 2015,Sampdoria,Juventus,4.23,3.21,2.02
+30 Apr 2015,Empoli,Napoli,4.50,3.67,1.83
+29 Apr 2015,AC Milan,Genoa,1.98,3.53,3.93
+29 Apr 2015,Cesena,Atalanta,3.01,3.10,2.57
+29 Apr 2015,Chievo,Cagliari,2.27,3.43,3.21
+29 Apr 2015,Juventus,Fiorentina,1.58,3.96,6.34
+29 Apr 2015,Lazio,Parma,1.26,5.85,13.15
+29 Apr 2015,Palermo,Torino,2.53,3.20,2.97
+29 Apr 2015,Sampdoria,Verona,1.65,3.91,5.54
+29 Apr 2015,Sassuolo,AS Roma,5.81,3.87,1.63
+28 Apr 2015,Udinese,Inter,3.64,3.32,2.13
+26 Apr 2015,Napoli,Sampdoria,1.45,4.56,7.36
+26 Apr 2015,Fiorentina,Cagliari,1.41,4.84,7.68
+26 Apr 2015,Genoa,Cesena,1.52,4.11,7.15
+26 Apr 2015,Lazio,Chievo,1.37,4.77,9.63
+26 Apr 2015,Parma,Palermo,2.99,3.31,2.44
+26 Apr 2015,Torino,Juventus,4.26,3.17,2.03
+26 Apr 2015,Verona,Sassuolo,2.14,3.44,3.51
+26 Apr 2015,Atalanta,Empoli,2.59,2.86,3.17
+25 Apr 2015,Inter,AS Roma,2.60,3.21,2.89
+25 Apr 2015,Udinese,AC Milan,3.11,3.21,2.43
+20 Apr 2015,Fiorentina,Verona,1.49,4.50,6.57
+19 Apr 2015,Inter,AC Milan,2.28,3.27,3.37
+19 Apr 2015,Cagliari,Napoli,4.53,4.08,1.72
+19 Apr 2015,AS Roma,Atalanta,1.42,4.51,8.60
+19 Apr 2015,Chievo,Udinese,2.25,3.09,3.64
+19 Apr 2015,Empoli,Parma,1.57,4.03,6.39
+19 Apr 2015,Palermo,Genoa,2.11,3.44,3.63
+19 Apr 2015,Sassuolo,Torino,3.18,3.23,2.39
+18 Apr 2015,Juventus,Lazio,1.96,3.34,4.29
+18 Apr 2015,Sampdoria,Cesena,1.53,4.03,7.14
+15 Apr 2015,Genoa,Parma,1.68,3.75,5.58
+12 Apr 2015,AC Milan,Sampdoria,1.95,3.45,4.17
+12 Apr 2015,Atalanta,Sassuolo,1.91,3.43,4.36
+12 Apr 2015,Lazio,Empoli,1.56,4.06,6.53
+12 Apr 2015,Napoli,Fiorentina,1.86,3.56,4.31
+12 Apr 2015,Torino,AS Roma,2.66,3.14,2.85
+12 Apr 2015,Udinese,Palermo,2.39,3.17,3.25
+12 Apr 2015,Cesena,Chievo,2.82,3.08,2.76
+11 Apr 2015,Verona,Inter,3.70,3.49,2.05
+11 Apr 2015,Genoa,Cagliari,1.97,3.66,3.82
+11 Apr 2015,Parma,Juventus,8.49,4.47,1.42
+08 Apr 2015,Parma,Udinese,3.08,3.10,2.52
+04 Apr 2015,Juventus,Empoli,1.39,4.70,9.45
+04 Apr 2015,Fiorentina,Sampdoria,1.68,3.82,5.38
+04 Apr 2015,Atalanta,Torino,2.96,3.14,2.58
+04 Apr 2015,Cagliari,Lazio,4.52,3.76,1.81
+04 Apr 2015,Genoa,Udinese,1.96,3.40,4.20
+04 Apr 2015,Inter,Parma,1.23,6.29,13.78
+04 Apr 2015,Palermo,AC Milan,2.52,3.25,2.96
+04 Apr 2015,Sassuolo,Chievo,2.24,3.11,3.65
+04 Apr 2015,Verona,Cesena,1.85,3.56,4.52
+04 Apr 2015,AS Roma,Napoli,2.29,3.30,3.32
+22 Mar 2015,Cesena,AS Roma,5.68,3.68,1.68
+22 Mar 2015,Lazio,Verona,1.34,5.01,10.32
+22 Mar 2015,Napoli,Atalanta,1.39,4.72,9.20
+22 Mar 2015,Parma,Torino,4.99,3.53,1.79
+22 Mar 2015,Sampdoria,Inter,2.95,3.21,2.55
+22 Mar 2015,Udinese,Fiorentina,3.43,3.30,2.22
+22 Mar 2015,Juventus,Genoa,1.35,5.04,9.99
+22 Mar 2015,Empoli,Sassuolo,1.95,3.37,4.23
+21 Mar 2015,AC Milan,Cagliari,1.79,3.83,4.53
+21 Mar 2015,Chievo,Palermo,2.58,3.09,3.04
+16 Mar 2015,AS Roma,Sampdoria,1.59,3.92,6.34
+16 Mar 2015,Fiorentina,AC Milan,1.87,3.57,4.38
+16 Mar 2015,Torino,Lazio,3.52,3.23,2.23
+15 Mar 2015,Inter,Cesena,1.32,5.20,10.98
+15 Mar 2015,Verona,Napoli,4.21,3.53,1.92
+15 Mar 2015,Atalanta,Udinese,2.25,3.17,3.54
+15 Mar 2015,Genoa,Chievo,1.82,3.50,4.84
+15 Mar 2015,Sassuolo,Parma,1.67,3.72,5.75
+14 Mar 2015,Cagliari,Empoli,2.38,3.33,3.11
+14 Mar 2015,Palermo,Juventus,4.52,3.35,1.92
+09 Mar 2015,Juventus,Sassuolo,1.20,6.72,16.50
+09 Mar 2015,Lazio,Fiorentina,2.12,3.32,3.73
+08 Mar 2015,Napoli,Inter,1.93,3.55,4.12
+08 Mar 2015,Chievo,AS Roma,4.93,3.30,1.86
+08 Mar 2015,Empoli,Genoa,2.18,3.25,3.63
+08 Mar 2015,Parma,Atalanta,3.05,3.21,2.49
+08 Mar 2015,Udinese,Torino,2.68,3.12,2.87
+08 Mar 2015,Cesena,Palermo,3.12,3.24,2.42
+07 Mar 2015,AC Milan,Verona,1.71,3.72,5.31
+07 Mar 2015,Sampdoria,Cagliari,1.85,3.59,4.50
+02 Mar 2015,AS Roma,Juventus,2.93,3.17,2.61
+01 Mar 2015,Torino,Napoli,3.12,3.22,2.43
+01 Mar 2015,Inter,Fiorentina,2.15,3.33,3.62
+01 Mar 2015,Atalanta,Sampdoria,2.45,3.17,3.12
+01 Mar 2015,Cesena,Udinese,3.30,3.18,2.35
+01 Mar 2015,Palermo,Empoli,2.29,3.31,3.28
+01 Mar 2015,Sassuolo,Lazio,3.86,3.40,2.04
+01 Mar 2015,Cagliari,Verona,2.00,3.48,3.92
+28 Feb 2015,Chievo,AC Milan,3.22,3.19,2.38
+24 Feb 2015,Sampdoria,Genoa,2.54,3.09,3.05
+23 Feb 2015,Cagliari,Inter,3.35,3.33,2.25
+23 Feb 2015,Napoli,Sassuolo,1.45,4.49,7.56
+22 Feb 2015,Fiorentina,Torino,1.95,3.39,4.27
+22 Feb 2015,AC Milan,Cesena,1.47,4.31,7.61
+22 Feb 2015,Empoli,Chievo,2.04,3.17,4.24
+22 Feb 2015,Lazio,Palermo,1.65,3.81,5.72
+22 Feb 2015,Verona,AS Roma,4.96,3.69,1.75
+20 Feb 2015,Juventus,Atalanta,1.18,7.00,18.07
+15 Feb 2015,Cesena,Juventus,13.67,5.73,1.26
+15 Feb 2015,Chievo,Sampdoria,2.51,3.03,3.18
+15 Feb 2015,AS Roma,Parma,1.26,5.80,13.25
+15 Feb 2015,Atalanta,Inter,3.52,3.32,2.19
+15 Feb 2015,Genoa,Verona,1.89,3.49,4.37
+15 Feb 2015,Torino,Cagliari,1.81,3.52,4.83
+15 Feb 2015,Udinese,Lazio,3.40,3.22,2.28
+15 Feb 2015,AC Milan,Empoli,1.85,3.52,4.61
+14 Feb 2015,Palermo,Napoli,3.85,3.52,2.00
+14 Feb 2015,Sassuolo,Fiorentina,3.36,3.31,2.27
+11 Feb 2015,Parma,Chievo,2.57,3.14,2.96
+09 Feb 2015,Lazio,Genoa,1.55,4.06,6.65
+08 Feb 2015,Inter,Palermo,1.72,3.75,5.15
+08 Feb 2015,Cagliari,AS Roma,3.84,3.44,2.03
+08 Feb 2015,Empoli,Cesena,1.57,3.93,6.61
+08 Feb 2015,Napoli,Udinese,1.38,4.92,8.75
+08 Feb 2015,Sampdoria,Sassuolo,1.76,3.60,5.17
+08 Feb 2015,Fiorentina,Atalanta,1.49,4.10,7.93
+07 Feb 2015,Juventus,AC Milan,1.37,4.85,9.38
+07 Feb 2015,Verona,Torino,3.00,3.17,2.55
+01 Feb 2015,AC Milan,Parma,1.62,3.88,6.01
+01 Feb 2015,Atalanta,Cagliari,2.12,3.37,3.71
+01 Feb 2015,Cesena,Lazio,7.18,4.06,1.53
+01 Feb 2015,Chievo,Napoli,5.27,3.72,1.73
+01 Feb 2015,Palermo,Verona,1.78,3.76,4.75
+01 Feb 2015,Torino,Sampdoria,2.14,3.17,3.86
+01 Feb 2015,Udinese,Juventus,8.67,4.46,1.43
+01 Feb 2015,Sassuolo,Inter,3.32,3.24,2.34
+31 Jan 2015,AS Roma,Empoli,1.50,4.20,7.72
+31 Jan 2015,Genoa,Fiorentina,3.27,3.37,2.28
+26 Jan 2015,Napoli,Genoa,1.38,5.00,8.86
+26 Jan 2015,Empoli,Udinese,2.01,3.33,4.12
+25 Jan 2015,Fiorentina,AS Roma,2.40,3.27,3.12
+25 Jan 2015,Inter,Torino,1.81,3.46,5.06
+25 Jan 2015,Juventus,Chievo,1.15,7.94,21.47
+25 Jan 2015,Parma,Cesena,1.63,3.81,6.08
+25 Jan 2015,Sampdoria,Palermo,2.06,3.37,3.88
+25 Jan 2015,Verona,Atalanta,2.42,3.24,3.15
+24 Jan 2015,Lazio,AC Milan,1.92,3.47,4.25
+24 Jan 2015,Cagliari,Sassuolo,2.31,3.26,3.31
+18 Jan 2015,Juventus,Verona,1.15,7.99,21.48
+18 Jan 2015,AC Milan,Atalanta,1.60,3.83,6.54
+18 Jan 2015,Cesena,Torino,4.77,3.36,1.88
+18 Jan 2015,Chievo,Fiorentina,4.42,3.39,1.93
+18 Jan 2015,Genoa,Sassuolo,2.15,3.38,3.59
+18 Jan 2015,Parma,Sampdoria,2.79,3.18,2.73
+18 Jan 2015,Udinese,Cagliari,2.03,3.38,3.94
+18 Jan 2015,Lazio,Napoli,2.65,3.30,2.78
+17 Jan 2015,Palermo,AS Roma,3.64,3.38,2.14
+17 Jan 2015,Empoli,Inter,3.50,3.31,2.22
+11 Jan 2015,Napoli,Juventus,3.10,3.18,2.46
+11 Jan 2015,AS Roma,Lazio,2.16,3.28,3.74
+11 Jan 2015,Atalanta,Chievo,2.17,3.17,3.81
+11 Jan 2015,Cagliari,Cesena,1.63,3.80,6.16
+11 Jan 2015,Fiorentina,Palermo,1.64,3.99,5.60
+11 Jan 2015,Sampdoria,Empoli,2.10,3.30,3.85
+11 Jan 2015,Verona,Parma,2.47,3.29,3.03
+11 Jan 2015,Inter,Genoa,1.65,3.79,5.93
+10 Jan 2015,Torino,AC Milan,2.61,3.15,2.97
+10 Jan 2015,Sassuolo,Udinese,2.05,3.29,4.03
+06 Jan 2015,Juventus,Inter,1.43,4.56,8.35
+06 Jan 2015,Cesena,Napoli,9.72,5.05,1.36
+06 Jan 2015,AC Milan,Sassuolo,1.60,4.04,6.17
+06 Jan 2015,Chievo,Torino,2.96,3.02,2.70
+06 Jan 2015,Empoli,Verona,1.87,3.55,4.51
+06 Jan 2015,Genoa,Atalanta,2.15,3.22,3.82
+06 Jan 2015,Palermo,Cagliari,2.12,3.32,3.76
+06 Jan 2015,Parma,Fiorentina,4.21,3.46,1.95
+06 Jan 2015,Udinese,AS Roma,4.56,3.45,1.89
+05 Jan 2015,Lazio,Sampdoria,1.75,3.57,5.33
+21 Dec 2014,Inter,Lazio,2.31,3.23,3.34
+21 Dec 2014,Atalanta,Palermo,2.48,3.18,3.08
+21 Dec 2014,Fiorentina,Empoli,1.51,4.16,7.06
+21 Dec 2014,Sampdoria,Udinese,1.73,3.63,5.37
+21 Dec 2014,Torino,Genoa,1.94,3.42,4.32
+21 Dec 2014,Verona,Chievo,2.34,3.22,3.31
+20 Dec 2014,AS Roma,AC Milan,1.71,3.85,5.22
+20 Dec 2014,Sassuolo,Cesena,1.45,4.27,8.42
+18 Dec 2014,Napoli,Parma,1.35,5.38,8.75
+18 Dec 2014,Cagliari,Juventus,8.65,5.10,1.38
+15 Dec 2014,Chievo,Inter,4.19,3.31,2.01
+15 Dec 2014,Empoli,Torino,2.60,3.16,2.93
+14 Dec 2014,AC Milan,Napoli,2.84,3.27,2.61
+14 Dec 2014,Cesena,Fiorentina,7.59,4.10,1.51
+14 Dec 2014,Genoa,AS Roma,3.75,3.45,2.07
+14 Dec 2014,Parma,Cagliari,2.27,3.40,3.28
+14 Dec 2014,Udinese,Verona,1.85,3.68,4.42
+14 Dec 2014,Juventus,Sampdoria,1.31,5.30,11.78
+13 Dec 2014,Lazio,Atalanta,1.59,3.84,6.62
+13 Dec 2014,Palermo,Sassuolo,1.94,3.44,4.32
+08 Dec 2014,Verona,Sampdoria,2.74,3.31,2.68
+08 Dec 2014,Cagliari,Chievo,1.80,3.58,4.91
+07 Dec 2014,Inter,Udinese,1.58,3.87,6.67
+07 Dec 2014,Atalanta,Cesena,1.62,3.66,6.73
+07 Dec 2014,Genoa,AC Milan,3.04,3.24,2.49
+07 Dec 2014,Parma,Lazio,3.58,3.37,2.15
+07 Dec 2014,Napoli,Empoli,1.38,4.84,9.27
+06 Dec 2014,Torino,Palermo,1.86,3.40,4.77
+06 Dec 2014,AS Roma,Sassuolo,1.40,4.90,8.36
+05 Dec 2014,Fiorentina,Juventus,3.52,3.29,2.23
+01 Dec 2014,Sampdoria,Napoli,3.57,3.23,2.21
+30 Nov 2014,AS Roma,Inter,1.78,3.67,4.78
+30 Nov 2014,Juventus,Torino,1.31,5.22,12.23
+30 Nov 2014,AC Milan,Udinese,1.61,3.96,6.14
+30 Nov 2014,Cagliari,Fiorentina,3.31,3.47,2.22
+30 Nov 2014,Cesena,Genoa,3.72,3.19,2.19
+30 Nov 2014,Empoli,Atalanta,2.14,3.29,3.75
+30 Nov 2014,Palermo,Parma,1.90,3.51,4.44
+29 Nov 2014,Chievo,Lazio,3.93,3.35,2.05
+29 Nov 2014,Sassuolo,Verona,2.06,3.52,3.66
+24 Nov 2014,Genoa,Palermo,2.21,3.30,3.52
+23 Nov 2014,AC Milan,Inter,2.87,3.20,2.61
+23 Nov 2014,Cesena,Sampdoria,4.24,3.34,1.97
+23 Nov 2014,Napoli,Cagliari,1.35,5.27,8.96
+23 Nov 2014,Parma,Empoli,2.15,3.37,3.55
+23 Nov 2014,Udinese,Chievo,1.93,3.38,4.42
+23 Nov 2014,Verona,Fiorentina,3.75,3.40,2.08
+23 Nov 2014,Torino,Sassuolo,1.84,3.46,4.79
+22 Nov 2014,Lazio,Juventus,4.05,3.39,2.01
+22 Nov 2014,Atalanta,AS Roma,5.06,3.48,1.80
+09 Nov 2014,AS Roma,Torino,1.59,3.86,6.33
+09 Nov 2014,Inter,Verona,1.48,4.39,7.11
+09 Nov 2014,Fiorentina,Napoli,2.58,3.29,2.84
+09 Nov 2014,Chievo,Cesena,1.74,3.52,5.43
+09 Nov 2014,Empoli,Lazio,3.79,3.41,2.06
+09 Nov 2014,Juventus,Parma,1.23,6.27,14.92
+09 Nov 2014,Palermo,Udinese,2.06,3.34,3.90
+09 Nov 2014,Cagliari,Genoa,2.02,3.44,3.89
+08 Nov 2014,Sampdoria,AC Milan,2.55,3.25,2.91
+08 Nov 2014,Sassuolo,Atalanta,2.03,3.35,3.91
+03 Nov 2014,Lazio,Cagliari,1.65,4.04,5.36
+03 Nov 2014,Cesena,Verona,3.23,3.18,2.37
+02 Nov 2014,AC Milan,Palermo,1.52,4.11,7.11
+02 Nov 2014,Chievo,Sassuolo,2.44,3.26,3.07
+02 Nov 2014,Sampdoria,Fiorentina,3.56,3.22,2.21
+02 Nov 2014,Torino,Atalanta,1.86,3.39,4.73
+02 Nov 2014,Udinese,Genoa,2.07,3.24,3.99
+01 Nov 2014,Parma,Inter,3.37,3.37,2.22
+01 Nov 2014,Empoli,Juventus,8.66,4.42,1.42
+01 Nov 2014,Napoli,AS Roma,2.17,3.39,3.50
+30 Oct 2014,Verona,Lazio,3.61,3.49,2.08
+29 Oct 2014,AS Roma,Cesena,1.18,7.23,19.31
+29 Oct 2014,Atalanta,Napoli,4.52,3.70,1.81
+29 Oct 2014,Cagliari,AC Milan,3.46,3.44,2.16
+29 Oct 2014,Fiorentina,Udinese,1.62,3.81,6.08
+29 Oct 2014,Genoa,Juventus,8.86,4.29,1.43
+29 Oct 2014,Inter,Sampdoria,1.76,3.55,5.24
+29 Oct 2014,Palermo,Chievo,1.90,3.35,4.60
+29 Oct 2014,Torino,Parma,1.78,3.51,5.03
+28 Oct 2014,Sassuolo,Empoli,2.23,3.31,3.45
+26 Oct 2014,AC Milan,Fiorentina,2.14,3.38,3.60
+26 Oct 2014,Cesena,Inter,6.52,3.77,1.61
+26 Oct 2014,Lazio,Torino,1.79,3.55,4.99
+26 Oct 2014,Napoli,Verona,1.36,5.00,9.38
+26 Oct 2014,Chievo,Genoa,2.54,3.12,3.06
+26 Oct 2014,Juventus,Palermo,1.21,6.35,17.06
+26 Oct 2014,Udinese,Atalanta,2.12,3.22,3.78
+25 Oct 2014,Sampdoria,AS Roma,3.62,3.39,2.13
+25 Oct 2014,Parma,Sassuolo,1.95,3.47,4.18
+25 Oct 2014,Empoli,Cagliari,2.01,3.50,3.88
+20 Oct 2014,Genoa,Empoli,2.14,3.30,3.66
+19 Oct 2014,Inter,Napoli,2.57,3.22,2.88
+19 Oct 2014,Atalanta,Parma,2.45,3.21,3.11
+19 Oct 2014,Cagliari,Sampdoria,2.52,3.31,2.91
+19 Oct 2014,Palermo,Cesena,1.65,3.62,6.32
+19 Oct 2014,Torino,Udinese,2.15,3.31,3.65
+19 Oct 2014,Verona,AC Milan,3.64,3.48,2.09
+19 Oct 2014,Fiorentina,Lazio,2.06,3.31,3.91
+18 Oct 2014,Sassuolo,Juventus,9.37,4.79,1.38
+18 Oct 2014,AS Roma,Chievo,1.30,5.37,11.54
+05 Oct 2014,Fiorentina,Inter,2.33,3.22,3.28
+05 Oct 2014,Napoli,Torino,1.61,3.85,6.13
+05 Oct 2014,Juventus,AS Roma,1.81,3.55,4.81
+05 Oct 2014,Lazio,Sassuolo,1.49,4.27,7.39
+05 Oct 2014,Parma,Genoa,1.92,3.45,4.30
+05 Oct 2014,Sampdoria,Atalanta,1.91,3.37,4.50
+05 Oct 2014,Udinese,Cesena,1.49,4.08,7.73
+05 Oct 2014,Empoli,Palermo,2.32,3.20,3.31
+04 Oct 2014,AC Milan,Chievo,1.46,4.36,7.68
+04 Oct 2014,Verona,Cagliari,2.12,3.40,3.48
+29 Sep 2014,Palermo,Lazio,2.96,3.15,2.58
+29 Sep 2014,Udinese,Parma,2.30,3.24,3.35
+28 Sep 2014,Genoa,Sampdoria,2.94,3.06,2.64
+28 Sep 2014,Cesena,AC Milan,6.47,3.83,1.60
+28 Sep 2014,Chievo,Empoli,2.55,3.13,3.02
+28 Sep 2014,Inter,Cagliari,1.41,4.61,8.58
+28 Sep 2014,Torino,Fiorentina,2.73,3.12,2.82
+28 Sep 2014,Sassuolo,Napoli,5.27,3.82,1.69
+27 Sep 2014,Atalanta,Juventus,7.91,4.15,1.49
+27 Sep 2014,AS Roma,Verona,1.31,5.45,10.53
+25 Sep 2014,Lazio,Udinese,1.77,3.55,5.04
+24 Sep 2014,Cagliari,Torino,2.56,3.21,2.93
+24 Sep 2014,Fiorentina,Sassuolo,1.42,4.55,8.40
+24 Sep 2014,Inter,Atalanta,1.46,4.32,7.90
+24 Sep 2014,Juventus,Cesena,1.13,8.36,23.60
+24 Sep 2014,Napoli,Palermo,1.43,4.58,8.18
+24 Sep 2014,Parma,AS Roma,3.61,3.41,2.12
+24 Sep 2014,Sampdoria,Chievo,1.86,3.38,4.84
+24 Sep 2014,Verona,Genoa,2.15,3.32,3.67
+23 Sep 2014,Empoli,AC Milan,4.05,3.45,1.99
+21 Sep 2014,Palermo,Inter,3.91,3.38,2.03
+21 Sep 2014,Torino,Verona,1.92,3.50,4.26
+21 Sep 2014,Atalanta,Fiorentina,3.57,3.30,2.19
+21 Sep 2014,Udinese,Napoli,3.42,3.33,2.22
+21 Sep 2014,AS Roma,Cagliari,1.31,5.48,10.15
+21 Sep 2014,Genoa,Lazio,3.38,3.23,2.29
+21 Sep 2014,Sassuolo,Sampdoria,2.71,3.29,2.70
+21 Sep 2014,Chievo,Parma,2.91,3.15,2.62
+20 Sep 2014,AC Milan,Juventus,3.30,3.24,2.34
+20 Sep 2014,Cesena,Empoli,2.88,3.10,2.68
+15 Sep 2014,Verona,Palermo,2.07,3.38,3.80
+14 Sep 2014,Parma,AC Milan,2.91,3.30,2.50
+14 Sep 2014,Cagliari,Atalanta,2.16,3.48,3.41
+14 Sep 2014,Fiorentina,Genoa,1.52,4.17,7.06
+14 Sep 2014,Inter,Sassuolo,1.50,4.41,6.86
+14 Sep 2014,Lazio,Cesena,1.35,4.91,10.38
+14 Sep 2014,Napoli,Chievo,1.33,5.04,10.42
+14 Sep 2014,Sampdoria,Torino,2.44,3.15,3.18
+13 Sep 2014,Juventus,Udinese,1.37,4.84,9.40
+13 Sep 2014,Empoli,AS Roma,5.89,3.78,1.63
+31 Aug 2014,Cesena,Parma,5.02,3.47,1.77
+31 Aug 2014,Genoa,Napoli,3.76,3.39,2.03
+31 Aug 2014,Palermo,Sampdoria,2.22,3.21,3.42
+31 Aug 2014,Sassuolo,Cagliari,2.01,3.56,3.65
+31 Aug 2014,Torino,Inter,2.80,3.21,2.62
+31 Aug 2014,Udinese,Empoli,1.74,3.58,5.02
+31 Aug 2014,AC Milan,Lazio,2.07,3.26,3.87
+31 Aug 2014,Atalanta,Verona,2.05,3.38,3.73
+30 Aug 2014,AS Roma,Fiorentina,1.73,3.70,4.99
+30 Aug 2014,Chievo,Juventus,7.28,3.80,1.54

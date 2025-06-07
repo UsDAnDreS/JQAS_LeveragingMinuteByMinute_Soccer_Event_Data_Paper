@@ -1,0 +1,382 @@
+Date,HomeTeam,AwayTeam,HomeBet,DrawBet,AwayBet
+28 May 2017,Lorient,Troyes,1.62,3.94,5.33
+25 May 2017,Troyes,Lorient,2.58,3.18,2.81
+20 May 2017,Angers,Montpellier,1.83,3.85,4.13
+20 May 2017,Guingamp,Metz,1.43,4.79,7.05
+20 May 2017,Lille,Nantes,2.55,3.43,2.74
+20 May 2017,Lorient,Bordeaux,2.26,3.55,3.07
+20 May 2017,Lyon,Nice,1.32,5.94,7.87
+20 May 2017,Marseille,Bastia,1.32,5.54,8.91
+20 May 2017,Nancy,St Etienne,1.80,3.80,4.35
+20 May 2017,PSG,Caen,1.15,8.80,16.04
+20 May 2017,Rennes,Monaco,3.41,3.92,1.99
+20 May 2017,Toulouse,Dijon,2.33,3.17,3.28
+17 May 2017,Monaco,St Etienne,1.15,8.37,15.80
+14 May 2017,Bastia,Lorient,3.60,3.46,2.02
+14 May 2017,Bordeaux,Marseille,2.36,3.46,2.98
+14 May 2017,Caen,Rennes,1.72,3.73,5.07
+14 May 2017,Dijon,Nancy,2.03,3.34,3.74
+14 May 2017,Metz,Toulouse,2.66,3.29,2.73
+14 May 2017,Monaco,Lille,1.13,8.82,17.37
+14 May 2017,Montpellier,Lyon,3.50,3.62,2.01
+14 May 2017,Nantes,Guingamp,2.02,3.39,3.68
+14 May 2017,Nice,Angers,1.69,4.01,4.85
+14 May 2017,St Etienne,PSG,7.40,4.83,1.42
+07 May 2017,Marseille,Nice,1.96,3.64,3.78
+07 May 2017,Lyon,Nantes,1.54,4.46,5.75
+07 May 2017,Rennes,Montpellier,2.22,3.24,3.33
+06 May 2017,Guingamp,Dijon,2.13,3.37,3.36
+06 May 2017,Lille,Metz,1.61,4.17,5.45
+06 May 2017,Lorient,Angers,2.15,3.42,3.29
+06 May 2017,Nancy,Monaco,6.76,4.40,1.49
+06 May 2017,Toulouse,Caen,2.07,3.35,3.57
+06 May 2017,PSG,Bastia,1.07,11.52,30.43
+05 May 2017,St Etienne,Bordeaux,2.59,3.15,2.91
+30 Apr 2017,Nice,PSG,7.03,4.73,1.44
+30 Apr 2017,Dijon,Bordeaux,3.15,3.47,2.21
+30 Apr 2017,Caen,Marseille,3.78,3.67,1.97
+29 Apr 2017,Bastia,Rennes,3.64,3.24,2.11
+29 Apr 2017,Guingamp,St Etienne,2.30,3.17,3.22
+29 Apr 2017,Metz,Nancy,2.55,3.25,2.87
+29 Apr 2017,Montpellier,Lille,2.04,3.39,3.63
+29 Apr 2017,Nantes,Lorient,1.92,3.56,4.07
+29 Apr 2017,Monaco,Toulouse,1.16,7.52,14.80
+28 Apr 2017,Angers,Lyon,3.78,3.62,1.98
+23 Apr 2017,Lyon,Monaco,3.35,3.82,2.06
+23 Apr 2017,St Etienne,Rennes,2.03,3.21,4.14
+23 Apr 2017,Toulouse,Nice,3.03,3.18,2.49
+22 Apr 2017,Bordeaux,Bastia,1.37,4.81,9.02
+22 Apr 2017,Caen,Nantes,2.56,3.15,2.97
+22 Apr 2017,Dijon,Angers,2.28,3.27,3.30
+22 Apr 2017,Lille,Guingamp,2.04,3.35,3.88
+22 Apr 2017,Lorient,Metz,1.69,4.06,4.84
+22 Apr 2017,PSG,Montpellier,1.14,9.06,17.08
+21 Apr 2017,Nancy,Marseille,3.74,3.53,2.03
+18 Apr 2017,Metz,PSG,16.36,8.44,1.15
+16 Apr 2017,Marseille,St Etienne,1.68,3.83,5.24
+16 Apr 2017,Nantes,Bordeaux,2.52,3.18,2.98
+15 Apr 2017,Monaco,Dijon,1.22,6.84,12.56
+15 Apr 2017,Guingamp,Toulouse,2.08,3.30,3.78
+15 Apr 2017,Metz,Caen,2.32,3.26,3.24
+15 Apr 2017,Montpellier,Lorient,1.76,4.00,4.38
+15 Apr 2017,Rennes,Lille,2.32,3.05,3.46
+15 Apr 2017,Nice,Nancy,1.67,3.60,5.89
+14 Apr 2017,Angers,PSG,10.09,5.37,1.31
+09 Apr 2017,PSG,Guingamp,1.14,8.52,19.17
+09 Apr 2017,St Etienne,Nantes,2.10,3.14,3.95
+09 Apr 2017,Toulouse,Marseille,2.92,3.30,2.50
+08 Apr 2017,Bordeaux,Metz,1.42,4.73,7.48
+08 Apr 2017,Caen,Montpellier,2.53,3.24,2.92
+08 Apr 2017,Dijon,Bastia,1.77,3.54,4.97
+08 Apr 2017,Lyon,Lorient,1.30,6.06,9.03
+08 Apr 2017,Nancy,Rennes,2.43,2.99,3.32
+08 Apr 2017,Angers,Monaco,5.28,3.95,1.65
+07 Apr 2017,Lille,Nice,2.68,3.09,2.87
+05 Apr 2017,Metz,Lyon,7.45,5.18,1.39
+02 Apr 2017,Nice,Bordeaux,2.25,3.20,3.39
+02 Apr 2017,Lorient,Caen,2.14,3.42,3.48
+02 Apr 2017,Montpellier,Toulouse,2.17,3.34,3.47
+02 Apr 2017,Nantes,Angers,2.22,3.18,3.56
+02 Apr 2017,Rennes,Lyon,4.12,3.72,1.87
+01 Apr 2017,Bastia,Lille,3.21,3.01,2.48
+01 Apr 2017,Marseille,Dijon,1.38,5.08,8.09
+31 Mar 2017,Guingamp,Nancy,1.74,3.66,5.08
+19 Mar 2017,PSG,Lyon,1.44,4.83,6.91
+19 Mar 2017,Dijon,St Etienne,2.85,3.14,2.66
+19 Mar 2017,Caen,Monaco,4.86,3.96,1.70
+18 Mar 2017,Angers,Guingamp,2.22,3.15,3.58
+18 Mar 2017,Bordeaux,Montpellier,1.83,3.65,4.36
+18 Mar 2017,Nancy,Lorient,2.14,3.32,3.61
+18 Mar 2017,Toulouse,Rennes,2.20,3.10,3.67
+18 Mar 2017,Nantes,Nice,2.48,3.09,3.12
+17 Mar 2017,Lille,Marseille,2.93,3.23,2.54
+17 Mar 2017,Metz,Bastia,1.86,3.49,4.46
+12 Mar 2017,Lorient,PSG,11.37,6.06,1.26
+12 Mar 2017,Lyon,Toulouse,1.43,4.84,7.26
+12 Mar 2017,St Etienne,Metz,1.60,3.83,6.31
+11 Mar 2017,Guingamp,Bastia,1.62,3.75,6.16
+11 Mar 2017,Montpellier,Nantes,1.99,3.32,4.14
+11 Mar 2017,Nancy,Lille,2.79,2.94,2.88
+11 Mar 2017,Rennes,Dijon,1.74,3.62,5.17
+11 Mar 2017,Monaco,Bordeaux,1.45,4.61,7.05
+10 Mar 2017,Marseille,Angers,1.73,3.67,5.16
+10 Mar 2017,Nice,Caen,1.70,3.67,5.45
+05 Mar 2017,Monaco,Nantes,1.35,5.07,9.32
+05 Mar 2017,Toulouse,Lille,2.09,3.11,4.08
+05 Mar 2017,Lorient,Marseille,3.12,3.41,2.32
+04 Mar 2017,Bastia,St Etienne,3.10,3.01,2.55
+04 Mar 2017,Caen,Angers,2.41,3.08,3.26
+04 Mar 2017,Dijon,Nice,3.58,3.34,2.14
+04 Mar 2017,Metz,Rennes,2.96,3.08,2.61
+04 Mar 2017,Montpellier,Guingamp,1.93,3.49,4.17
+04 Mar 2017,PSG,Nancy,1.12,9.08,22.94
+03 Mar 2017,Bordeaux,Lyon,3.34,3.56,2.15
+01 Mar 2017,Bastia,Nantes,3.07,2.99,2.59
+26 Feb 2017,Marseille,PSG,5.28,4.05,1.64
+26 Feb 2017,Lyon,Metz,1.22,6.94,12.28
+26 Feb 2017,St Etienne,Caen,1.89,3.31,4.69
+25 Feb 2017,Angers,Bastia,1.86,3.29,4.91
+25 Feb 2017,Lille,Bordeaux,2.49,3.05,3.17
+25 Feb 2017,Nancy,Toulouse,2.72,2.94,2.95
+25 Feb 2017,Rennes,Lorient,2.05,3.32,3.87
+25 Feb 2017,Guingamp,Monaco,4.22,3.70,1.85
+24 Feb 2017,Nice,Montpellier,2.01,3.37,3.97
+24 Feb 2017,Nantes,Dijon,1.73,3.67,5.13
+21 Feb 2017,Caen,Nancy,2.19,3.15,3.67
+19 Feb 2017,PSG,Toulouse,1.18,7.19,15.77
+19 Feb 2017,Lyon,Dijon,1.34,5.40,8.83
+19 Feb 2017,Montpellier,St Etienne,2.21,3.26,3.48
+19 Feb 2017,Bordeaux,Guingamp,1.94,3.39,4.25
+18 Feb 2017,Angers,Nancy,2.06,3.08,4.21
+18 Feb 2017,Caen,Lille,2.52,3.05,3.08
+18 Feb 2017,Lorient,Nice,2.79,3.29,2.61
+18 Feb 2017,Metz,Nantes,3.15,3.08,2.47
+18 Feb 2017,Marseille,Rennes,1.75,3.60,5.07
+17 Feb 2017,Bastia,Monaco,7.12,4.55,1.45
+12 Feb 2017,Nantes,Marseille,3.05,3.19,2.47
+12 Feb 2017,St Etienne,Lorient,1.74,3.60,5.10
+12 Feb 2017,Rennes,Nice,2.84,3.01,2.76
+11 Feb 2017,Dijon,Caen,2.20,3.30,3.47
+11 Feb 2017,Lille,Angers,2.13,3.05,4.06
+11 Feb 2017,Monaco,Metz,1.29,5.84,10.03
+11 Feb 2017,Nancy,Montpellier,2.54,3.16,2.97
+11 Feb 2017,Toulouse,Bastia,1.72,3.46,5.69
+11 Feb 2017,Guingamp,Lyon,3.47,3.48,2.13
+10 Feb 2017,Bordeaux,PSG,5.45,4.02,1.63
+08 Feb 2017,Marseille,Guingamp,1.65,3.87,5.48
+08 Feb 2017,Angers,Rennes,2.40,2.97,3.41
+08 Feb 2017,Lorient,Toulouse,2.23,3.32,3.37
+08 Feb 2017,Lyon,Nancy,1.38,4.88,8.46
+08 Feb 2017,Nice,St Etienne,2.03,3.24,4.11
+08 Feb 2017,Metz,Dijon,2.49,3.28,2.94
+07 Feb 2017,PSG,Lille,1.24,6.16,13.43
+07 Feb 2017,Caen,Bordeaux,2.62,3.21,2.83
+07 Feb 2017,Montpellier,Monaco,4.02,3.72,1.89
+05 Feb 2017,St Etienne,Lyon,3.60,3.43,2.10
+05 Feb 2017,Nantes,Nancy,2.02,3.12,4.32
+05 Feb 2017,Toulouse,Angers,2.19,3.04,3.83
+04 Feb 2017,Bordeaux,Rennes,1.87,3.31,4.80
+04 Feb 2017,Dijon,PSG,9.15,5.12,1.35
+04 Feb 2017,Guingamp,Caen,2.02,3.36,3.93
+04 Feb 2017,Lille,Lorient,1.83,3.55,4.61
+04 Feb 2017,Montpellier,Bastia,1.87,3.51,4.45
+04 Feb 2017,Monaco,Nice,1.57,4.18,5.84
+03 Feb 2017,Metz,Marseille,3.97,3.56,1.95
+29 Jan 2017,PSG,Monaco,1.52,4.53,5.97
+29 Jan 2017,Toulouse,St Etienne,2.27,3.02,3.63
+29 Jan 2017,Nice,Guingamp,2.00,3.37,4.02
+28 Jan 2017,Angers,Metz,1.99,3.19,4.35
+28 Jan 2017,Bastia,Caen,2.34,3.06,3.42
+28 Jan 2017,Lorient,Dijon,1.94,3.64,3.86
+28 Jan 2017,Nancy,Bordeaux,2.62,3.00,3.01
+28 Jan 2017,Rennes,Nantes,2.32,2.98,3.57
+28 Jan 2017,Lyon,Lille,1.45,4.47,7.35
+27 Jan 2017,Marseille,Montpellier,1.67,3.85,5.34
+22 Jan 2017,Lyon,Marseille,1.71,3.84,5.00
+22 Jan 2017,St Etienne,Angers,1.87,3.26,4.88
+22 Jan 2017,Monaco,Lorient,1.31,5.73,9.61
+21 Jan 2017,Bordeaux,Toulouse,2.05,3.22,4.02
+21 Jan 2017,Dijon,Lille,3.14,3.07,2.49
+21 Jan 2017,Guingamp,Rennes,2.10,3.21,3.86
+21 Jan 2017,Metz,Montpellier,2.90,3.26,2.53
+21 Jan 2017,Nantes,PSG,9.03,4.63,1.39
+20 Jan 2017,Bastia,Nice,3.19,3.03,2.49
+18 Jan 2017,Nantes,Caen,2.20,3.22,3.56
+15 Jan 2017,Marseille,Monaco,2.77,3.36,2.60
+15 Jan 2017,Caen,Lyon,4.62,3.98,1.73
+15 Jan 2017,Nice,Metz,1.50,4.18,7.15
+14 Jan 2017,Angers,Bordeaux,2.89,3.06,2.69
+14 Jan 2017,Lorient,Guingamp,2.39,3.31,3.09
+14 Jan 2017,Montpellier,Dijon,1.78,3.67,4.76
+14 Jan 2017,Nancy,Bastia,1.99,3.15,4.46
+14 Jan 2017,Toulouse,Nantes,2.14,3.05,3.97
+14 Jan 2017,Rennes,PSG,8.45,4.72,1.40
+13 Jan 2017,Lille,St Etienne,2.05,3.12,4.21
+21 Dec 2016,Bastia,Marseille,3.74,3.17,2.12
+21 Dec 2016,Dijon,Toulouse,2.32,3.12,3.30
+21 Dec 2016,Metz,Guingamp,3.10,3.20,2.38
+21 Dec 2016,Monaco,Caen,1.32,5.41,9.40
+21 Dec 2016,Nantes,Montpellier,2.47,3.12,3.02
+21 Dec 2016,PSG,Lorient,1.19,7.03,14.43
+21 Dec 2016,Bordeaux,Nice,2.47,3.27,2.91
+21 Dec 2016,Lille,Rennes,2.13,3.18,3.68
+21 Dec 2016,Lyon,Angers,1.40,4.69,7.71
+21 Dec 2016,St Etienne,Nancy,2.35,2.97,3.44
+18 Dec 2016,Monaco,Lyon,1.80,3.90,4.22
+18 Dec 2016,Marseille,Lille,1.95,3.29,4.25
+18 Dec 2016,Nice,Dijon,1.60,4.07,5.74
+18 Dec 2016,Caen,Metz,1.97,3.39,4.13
+17 Dec 2016,Lorient,St Etienne,2.51,3.20,2.98
+17 Dec 2016,Montpellier,Bordeaux,2.32,3.22,3.28
+17 Dec 2016,Rennes,Bastia,1.71,3.52,5.60
+17 Dec 2016,Toulouse,Nancy,2.01,3.11,4.39
+17 Dec 2016,Guingamp,PSG,6.50,4.09,1.54
+16 Dec 2016,Angers,Nantes,2.40,2.95,3.44
+11 Dec 2016,PSG,Nice,1.35,5.20,8.89
+11 Dec 2016,St Etienne,Guingamp,2.07,3.14,4.08
+11 Dec 2016,Lyon,Rennes,1.51,4.34,6.54
+10 Dec 2016,Bastia,Metz,1.87,3.36,4.66
+10 Dec 2016,Lille,Montpellier,1.97,3.25,4.36
+10 Dec 2016,Nancy,Angers,2.46,2.92,3.34
+10 Dec 2016,Toulouse,Lorient,2.04,3.31,3.92
+10 Dec 2016,Bordeaux,Monaco,3.58,3.36,2.14
+10 Dec 2016,Dijon,Marseille,3.02,3.32,2.42
+04 Dec 2016,Nice,Toulouse,1.81,3.44,4.91
+04 Dec 2016,Marseille,Nancy,1.77,3.44,5.15
+04 Dec 2016,Rennes,St Etienne,2.52,3.00,3.14
+03 Dec 2016,Angers,Lorient,2.07,3.25,3.89
+03 Dec 2016,Bordeaux,Lille,2.35,3.06,3.38
+03 Dec 2016,Guingamp,Nantes,2.18,3.07,3.79
+03 Dec 2016,Monaco,Bastia,1.34,5.18,9.45
+03 Dec 2016,Montpellier,PSG,7.10,4.38,1.47
+02 Dec 2016,Caen,Dijon,2.14,3.31,3.58
+30 Nov 2016,PSG,Angers,1.21,6.54,14.92
+30 Nov 2016,Bastia,Bordeaux,3.08,2.98,2.54
+30 Nov 2016,Guingamp,Nice,2.57,3.15,2.94
+30 Nov 2016,Nancy,Metz,2.07,3.19,3.90
+30 Nov 2016,Nantes,Lyon,3.75,3.28,2.11
+30 Nov 2016,St Etienne,Marseille,2.14,3.17,3.80
+30 Nov 2016,Toulouse,Montpellier,2.26,3.24,3.39
+29 Nov 2016,Dijon,Monaco,5.18,4.09,1.65
+29 Nov 2016,Lille,Caen,1.77,3.43,5.37
+29 Nov 2016,Lorient,Rennes,2.66,3.19,2.79
+27 Nov 2016,Lyon,PSG,3.70,3.43,2.06
+27 Nov 2016,Nice,Bastia,1.64,3.76,5.90
+27 Nov 2016,Angers,St Etienne,2.60,2.86,3.17
+26 Nov 2016,Bordeaux,Dijon,1.62,3.89,5.79
+26 Nov 2016,Caen,Guingamp,2.37,3.10,3.30
+26 Nov 2016,Metz,Lorient,2.54,3.22,2.91
+26 Nov 2016,Montpellier,Nancy,1.85,3.50,4.52
+26 Nov 2016,Nantes,Lille,2.44,2.96,3.33
+26 Nov 2016,Monaco,Marseille,1.66,3.89,5.41
+25 Nov 2016,Rennes,Toulouse,2.40,3.14,3.22
+20 Nov 2016,St Etienne,Nice,2.21,3.21,3.53
+20 Nov 2016,Marseille,Caen,1.77,3.68,4.78
+20 Nov 2016,Guingamp,Bordeaux,2.53,3.14,3.01
+19 Nov 2016,Bastia,Montpellier,2.88,3.11,2.64
+19 Nov 2016,Nancy,Dijon,2.09,3.23,3.86
+19 Nov 2016,Rennes,Angers,2.40,3.02,3.39
+19 Nov 2016,Toulouse,Metz,1.52,4.13,6.86
+19 Nov 2016,PSG,Nantes,1.22,6.36,14.42
+18 Nov 2016,Lille,Lyon,3.04,3.17,2.49
+18 Nov 2016,Lorient,Monaco,3.86,3.65,1.95
+06 Nov 2016,PSG,Rennes,1.23,6.54,13.04
+06 Nov 2016,Metz,St Etienne,3.57,3.24,2.19
+06 Nov 2016,Caen,Nice,3.00,3.32,2.44
+05 Nov 2016,Angers,Lille,2.42,2.93,3.44
+05 Nov 2016,Bordeaux,Lorient,1.75,3.64,5.09
+05 Nov 2016,Dijon,Guingamp,2.58,3.10,3.03
+05 Nov 2016,Lyon,Bastia,1.41,4.66,8.49
+05 Nov 2016,Nantes,Toulouse,2.60,2.98,3.09
+05 Nov 2016,Monaco,Nancy,1.47,4.26,7.72
+04 Nov 2016,Montpellier,Marseille,2.58,3.19,2.91
+30 Oct 2016,Marseille,Bordeaux,2.15,3.27,3.64
+30 Oct 2016,Rennes,Metz,1.60,3.87,6.15
+30 Oct 2016,Nice,Nantes,1.94,3.31,4.39
+29 Oct 2016,Bastia,Dijon,2.24,3.08,3.62
+29 Oct 2016,Guingamp,Angers,2.31,3.07,3.46
+29 Oct 2016,Lorient,Montpellier,2.06,3.43,3.70
+29 Oct 2016,Nancy,Caen,2.06,3.16,4.09
+29 Oct 2016,St Etienne,Monaco,2.57,3.17,2.92
+29 Oct 2016,Toulouse,Lyon,2.67,3.28,2.72
+28 Oct 2016,Lille,PSG,6.41,3.96,1.57
+23 Oct 2016,PSG,Marseille,1.29,5.72,10.89
+23 Oct 2016,Metz,Nice,3.31,3.32,2.26
+23 Oct 2016,Caen,St Etienne,2.65,3.07,2.86
+22 Oct 2016,Angers,Toulouse,2.62,2.97,3.06
+22 Oct 2016,Bordeaux,Nancy,1.78,3.40,5.31
+22 Oct 2016,Dijon,Lorient,2.23,3.27,3.42
+22 Oct 2016,Lille,Bastia,1.83,3.28,5.18
+22 Oct 2016,Nantes,Rennes,2.35,3.04,3.42
+22 Oct 2016,Lyon,Guingamp,1.46,4.41,7.37
+21 Oct 2016,Monaco,Montpellier,1.62,3.98,5.69
+16 Oct 2016,Marseille,Metz,1.41,4.87,7.70
+16 Oct 2016,St Etienne,Dijon,1.75,3.47,5.41
+16 Oct 2016,Rennes,Bordeaux,2.55,3.15,2.99
+15 Oct 2016,Bastia,Angers,2.62,2.83,3.24
+15 Oct 2016,Guingamp,Lille,2.78,2.94,2.88
+15 Oct 2016,Lorient,Nantes,2.64,3.03,2.97
+15 Oct 2016,Montpellier,Caen,2.02,3.36,3.94
+15 Oct 2016,Nancy,PSG,8.31,4.42,1.43
+14 Oct 2016,Nice,Lyon,2.88,3.39,2.48
+14 Oct 2016,Toulouse,Monaco,2.80,3.17,2.70
+02 Oct 2016,Lyon,St Etienne,1.83,3.57,4.56
+02 Oct 2016,Nice,Lorient,1.69,3.73,5.36
+02 Oct 2016,Angers,Marseille,2.70,3.09,2.83
+01 Oct 2016,Caen,Toulouse,2.74,3.15,2.75
+01 Oct 2016,Dijon,Montpellier,2.50,3.14,3.04
+01 Oct 2016,Lille,Nancy,1.80,3.33,5.25
+01 Oct 2016,Metz,Monaco,4.68,3.73,1.78
+01 Oct 2016,Nantes,Bastia,1.98,3.14,4.52
+01 Oct 2016,PSG,Bordeaux,1.27,5.82,11.38
+30 Sep 2016,Rennes,Guingamp,2.11,3.19,3.89
+25 Sep 2016,Marseille,Nantes,2.11,3.19,3.88
+25 Sep 2016,Nancy,Nice,2.48,3.14,3.09
+25 Sep 2016,St Etienne,Lille,2.42,3.00,3.35
+24 Sep 2016,Bastia,Guingamp,2.53,2.91,3.29
+24 Sep 2016,Bordeaux,Caen,1.77,3.68,4.82
+24 Sep 2016,Dijon,Rennes,2.53,3.10,3.04
+24 Sep 2016,Monaco,Angers,1.74,3.58,5.26
+24 Sep 2016,Montpellier,Metz,1.62,3.90,5.92
+24 Sep 2016,Lorient,Lyon,3.91,3.43,2.01
+23 Sep 2016,Toulouse,PSG,7.28,4.44,1.47
+21 Sep 2016,Rennes,Marseille,2.32,3.25,3.25
+21 Sep 2016,Angers,Caen,2.21,3.16,3.62
+21 Sep 2016,Bastia,Nancy,2.28,2.98,3.67
+21 Sep 2016,Guingamp,Lorient,1.97,3.39,4.08
+21 Sep 2016,Lyon,Montpellier,1.69,3.82,5.18
+21 Sep 2016,Metz,Bordeaux,3.15,3.26,2.35
+21 Sep 2016,Nantes,St Etienne,2.68,2.93,2.99
+21 Sep 2016,Nice,Monaco,3.40,3.29,2.23
+20 Sep 2016,PSG,Dijon,1.11,9.49,23.16
+20 Sep 2016,Lille,Toulouse,2.23,3.07,3.66
+18 Sep 2016,Marseille,Lyon,2.59,3.29,2.82
+18 Sep 2016,St Etienne,Bastia,1.73,3.43,5.65
+18 Sep 2016,Montpellier,Nice,2.16,3.34,3.52
+17 Sep 2016,Bordeaux,Angers,1.79,3.44,5.09
+17 Sep 2016,Dijon,Metz,1.96,3.43,4.03
+17 Sep 2016,Lorient,Lille,3.51,3.17,2.23
+17 Sep 2016,Nancy,Nantes,2.30,2.96,3.65
+17 Sep 2016,Toulouse,Guingamp,2.11,3.26,3.77
+17 Sep 2016,Monaco,Rennes,1.78,3.57,4.84
+16 Sep 2016,Caen,PSG,7.59,4.78,1.42
+11 Sep 2016,Nice,Marseille,2.18,3.28,3.53
+11 Sep 2016,Rennes,Caen,2.04,3.35,3.86
+11 Sep 2016,Nantes,Metz,1.72,3.43,5.71
+10 Sep 2016,Angers,Dijon,2.27,3.04,3.61
+10 Sep 2016,Bastia,Toulouse,2.89,2.92,2.78
+10 Sep 2016,Guingamp,Montpellier,2.38,3.14,3.24
+10 Sep 2016,Lille,Monaco,2.40,3.04,3.29
+10 Sep 2016,Lorient,Nancy,2.43,3.14,3.16
+10 Sep 2016,Lyon,Bordeaux,1.61,4.14,5.44
+09 Sep 2016,PSG,St Etienne,1.36,4.99,9.13
+28 Aug 2016,Monaco,PSG,4.55,3.71,1.80
+28 Aug 2016,St Etienne,Toulouse,2.19,3.12,3.72
+28 Aug 2016,Bordeaux,Nantes,2.10,3.10,4.05
+27 Aug 2016,Caen,Bastia,2.23,3.07,3.67
+27 Aug 2016,Metz,Angers,2.61,2.99,3.05
+27 Aug 2016,Montpellier,Rennes,2.11,3.20,3.87
+27 Aug 2016,Nancy,Guingamp,2.03,3.27,4.07
+27 Aug 2016,Nice,Lille,2.63,2.90,3.12
+27 Aug 2016,Dijon,Lyon,4.88,3.67,1.75
+26 Aug 2016,Marseille,Lorient,1.79,3.63,4.69
+21 Aug 2016,PSG,Metz,1.11,9.62,26.26
+21 Aug 2016,St Etienne,Montpellier,2.34,3.03,3.47
+21 Aug 2016,Guingamp,Marseille,2.86,3.12,2.68
+20 Aug 2016,Angers,Nice,2.60,2.84,3.20
+20 Aug 2016,Lille,Dijon,1.75,3.36,5.64
+20 Aug 2016,Lorient,Bastia,2.14,3.09,3.89
+20 Aug 2016,Rennes,Nancy,2.03,3.27,4.02
+20 Aug 2016,Toulouse,Bordeaux,2.58,3.09,2.98
+20 Aug 2016,Nantes,Monaco,2.42,2.98,3.35
+19 Aug 2016,Lyon,Caen,1.39,4.98,8.26
+14 Aug 2016,Marseille,Toulouse,2.05,3.24,3.95
+14 Aug 2016,Nice,Rennes,2.40,3.10,3.26
+14 Aug 2016,Nancy,Lyon,3.08,3.26,2.42
+13 Aug 2016,Caen,Lorient,2.31,3.23,3.27
+13 Aug 2016,Dijon,Nantes,2.54,2.98,3.14
+13 Aug 2016,Metz,Lille,3.66,3.08,2.23
+13 Aug 2016,Montpellier,Angers,1.86,3.20,5.07
+13 Aug 2016,Bordeaux,St Etienne,2.38,3.04,3.38
+12 Aug 2016,Monaco,Guingamp,1.68,3.71,5.50
+12 Aug 2016,Bastia,PSG,10.72,4.93,1.34

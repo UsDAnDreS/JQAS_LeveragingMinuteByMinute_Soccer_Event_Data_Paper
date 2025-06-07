@@ -1,0 +1,382 @@
+Date,HomeTeam,AwayTeam,HomeBet,DrawBet,AwayBet
+11 Jun 2023,Spezia,Verona,2.81,2.85,3.02
+04 Jun 2023,AC Milan,Verona,1.69,3.94,5.18
+04 Jun 2023,AS Roma,Spezia,1.79,3.71,4.75
+04 Jun 2023,Atalanta,Monza,1.52,4.67,5.73
+04 Jun 2023,Lecce,Bologna,2.65,3.41,2.73
+04 Jun 2023,Udinese,Juventus,5.14,4.12,1.66
+04 Jun 2023,Napoli,Sampdoria,1.09,11.33,23.66
+03 Jun 2023,Cremonese,Salernitana,2.70,3.47,2.62
+03 Jun 2023,Empoli,Lazio,4.03,3.81,1.90
+03 Jun 2023,Torino,Inter,2.57,3.49,2.75
+02 Jun 2023,Sassuolo,Fiorentina,2.54,3.65,2.69
+28 May 2023,Juventus,AC Milan,2.47,3.31,3.02
+28 May 2023,Lazio,Cremonese,1.23,6.79,12.30
+28 May 2023,Bologna,Napoli,3.92,3.53,1.99
+28 May 2023,Monza,Lecce,2.25,3.26,3.47
+28 May 2023,Verona,Empoli,1.93,3.63,4.06
+27 May 2023,Inter,Atalanta,1.87,3.80,4.16
+27 May 2023,Fiorentina,AS Roma,2.25,3.30,3.38
+27 May 2023,Salernitana,Udinese,2.82,3.41,2.56
+27 May 2023,Spezia,Torino,2.52,3.18,3.07
+26 May 2023,Sampdoria,Sassuolo,4.00,4.01,1.85
+22 May 2023,Empoli,Juventus,5.11,3.65,1.77
+22 May 2023,AS Roma,Salernitana,1.54,4.08,6.99
+21 May 2023,Udinese,Lazio,3.94,3.61,1.98
+21 May 2023,Napoli,Inter,2.04,3.61,3.74
+21 May 2023,Torino,Fiorentina,2.12,3.28,3.86
+21 May 2023,Lecce,Spezia,2.04,3.27,4.24
+20 May 2023,AC Milan,Sampdoria,1.14,9.08,20.70
+20 May 2023,Atalanta,Verona,1.47,4.70,7.10
+20 May 2023,Cremonese,Bologna,3.79,3.53,2.05
+19 May 2023,Sassuolo,Monza,2.12,3.68,3.42
+15 May 2023,Sampdoria,Empoli,3.72,3.41,2.12
+14 May 2023,Juventus,Cremonese,1.36,5.12,9.64
+14 May 2023,Bologna,AS Roma,2.68,3.11,2.95
+14 May 2023,Fiorentina,Udinese,1.85,3.76,4.40
+14 May 2023,Monza,Napoli,3.44,3.43,2.21
+14 May 2023,Verona,Torino,2.57,3.06,3.15
+13 May 2023,Inter,Sassuolo,1.47,4.83,6.76
+13 May 2023,Spezia,AC Milan,4.44,3.54,1.88
+13 May 2023,Salernitana,Atalanta,4.81,4.22,1.69
+12 May 2023,Lazio,Lecce,1.69,3.69,5.83
+08 May 2023,Sassuolo,Bologna,2.46,3.48,2.94
+08 May 2023,Empoli,Salernitana,2.23,2.99,3.97
+08 May 2023,Udinese,Sampdoria,1.52,4.44,6.59
+07 May 2023,Lecce,Verona,2.13,3.11,4.14
+07 May 2023,Napoli,Fiorentina,1.84,3.70,4.52
+07 May 2023,Torino,Monza,2.06,3.31,4.07
+07 May 2023,Atalanta,Juventus,2.41,3.39,3.11
+06 May 2023,Cremonese,Spezia,2.54,3.36,2.93
+06 May 2023,AS Roma,Inter,3.32,3.15,2.42
+06 May 2023,AC Milan,Lazio,1.87,3.56,4.64
+04 May 2023,Empoli,Bologna,2.80,3.11,2.82
+04 May 2023,Udinese,Napoli,6.15,3.92,1.62
+03 May 2023,AC Milan,Cremonese,1.35,5.16,9.77
+03 May 2023,Lazio,Sassuolo,1.67,4.18,5.16
+03 May 2023,Monza,AS Roma,4.07,3.23,2.09
+03 May 2023,Verona,Inter,5.84,4.02,1.62
+03 May 2023,Atalanta,Spezia,1.39,5.25,7.94
+03 May 2023,Juventus,Lecce,1.57,3.84,7.20
+03 May 2023,Salernitana,Fiorentina,4.44,3.75,1.82
+03 May 2023,Sampdoria,Torino,4.89,3.50,1.84
+30 Apr 2023,Bologna,Juventus,3.79,3.16,2.20
+30 Apr 2023,Fiorentina,Sampdoria,1.35,5.40,8.87
+30 Apr 2023,Cremonese,Verona,3.31,3.15,2.42
+30 Apr 2023,Napoli,Salernitana,1.20,7.24,14.86
+30 Apr 2023,Sassuolo,Empoli,2.09,3.51,3.68
+30 Apr 2023,Inter,Lazio,1.83,3.57,4.83
+29 Apr 2023,Torino,Atalanta,3.36,3.24,2.33
+29 Apr 2023,AS Roma,AC Milan,2.80,2.94,2.95
+28 Apr 2023,Spezia,Monza,2.82,3.30,2.67
+28 Apr 2023,Lecce,Udinese,2.21,3.14,3.80
+24 Apr 2023,Atalanta,AS Roma,2.44,3.23,3.17
+23 Apr 2023,Juventus,Napoli,3.08,3.06,2.58
+23 Apr 2023,AC Milan,Lecce,1.56,3.99,7.00
+23 Apr 2023,Monza,Fiorentina,3.65,3.37,2.16
+23 Apr 2023,Udinese,Cremonese,1.74,3.87,5.01
+23 Apr 2023,Empoli,Inter,6.00,4.08,1.61
+22 Apr 2023,Sampdoria,Spezia,2.79,3.24,2.73
+22 Apr 2023,Lazio,Torino,1.92,3.29,4.66
+22 Apr 2023,Salernitana,Sassuolo,3.29,3.57,2.22
+21 Apr 2023,Verona,Bologna,2.81,2.95,2.92
+17 Apr 2023,Fiorentina,Atalanta,2.35,3.45,3.14
+16 Apr 2023,AS Roma,Udinese,1.90,3.28,4.89
+16 Apr 2023,Sassuolo,Juventus,3.39,3.46,2.21
+16 Apr 2023,Torino,Salernitana,1.62,3.89,6.18
+16 Apr 2023,Lecce,Sampdoria,1.76,3.52,5.52
+15 Apr 2023,Inter,Monza,1.45,4.57,7.89
+15 Apr 2023,Napoli,Verona,1.49,4.27,7.65
+15 Apr 2023,Bologna,AC Milan,3.00,3.02,2.70
+14 Apr 2023,Spezia,Lazio,4.89,3.57,1.82
+14 Apr 2023,Cremonese,Empoli,2.29,3.35,3.32
+08 Apr 2023,Lazio,Juventus,2.91,2.94,2.86
+08 Apr 2023,Torino,AS Roma,3.44,2.89,2.52
+08 Apr 2023,Verona,Sassuolo,2.47,3.32,3.04
+08 Apr 2023,Atalanta,Bologna,1.66,3.98,5.44
+08 Apr 2023,Sampdoria,Cremonese,2.26,3.30,3.43
+08 Apr 2023,Fiorentina,Spezia,1.42,4.82,7.99
+08 Apr 2023,Udinese,Monza,1.94,3.53,4.29
+07 Apr 2023,AC Milan,Empoli,1.39,4.85,9.14
+07 Apr 2023,Lecce,Napoli,6.24,3.62,1.67
+07 Apr 2023,Salernitana,Inter,6.68,4.41,1.52
+03 Apr 2023,Sassuolo,Torino,2.49,3.29,3.04
+03 Apr 2023,Empoli,Lecce,2.64,2.96,3.07
+02 Apr 2023,Napoli,AC Milan,1.99,3.38,4.23
+02 Apr 2023,AS Roma,Sampdoria,1.35,4.93,10.47
+02 Apr 2023,Monza,Lazio,3.77,3.27,2.16
+02 Apr 2023,Spezia,Salernitana,2.42,3.19,3.24
+02 Apr 2023,Bologna,Udinese,2.26,3.32,3.39
+01 Apr 2023,Juventus,Verona,1.57,3.83,7.14
+01 Apr 2023,Inter,Fiorentina,1.84,3.61,4.63
+01 Apr 2023,Cremonese,Atalanta,6.11,4.16,1.57
+19 Mar 2023,Inter,Juventus,2.04,3.31,4.09
+19 Mar 2023,Lazio,AS Roma,3.13,2.83,2.75
+19 Mar 2023,Fiorentina,Lecce,1.61,3.86,6.32
+19 Mar 2023,Torino,Napoli,4.94,3.50,1.82
+19 Mar 2023,Sampdoria,Verona,3.02,3.09,2.62
+18 Mar 2023,Udinese,AC Milan,3.78,3.35,2.09
+18 Mar 2023,Salernitana,Bologna,3.60,3.22,2.24
+18 Mar 2023,Monza,Cremonese,1.97,3.43,4.22
+17 Mar 2023,Atalanta,Empoli,1.43,4.94,7.67
+17 Mar 2023,Sassuolo,Spezia,1.78,3.85,4.62
+13 Mar 2023,AC Milan,Salernitana,1.26,6.08,13.08
+12 Mar 2023,Juventus,Sampdoria,1.36,4.84,10.53
+12 Mar 2023,AS Roma,Sassuolo,1.72,3.67,5.43
+12 Mar 2023,Cremonese,Fiorentina,4.90,3.76,1.78
+12 Mar 2023,Verona,Monza,2.54,3.16,3.09
+12 Mar 2023,Lecce,Torino,2.87,2.86,2.98
+11 Mar 2023,Bologna,Lazio,3.38,2.94,2.48
+11 Mar 2023,Napoli,Atalanta,1.70,3.87,5.20
+11 Mar 2023,Empoli,Udinese,3.00,3.39,2.46
+10 Mar 2023,Spezia,Inter,8.18,4.72,1.41
+06 Mar 2023,Torino,Bologna,2.35,2.97,3.61
+06 Mar 2023,Sassuolo,Cremonese,1.88,3.58,4.37
+05 Mar 2023,AS Roma,Juventus,2.90,2.93,2.85
+05 Mar 2023,Inter,Lecce,1.39,4.81,9.00
+05 Mar 2023,Sampdoria,Salernitana,2.27,3.24,3.47
+05 Mar 2023,Spezia,Verona,2.52,3.12,3.13
+04 Mar 2023,Fiorentina,AC Milan,2.78,3.23,2.72
+04 Mar 2023,Atalanta,Udinese,1.71,4.06,4.88
+04 Mar 2023,Monza,Empoli,1.99,3.47,4.10
+03 Mar 2023,Napoli,Lazio,1.63,3.94,5.84
+28 Feb 2023,Juventus,Torino,1.74,3.50,5.75
+28 Feb 2023,Cremonese,AS Roma,5.54,3.55,1.75
+27 Feb 2023,Lazio,Sampdoria,1.42,4.57,9.27
+27 Feb 2023,Verona,Fiorentina,3.51,3.27,2.26
+26 Feb 2023,AC Milan,Atalanta,2.21,3.36,3.46
+26 Feb 2023,Udinese,Spezia,1.77,3.82,4.88
+26 Feb 2023,Salernitana,Monza,3.76,3.42,2.10
+26 Feb 2023,Bologna,Inter,5.11,3.83,1.73
+25 Feb 2023,Lecce,Sassuolo,2.57,3.16,3.06
+25 Feb 2023,Empoli,Napoli,7.20,4.70,1.46
+20 Feb 2023,Torino,Cremonese,1.68,3.67,5.94
+19 Feb 2023,AS Roma,Verona,1.78,3.41,5.53
+19 Feb 2023,Spezia,Juventus,5.76,3.88,1.66
+19 Feb 2023,Fiorentina,Empoli,1.66,4.03,5.42
+19 Feb 2023,Salernitana,Lazio,5.06,3.68,1.76
+19 Feb 2023,Atalanta,Lecce,1.46,4.50,7.58
+18 Feb 2023,Inter,Udinese,1.44,4.73,7.63
+18 Feb 2023,Monza,AC Milan,3.57,3.35,2.20
+18 Feb 2023,Sampdoria,Bologna,3.56,3.21,2.27
+17 Feb 2023,Sassuolo,Napoli,5.47,4.12,1.64
+13 Feb 2023,Sampdoria,Inter,9.39,4.90,1.38
+13 Feb 2023,Verona,Salernitana,1.80,3.62,4.91
+12 Feb 2023,Napoli,Cremonese,1.19,7.13,17.10
+12 Feb 2023,Juventus,Fiorentina,1.78,3.57,5.21
+12 Feb 2023,Bologna,Monza,2.34,3.23,3.33
+12 Feb 2023,Udinese,Sassuolo,2.04,3.50,3.80
+11 Feb 2023,Lazio,Atalanta,2.24,3.32,3.46
+11 Feb 2023,Lecce,AS Roma,4.24,3.19,2.06
+11 Feb 2023,Empoli,Spezia,2.03,3.48,3.94
+10 Feb 2023,AC Milan,Torino,1.75,3.65,5.24
+07 Feb 2023,Salernitana,Juventus,6.71,4.27,1.53
+06 Feb 2023,Monza,Sampdoria,1.82,3.51,4.94
+06 Feb 2023,Verona,Lazio,4.38,3.47,1.93
+05 Feb 2023,Inter,AC Milan,1.98,3.41,4.23
+05 Feb 2023,Fiorentina,Bologna,1.82,3.68,4.62
+05 Feb 2023,Torino,Udinese,2.47,3.13,3.19
+05 Feb 2023,Spezia,Napoli,8.43,5.04,1.39
+04 Feb 2023,Sassuolo,Atalanta,3.90,3.86,1.90
+04 Feb 2023,AS Roma,Empoli,1.50,4.29,7.13
+04 Feb 2023,Cremonese,Lecce,2.75,3.04,2.91
+30 Jan 2023,Udinese,Verona,1.91,3.43,4.50
+29 Jan 2023,Napoli,AS Roma,1.77,3.63,5.17
+29 Jan 2023,Lazio,Fiorentina,2.02,3.41,4.02
+29 Jan 2023,Juventus,Monza,1.65,3.90,5.72
+29 Jan 2023,AC Milan,Sassuolo,1.48,4.75,6.71
+28 Jan 2023,Atalanta,Sampdoria,1.33,5.46,9.58
+28 Jan 2023,Cremonese,Inter,7.82,4.62,1.45
+28 Jan 2023,Empoli,Torino,3.14,3.09,2.54
+27 Jan 2023,Lecce,Salernitana,1.82,3.59,4.83
+27 Jan 2023,Bologna,Spezia,1.89,3.42,4.68
+24 Jan 2023,Lazio,AC Milan,2.86,3.30,2.59
+23 Jan 2023,Inter,Empoli,1.28,5.94,11.68
+23 Jan 2023,Bologna,Cremonese,1.79,3.50,5.20
+22 Jan 2023,Juventus,Atalanta,2.17,3.34,3.61
+22 Jan 2023,Spezia,AS Roma,5.50,3.48,1.77
+22 Jan 2023,Monza,Sassuolo,2.16,3.48,3.51
+22 Jan 2023,Sampdoria,Udinese,3.33,3.31,2.30
+21 Jan 2023,Fiorentina,Torino,1.90,3.44,4.55
+21 Jan 2023,Salernitana,Napoli,9.53,5.69,1.32
+21 Jan 2023,Verona,Lecce,2.28,3.06,3.69
+16 Jan 2023,Empoli,Sampdoria,2.14,3.29,3.82
+15 Jan 2023,AS Roma,Fiorentina,2.16,3.30,3.70
+15 Jan 2023,Atalanta,Salernitana,1.33,5.54,9.70
+15 Jan 2023,Torino,Spezia,1.74,3.63,5.24
+15 Jan 2023,Udinese,Bologna,1.92,3.49,4.38
+15 Jan 2023,Sassuolo,Lazio,3.75,3.81,1.98
+14 Jan 2023,Inter,Verona,1.35,5.30,9.00
+14 Jan 2023,Lecce,AC Milan,5.18,3.76,1.73
+14 Jan 2023,Cremonese,Monza,2.83,3.11,2.77
+13 Jan 2023,Napoli,Juventus,2.07,3.34,3.87
+09 Jan 2023,Bologna,Atalanta,3.50,3.32,2.22
+09 Jan 2023,Verona,Cremonese,2.24,3.22,3.53
+08 Jan 2023,AC Milan,AS Roma,1.85,3.66,4.38
+08 Jan 2023,Sampdoria,Napoli,7.31,4.52,1.47
+08 Jan 2023,Lazio,Empoli,1.52,4.39,6.58
+08 Jan 2023,Spezia,Lecce,2.40,3.13,3.32
+08 Jan 2023,Salernitana,Torino,3.91,3.31,2.09
+07 Jan 2023,Monza,Inter,5.90,4.24,1.57
+07 Jan 2023,Juventus,Udinese,1.72,3.74,5.25
+07 Jan 2023,Fiorentina,Sassuolo,1.81,3.92,4.35
+04 Jan 2023,Inter,Napoli,2.38,3.43,3.10
+04 Jan 2023,Udinese,Empoli,1.70,3.96,5.17
+04 Jan 2023,Cremonese,Juventus,4.89,3.59,1.81
+04 Jan 2023,Fiorentina,Monza,1.84,3.71,4.50
+04 Jan 2023,AS Roma,Bologna,1.69,3.71,5.71
+04 Jan 2023,Lecce,Lazio,3.85,3.34,2.09
+04 Jan 2023,Spezia,Atalanta,4.76,3.93,1.73
+04 Jan 2023,Torino,Verona,1.65,3.83,5.96
+04 Jan 2023,Salernitana,AC Milan,8.43,4.96,1.40
+04 Jan 2023,Sassuolo,Sampdoria,1.74,3.88,4.92
+13 Nov 2022,Juventus,Lazio,1.89,3.38,4.64
+13 Nov 2022,AC Milan,Fiorentina,1.66,3.96,5.37
+13 Nov 2022,AS Roma,Torino,1.84,3.37,5.08
+13 Nov 2022,Monza,Salernitana,1.99,3.43,4.06
+13 Nov 2022,Verona,Spezia,1.99,3.61,3.84
+13 Nov 2022,Atalanta,Inter,2.95,3.63,2.36
+12 Nov 2022,Bologna,Sassuolo,2.28,3.41,3.27
+12 Nov 2022,Sampdoria,Lecce,3.00,2.84,2.84
+12 Nov 2022,Napoli,Udinese,1.50,4.73,6.14
+11 Nov 2022,Empoli,Cremonese,2.56,3.26,2.93
+10 Nov 2022,Lazio,Monza,1.70,3.80,5.28
+10 Nov 2022,Verona,Juventus,5.81,3.95,1.63
+09 Nov 2022,Fiorentina,Salernitana,1.55,4.31,6.13
+09 Nov 2022,Inter,Bologna,1.41,5.08,7.33
+09 Nov 2022,Torino,Sampdoria,1.67,3.57,6.12
+09 Nov 2022,Lecce,Atalanta,3.54,3.21,2.24
+09 Nov 2022,Sassuolo,AS Roma,3.35,3.55,2.16
+08 Nov 2022,Cremonese,AC Milan,6.40,4.09,1.57
+08 Nov 2022,Spezia,Udinese,3.88,3.56,2.00
+08 Nov 2022,Napoli,Empoli,1.28,6.26,9.96
+06 Nov 2022,Juventus,Inter,3.13,3.29,2.41
+06 Nov 2022,AS Roma,Lazio,2.14,3.34,3.69
+06 Nov 2022,Monza,Verona,2.19,3.47,3.44
+06 Nov 2022,Sampdoria,Fiorentina,4.38,3.53,1.90
+06 Nov 2022,Bologna,Torino,3.07,3.10,2.53
+05 Nov 2022,AC Milan,Spezia,1.22,6.68,13.35
+05 Nov 2022,Atalanta,Napoli,3.28,3.60,2.20
+05 Nov 2022,Empoli,Sassuolo,3.23,3.56,2.24
+05 Nov 2022,Salernitana,Cremonese,2.22,3.46,3.36
+04 Nov 2022,Udinese,Lecce,1.64,3.88,5.78
+31 Oct 2022,Monza,Bologna,2.36,3.24,3.27
+31 Oct 2022,Verona,AS Roma,4.41,3.63,1.87
+30 Oct 2022,Torino,AC Milan,3.89,3.33,2.08
+30 Oct 2022,Lazio,Salernitana,1.51,4.43,6.56
+30 Oct 2022,Cremonese,Udinese,3.92,3.78,1.93
+30 Oct 2022,Spezia,Fiorentina,4.21,3.59,1.91
+30 Oct 2022,Empoli,Atalanta,4.70,3.93,1.75
+29 Oct 2022,Inter,Sampdoria,1.22,6.91,13.81
+29 Oct 2022,Lecce,Juventus,3.83,3.21,2.15
+29 Oct 2022,Napoli,Sassuolo,1.28,6.32,9.83
+24 Oct 2022,Sassuolo,Verona,2.20,3.58,3.30
+24 Oct 2022,Cremonese,Sampdoria,2.24,3.33,3.44
+23 Oct 2022,AS Roma,Napoli,3.20,3.47,2.29
+23 Oct 2022,Atalanta,Lazio,2.04,3.59,3.67
+23 Oct 2022,Bologna,Lecce,2.20,3.16,3.74
+23 Oct 2022,Udinese,Torino,1.97,3.40,4.22
+22 Oct 2022,Fiorentina,Inter,3.38,3.43,2.21
+22 Oct 2022,AC Milan,Monza,1.47,4.55,6.99
+22 Oct 2022,Salernitana,Spezia,2.16,3.38,3.59
+21 Oct 2022,Juventus,Empoli,1.38,5.11,8.20
+17 Oct 2022,Lecce,Fiorentina,3.79,3.31,2.11
+17 Oct 2022,Sampdoria,AS Roma,5.39,3.83,1.68
+16 Oct 2022,Verona,AC Milan,6.50,4.31,1.53
+16 Oct 2022,Napoli,Bologna,1.26,6.12,11.82
+16 Oct 2022,Lazio,Udinese,2.30,3.62,3.07
+16 Oct 2022,Spezia,Cremonese,2.48,3.20,3.09
+16 Oct 2022,Inter,Salernitana,1.30,6.19,9.53
+15 Oct 2022,Atalanta,Sassuolo,1.65,4.08,5.35
+15 Oct 2022,Torino,Juventus,3.08,3.00,2.63
+15 Oct 2022,Empoli,Monza,2.74,3.30,2.71
+10 Oct 2022,Fiorentina,Lazio,2.38,3.48,3.00
+09 Oct 2022,AS Roma,Lecce,1.49,4.37,7.16
+09 Oct 2022,Cremonese,Napoli,6.88,4.78,1.46
+09 Oct 2022,Monza,Spezia,1.97,3.58,4.00
+09 Oct 2022,Salernitana,Verona,2.55,3.36,2.86
+09 Oct 2022,Udinese,Atalanta,2.45,3.44,2.92
+09 Oct 2022,Torino,Empoli,1.68,3.96,5.26
+08 Oct 2022,Bologna,Sampdoria,2.10,3.32,3.81
+08 Oct 2022,AC Milan,Juventus,2.15,3.33,3.67
+08 Oct 2022,Sassuolo,Inter,4.30,4.08,1.78
+03 Oct 2022,Verona,Udinese,3.51,3.49,2.14
+02 Oct 2022,Juventus,Bologna,1.53,4.19,6.71
+02 Oct 2022,Atalanta,Fiorentina,2.10,3.46,3.65
+02 Oct 2022,Lecce,Cremonese,2.05,3.42,3.86
+02 Oct 2022,Sampdoria,Monza,2.46,3.24,3.11
+02 Oct 2022,Sassuolo,Salernitana,2.09,3.62,3.53
+02 Oct 2022,Lazio,Spezia,1.42,5.00,7.15
+01 Oct 2022,Empoli,AC Milan,5.71,4.24,1.58
+01 Oct 2022,Inter,AS Roma,2.12,3.46,3.64
+01 Oct 2022,Napoli,Torino,1.64,3.90,5.83
+18 Sep 2022,AC Milan,Napoli,2.33,3.21,3.30
+18 Sep 2022,AS Roma,Atalanta,2.11,3.49,3.61
+18 Sep 2022,Cremonese,Lazio,4.07,3.77,1.89
+18 Sep 2022,Fiorentina,Verona,1.85,3.69,4.39
+18 Sep 2022,Monza,Juventus,4.23,3.76,1.86
+18 Sep 2022,Udinese,Inter,3.75,3.64,1.99
+17 Sep 2022,Torino,Sassuolo,1.82,3.61,4.58
+17 Sep 2022,Spezia,Sampdoria,2.63,3.21,2.87
+17 Sep 2022,Bologna,Empoli,2.13,3.52,3.45
+16 Sep 2022,Salernitana,Lecce,2.25,3.32,3.42
+12 Sep 2022,Empoli,AS Roma,5.06,3.84,1.72
+11 Sep 2022,Juventus,Salernitana,1.54,4.13,6.65
+11 Sep 2022,Lazio,Verona,1.63,4.24,5.24
+11 Sep 2022,Bologna,Fiorentina,3.37,3.37,2.25
+11 Sep 2022,Lecce,Monza,2.45,3.26,3.07
+11 Sep 2022,Sassuolo,Udinese,2.69,3.46,2.64
+11 Sep 2022,Atalanta,Cremonese,1.38,5.25,8.15
+10 Sep 2022,Sampdoria,AC Milan,6.72,4.43,1.50
+10 Sep 2022,Inter,Torino,1.56,4.40,5.86
+10 Sep 2022,Napoli,Spezia,1.29,6.03,9.94
+05 Sep 2022,Torino,Lecce,1.70,3.72,5.53
+05 Sep 2022,Monza,Atalanta,4.31,3.87,1.81
+05 Sep 2022,Salernitana,Empoli,2.37,3.38,3.10
+04 Sep 2022,Udinese,AS Roma,3.93,3.43,2.04
+04 Sep 2022,Verona,Sampdoria,2.26,3.36,3.35
+04 Sep 2022,Spezia,Bologna,3.16,3.25,2.41
+04 Sep 2022,Cremonese,Sassuolo,2.71,3.55,2.58
+03 Sep 2022,Lazio,Napoli,2.80,3.52,2.53
+03 Sep 2022,AC Milan,Inter,2.73,3.22,2.78
+03 Sep 2022,Fiorentina,Juventus,3.05,3.13,2.54
+01 Sep 2022,Atalanta,Torino,1.87,3.70,4.27
+01 Sep 2022,Bologna,Salernitana,2.12,3.40,3.66
+31 Aug 2022,Juventus,Spezia,1.30,5.62,10.84
+31 Aug 2022,Napoli,Lecce,1.28,6.03,10.96
+31 Aug 2022,Empoli,Verona,2.74,3.33,2.69
+31 Aug 2022,Sampdoria,Lazio,4.15,3.72,1.88
+31 Aug 2022,Udinese,Fiorentina,2.34,3.45,3.12
+30 Aug 2022,AS Roma,Monza,1.34,5.52,9.18
+30 Aug 2022,Inter,Cremonese,1.16,8.21,16.68
+30 Aug 2022,Sassuolo,AC Milan,5.25,4.26,1.63
+28 Aug 2022,Fiorentina,Napoli,3.33,3.57,2.19
+28 Aug 2022,Lecce,Empoli,2.30,3.40,3.23
+28 Aug 2022,Salernitana,Sampdoria,2.48,3.18,3.12
+28 Aug 2022,Verona,Atalanta,3.87,3.94,1.91
+27 Aug 2022,AC Milan,Bologna,1.34,5.51,8.90
+27 Aug 2022,Spezia,Sassuolo,3.17,3.59,2.26
+27 Aug 2022,Cremonese,Torino,3.60,3.42,2.14
+27 Aug 2022,Juventus,AS Roma,2.46,3.18,3.15
+26 Aug 2022,Lazio,Inter,4.05,3.77,1.89
+26 Aug 2022,Monza,Udinese,3.08,3.49,2.34
+22 Aug 2022,Sampdoria,Juventus,5.58,3.91,1.66
+22 Aug 2022,AS Roma,Cremonese,1.24,6.65,11.76
+21 Aug 2022,Atalanta,AC Milan,2.88,3.52,2.46
+21 Aug 2022,Bologna,Verona,2.09,3.47,3.66
+21 Aug 2022,Empoli,Fiorentina,3.21,3.63,2.22
+21 Aug 2022,Napoli,Monza,1.30,6.12,9.56
+20 Aug 2022,Inter,Spezia,1.13,9.27,19.99
+20 Aug 2022,Sassuolo,Lecce,1.83,4.11,3.99
+20 Aug 2022,Torino,Lazio,2.92,3.38,2.50
+20 Aug 2022,Udinese,Salernitana,1.67,4.08,5.05
+15 Aug 2022,Juventus,Sassuolo,1.49,4.80,6.31
+15 Aug 2022,Verona,Napoli,3.76,3.67,2.01
+14 Aug 2022,Salernitana,AS Roma,6.65,4.64,1.49
+14 Aug 2022,Spezia,Empoli,2.46,3.42,2.95
+14 Aug 2022,Fiorentina,Cremonese,1.59,4.30,5.74
+14 Aug 2022,Lazio,Bologna,1.70,4.03,4.91
+13 Aug 2022,Lecce,Inter,8.50,5.40,1.36
+13 Aug 2022,Monza,Torino,2.64,3.20,2.88
+13 Aug 2022,AC Milan,Udinese,1.48,4.64,6.89
+13 Aug 2022,Sampdoria,Atalanta,5.32,4.06,1.66

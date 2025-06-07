@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,HomeBet,DrawBet,AwayBet
+04 Jun 2023,Betis,Valencia,2.96,3.25,2.52
+04 Jun 2023,Celta Vigo,Barcelona,2.79,3.59,2.50
+04 Jun 2023,Elche,Cadiz CF,2.59,3.29,2.89
+04 Jun 2023,Espanyol,Almeria,2.42,3.73,2.79
+04 Jun 2023,Valladolid,Getafe,2.04,3.25,4.12
+04 Jun 2023,Mallorca,Rayo Vallecano,3.11,3.25,2.45
+04 Jun 2023,Osasuna,Girona,2.09,3.67,3.45
+04 Jun 2023,Real Madrid,Ath Bilbao,1.68,4.18,4.69
+04 Jun 2023,Real Sociedad,Sevilla,1.59,4.22,5.78
+04 Jun 2023,Villarreal,Atl. Madrid,2.74,3.80,2.44
+28 May 2023,Almeria,Valladolid,2.23,3.47,3.33
+28 May 2023,Ath Bilbao,Elche,1.39,5.10,8.23
+28 May 2023,Atl. Madrid,Real Sociedad,2.28,3.17,3.55
+28 May 2023,Barcelona,Mallorca,1.25,6.17,12.14
+28 May 2023,Cadiz CF,Celta Vigo,2.59,3.04,3.12
+28 May 2023,Getafe,Osasuna,2.47,2.84,3.54
+28 May 2023,Girona,Betis,2.02,3.56,3.83
+28 May 2023,Rayo Vallecano,Villarreal,3.10,3.80,2.22
+28 May 2023,Valencia,Espanyol,2.04,3.53,3.72
+27 May 2023,Sevilla,Real Madrid,3.18,3.55,2.27
+25 May 2023,Osasuna,Ath Bilbao,3.25,3.30,2.36
+25 May 2023,Mallorca,Valencia,3.10,2.95,2.66
+24 May 2023,Betis,Getafe,2.29,3.00,3.73
+24 May 2023,Espanyol,Atl. Madrid,3.09,3.57,2.31
+24 May 2023,Elche,Sevilla,3.58,3.49,2.11
+24 May 2023,Real Madrid,Rayo Vallecano,1.40,5.08,7.55
+24 May 2023,Villarreal,Cadiz CF,1.50,4.64,6.21
+23 May 2023,Valladolid,Barcelona,3.78,3.83,1.95
+23 May 2023,Celta Vigo,Girona,2.11,3.44,3.66
+23 May 2023,Real Sociedad,Almeria,1.39,5.05,8.34
+21 May 2023,Sevilla,Betis,2.12,3.54,3.60
+21 May 2023,Valencia,Real Madrid,3.31,3.66,2.18
+21 May 2023,Atl. Madrid,Osasuna,1.49,4.69,6.74
+21 May 2023,Rayo Vallecano,Espanyol,1.88,3.66,4.36
+20 May 2023,Barcelona,Real Sociedad,1.74,3.89,5.01
+20 May 2023,Almeria,Mallorca,2.28,3.33,3.40
+20 May 2023,Getafe,Elche,1.66,3.71,6.03
+20 May 2023,Ath Bilbao,Celta Vigo,1.67,3.86,5.59
+20 May 2023,Girona,Villarreal,2.61,3.83,2.57
+19 May 2023,Cadiz CF,Valladolid,2.18,3.46,3.48
+15 May 2023,Betis,Rayo Vallecano,2.13,3.44,3.65
+14 May 2023,Espanyol,Barcelona,6.18,4.50,1.54
+14 May 2023,Valladolid,Sevilla,2.51,3.38,2.95
+14 May 2023,Elche,Atl. Madrid,7.49,5.03,1.42
+14 May 2023,Celta Vigo,Valencia,2.28,3.33,3.40
+13 May 2023,Real Madrid,Getafe,1.61,3.99,6.08
+13 May 2023,Villarreal,Ath Bilbao,2.13,3.65,3.38
+13 May 2023,Osasuna,Almeria,1.90,3.79,4.11
+13 May 2023,Real Sociedad,Girona,1.63,3.90,6.16
+12 May 2023,Mallorca,Cadiz CF,2.21,2.93,4.10
+04 May 2023,Ath Bilbao,Betis,1.65,3.92,5.73
+04 May 2023,Rayo Vallecano,Valladolid,1.96,3.61,4.06
+04 May 2023,Girona,Mallorca,1.93,3.33,4.67
+04 May 2023,Sevilla,Espanyol,1.84,3.72,4.51
+03 May 2023,Atl. Madrid,Cadiz CF,1.30,5.89,11.08
+03 May 2023,Getafe,Celta Vigo,2.78,2.93,2.97
+03 May 2023,Valencia,Villarreal,2.59,3.38,2.85
+02 May 2023,Real Sociedad,Real Madrid,2.43,3.18,3.25
+02 May 2023,Almeria,Elche,1.72,4.07,4.79
+02 May 2023,Barcelona,Osasuna,1.17,7.83,17.59
+01 May 2023,Sevilla,Girona,1.92,3.61,4.28
+01 May 2023,Mallorca,Ath Bilbao,3.37,2.84,2.58
+30 Apr 2023,Valladolid,Atl. Madrid,5.17,3.95,1.69
+30 Apr 2023,Espanyol,Getafe,2.45,2.97,3.41
+30 Apr 2023,Villarreal,Celta Vigo,1.66,4.03,5.40
+30 Apr 2023,Cadiz CF,Valencia,3.14,2.96,2.62
+29 Apr 2023,Barcelona,Betis,1.39,5.16,8.17
+29 Apr 2023,Real Madrid,Almeria,1.14,9.29,18.14
+29 Apr 2023,Elche,Rayo Vallecano,4.04,3.44,2.01
+28 Apr 2023,Osasuna,Real Sociedad,3.83,3.01,2.27
+27 Apr 2023,Ath Bilbao,Sevilla,1.83,3.62,4.78
+27 Apr 2023,Valencia,Valladolid,1.72,3.87,5.16
+27 Apr 2023,Villarreal,Espanyol,1.56,4.42,6.01
+26 Apr 2023,Celta Vigo,Elche,1.37,5.15,8.92
+26 Apr 2023,Rayo Vallecano,Barcelona,5.09,3.90,1.72
+26 Apr 2023,Atl. Madrid,Mallorca,1.35,4.85,11.53
+26 Apr 2023,Getafe,Almeria,1.85,3.51,4.73
+25 Apr 2023,Betis,Real Sociedad,2.87,3.16,2.70
+25 Apr 2023,Cadiz CF,Osasuna,2.13,3.19,3.98
+25 Apr 2023,Girona,Real Madrid,5.15,4.30,1.64
+23 Apr 2023,Sevilla,Villarreal,2.97,3.38,2.49
+23 Apr 2023,Mallorca,Getafe,2.64,2.65,3.60
+23 Apr 2023,Barcelona,Atl. Madrid,1.98,3.44,4.20
+23 Apr 2023,Elche,Valencia,4.39,3.60,1.89
+22 Apr 2023,Real Madrid,Celta Vigo,1.28,6.13,10.94
+22 Apr 2023,Real Sociedad,Rayo Vallecano,1.68,3.71,5.92
+22 Apr 2023,Valladolid,Girona,2.54,3.41,2.88
+22 Apr 2023,Almeria,Ath Bilbao,4.96,3.97,1.72
+22 Apr 2023,Osasuna,Betis,2.46,3.15,3.23
+21 Apr 2023,Espanyol,Cadiz CF,2.17,3.23,3.78
+17 Apr 2023,Celta Vigo,Mallorca,1.81,3.35,5.47
+16 Apr 2023,Valencia,Sevilla,2.12,3.35,3.79
+16 Apr 2023,Atl. Madrid,Almeria,1.22,7.18,13.64
+16 Apr 2023,Getafe,Barcelona,5.37,3.61,1.75
+16 Apr 2023,Girona,Elche,1.44,4.85,7.16
+15 Apr 2023,Cadiz CF,Real Madrid,6.05,4.25,1.58
+15 Apr 2023,Betis,Espanyol,2.02,3.38,4.12
+15 Apr 2023,Ath Bilbao,Real Sociedad,2.23,3.06,3.86
+15 Apr 2023,Villarreal,Valladolid,1.48,4.74,6.57
+14 Apr 2023,Rayo Vallecano,Osasuna,2.07,3.18,4.18
+10 Apr 2023,Barcelona,Girona,1.33,5.68,9.30
+09 Apr 2023,Rayo Vallecano,Atl. Madrid,4.83,3.52,1.84
+09 Apr 2023,Almeria,Valencia,3.43,3.44,2.21
+09 Apr 2023,Betis,Cadiz CF,1.67,3.76,5.85
+09 Apr 2023,Valladolid,Mallorca,2.56,2.92,3.34
+08 Apr 2023,Real Madrid,Villarreal,1.50,4.81,6.26
+08 Apr 2023,Real Sociedad,Getafe,1.75,3.39,6.01
+08 Apr 2023,Espanyol,Ath Bilbao,4.09,3.23,2.09
+08 Apr 2023,Osasuna,Elche,1.81,3.58,5.02
+07 Apr 2023,Sevilla,Celta Vigo,2.33,3.28,3.34
+03 Apr 2023,Valencia,Rayo Vallecano,2.07,3.28,4.04
+02 Apr 2023,Atl. Madrid,Betis,1.40,4.70,9.16
+02 Apr 2023,Villarreal,Real Sociedad,2.59,3.11,3.08
+02 Apr 2023,Real Madrid,Valladolid,1.19,8.13,14.17
+02 Apr 2023,Celta Vigo,Almeria,1.52,4.50,6.58
+01 Apr 2023,Elche,Barcelona,10.84,5.40,1.32
+01 Apr 2023,Cadiz CF,Sevilla,3.47,3.10,2.34
+01 Apr 2023,Ath Bilbao,Getafe,1.71,3.51,5.99
+01 Apr 2023,Girona,Espanyol,1.92,3.49,4.45
+31 Mar 2023,Mallorca,Osasuna,2.18,2.86,4.47
+19 Mar 2023,Barcelona,Real Madrid,2.26,3.49,3.30
+19 Mar 2023,Getafe,Sevilla,2.79,3.00,2.93
+19 Mar 2023,Osasuna,Villarreal,3.05,3.18,2.56
+19 Mar 2023,Real Sociedad,Elche,1.41,4.56,9.10
+19 Mar 2023,Betis,Mallorca,2.00,3.13,4.55
+18 Mar 2023,Atl. Madrid,Valencia,1.51,4.17,7.53
+18 Mar 2023,Espanyol,Celta Vigo,3.02,3.07,2.65
+18 Mar 2023,Rayo Vallecano,Girona,2.05,3.39,3.97
+18 Mar 2023,Almeria,Cadiz CF,2.07,3.40,3.82
+17 Mar 2023,Valladolid,Ath Bilbao,4.22,3.59,1.93
+13 Mar 2023,Girona,Atl. Madrid,3.82,3.48,2.06
+12 Mar 2023,Ath Bilbao,Barcelona,3.71,3.37,2.13
+12 Mar 2023,Villarreal,Betis,1.69,4.01,5.12
+12 Mar 2023,Sevilla,Almeria,1.64,4.13,5.44
+12 Mar 2023,Mallorca,Real Sociedad,3.81,2.78,2.42
+11 Mar 2023,Valencia,Osasuna,2.05,3.20,4.17
+11 Mar 2023,Celta Vigo,Rayo Vallecano,2.07,3.32,3.92
+11 Mar 2023,Elche,Valladolid,2.57,3.27,2.90
+11 Mar 2023,Real Madrid,Espanyol,1.23,6.26,14.16
+10 Mar 2023,Cadiz CF,Getafe,2.51,2.85,3.53
+06 Mar 2023,Osasuna,Celta Vigo,2.63,3.13,2.96
+05 Mar 2023,Betis,Real Madrid,4.84,3.95,1.73
+05 Mar 2023,Rayo Vallecano,Ath Bilbao,2.86,3.06,2.78
+05 Mar 2023,Barcelona,Valencia,1.35,5.17,9.66
+05 Mar 2023,Valladolid,Espanyol,2.31,3.25,3.37
+04 Mar 2023,Atl. Madrid,Sevilla,1.64,3.80,6.09
+04 Mar 2023,Mallorca,Elche,1.68,3.48,6.44
+04 Mar 2023,Almeria,Villarreal,3.34,3.58,2.19
+04 Mar 2023,Getafe,Girona,2.74,2.97,2.98
+03 Mar 2023,Real Sociedad,Cadiz CF,1.53,3.91,7.64
+27 Feb 2023,Villarreal,Getafe,1.73,3.50,5.96
+26 Feb 2023,Sevilla,Osasuna,1.73,3.66,5.51
+26 Feb 2023,Almeria,Barcelona,7.02,4.85,1.46
+26 Feb 2023,Celta Vigo,Valladolid,1.71,3.95,5.16
+26 Feb 2023,Ath Bilbao,Girona,1.67,3.92,5.61
+25 Feb 2023,Valencia,Real Sociedad,3.34,3.11,2.43
+25 Feb 2023,Real Madrid,Atl. Madrid,1.83,3.54,4.88
+25 Feb 2023,Cadiz CF,Rayo Vallecano,3.02,2.99,2.73
+25 Feb 2023,Espanyol,Mallorca,2.58,2.86,3.35
+24 Feb 2023,Elche,Betis,3.73,3.51,2.05
+20 Feb 2023,Getafe,Valencia,3.28,2.85,2.65
+19 Feb 2023,Barcelona,Cadiz CF,1.24,6.39,13.51
+19 Feb 2023,Atl. Madrid,Ath Bilbao,1.98,3.35,4.38
+19 Feb 2023,Rayo Vallecano,Sevilla,2.39,3.16,3.36
+19 Feb 2023,Elche,Espanyol,2.71,3.02,2.99
+18 Feb 2023,Osasuna,Real Madrid,5.53,3.82,1.69
+18 Feb 2023,Mallorca,Villarreal,3.25,2.93,2.60
+18 Feb 2023,Betis,Valladolid,1.67,4.01,5.38
+18 Feb 2023,Real Sociedad,Celta Vigo,1.82,3.44,5.16
+17 Feb 2023,Girona,Almeria,1.87,3.71,4.34
+15 Feb 2023,Real Madrid,Elche,1.21,6.88,14.58
+13 Feb 2023,Espanyol,Real Sociedad,4.03,3.08,2.16
+12 Feb 2023,Villarreal,Barcelona,4.73,3.73,1.80
+12 Feb 2023,Valladolid,Osasuna,2.44,3.15,3.23
+12 Feb 2023,Celta Vigo,Atl. Madrid,3.72,3.19,2.20
+12 Feb 2023,Getafe,Rayo Vallecano,3.24,2.86,2.64
+11 Feb 2023,Valencia,Ath Bilbao,3.21,3.24,2.40
+11 Feb 2023,Sevilla,Mallorca,1.90,3.20,5.05
+11 Feb 2023,Almeria,Betis,2.93,3.34,2.52
+10 Feb 2023,Cadiz CF,Girona,3.13,3.11,2.55
+06 Feb 2023,Rayo Vallecano,Almeria,1.91,3.49,4.44
+05 Feb 2023,Barcelona,Sevilla,1.32,5.52,10.15
+05 Feb 2023,Real Sociedad,Valladolid,1.49,4.29,7.60
+05 Feb 2023,Girona,Valencia,2.33,3.31,3.30
+05 Feb 2023,Mallorca,Real Madrid,5.16,3.56,1.78
+04 Feb 2023,Betis,Celta Vigo,2.09,3.28,3.92
+04 Feb 2023,Atl. Madrid,Getafe,1.46,4.14,9.01
+04 Feb 2023,Elche,Villarreal,5.26,3.95,1.68
+04 Feb 2023,Espanyol,Osasuna,2.76,3.08,2.87
+03 Feb 2023,Ath Bilbao,Cadiz CF,1.39,4.63,9.56
+02 Feb 2023,Real Madrid,Valencia,1.39,5.07,8.46
+01 Feb 2023,Betis,Barcelona,4.88,3.78,1.76
+30 Jan 2023,Villarreal,Rayo Vallecano,1.76,3.73,4.97
+29 Jan 2023,Real Madrid,Real Sociedad,1.74,3.85,5.05
+29 Jan 2023,Celta Vigo,Ath Bilbao,3.22,2.97,2.58
+29 Jan 2023,Osasuna,Atl. Madrid,4.27,3.17,2.06
+29 Jan 2023,Valladolid,Valencia,3.19,3.21,2.44
+28 Jan 2023,Getafe,Betis,3.14,2.84,2.75
+28 Jan 2023,Sevilla,Elche,1.53,4.12,7.16
+28 Jan 2023,Girona,Barcelona,5.69,4.36,1.58
+28 Jan 2023,Cadiz CF,Mallorca,2.91,2.72,3.11
+27 Jan 2023,Almeria,Espanyol,2.48,3.15,3.20
+23 Jan 2023,Valencia,Almeria,1.62,4.12,5.75
+22 Jan 2023,Ath Bilbao,Real Madrid,2.97,3.39,2.48
+22 Jan 2023,Barcelona,Getafe,1.25,6.13,14.50
+22 Jan 2023,Elche,Osasuna,3.09,3.13,2.55
+22 Jan 2023,Villarreal,Girona,1.75,4.00,4.67
+21 Jan 2023,Sevilla,Cadiz CF,1.78,3.59,5.13
+21 Jan 2023,Atl. Madrid,Valladolid,1.35,5.23,9.78
+21 Jan 2023,Espanyol,Betis,2.80,3.06,2.86
+21 Jan 2023,Rayo Vallecano,Real Sociedad,3.01,3.08,2.66
+20 Jan 2023,Mallorca,Celta Vigo,2.82,2.77,3.11
+16 Jan 2023,Cadiz CF,Elche,1.93,3.37,4.59
+15 Jan 2023,Almeria,Atl. Madrid,4.99,3.80,1.75
+15 Jan 2023,Getafe,Espanyol,2.42,2.91,3.57
+14 Jan 2023,Real Sociedad,Ath Bilbao,2.34,3.02,3.64
+14 Jan 2023,Osasuna,Mallorca,2.19,2.99,4.06
+14 Jan 2023,Girona,Sevilla,2.42,3.23,3.19
+14 Jan 2023,Valladolid,Rayo Vallecano,2.86,3.15,2.72
+13 Jan 2023,Celta Vigo,Villarreal,2.92,3.24,2.63
+09 Jan 2023,Ath Bilbao,Osasuna,1.59,3.90,6.58
+08 Jan 2023,Atl. Madrid,Barcelona,3.23,3.23,2.42
+08 Jan 2023,Sevilla,Getafe,1.85,3.28,5.28
+08 Jan 2023,Rayo Vallecano,Betis,2.46,3.19,3.16
+08 Jan 2023,Almeria,Real Sociedad,4.45,3.39,1.93
+07 Jan 2023,Espanyol,Girona,2.58,3.27,2.92
+07 Jan 2023,Mallorca,Valladolid,2.05,3.16,4.29
+07 Jan 2023,Villarreal,Real Madrid,3.50,3.70,2.09
+06 Jan 2023,Valencia,Cadiz CF,1.56,4.22,6.37
+06 Jan 2023,Elche,Celta Vigo,4.04,3.25,2.09
+31 Dec 2022,Real Sociedad,Osasuna,1.92,3.37,4.59
+31 Dec 2022,Villarreal,Valencia,2.07,3.43,3.83
+31 Dec 2022,Barcelona,Espanyol,1.21,7.08,14.29
+30 Dec 2022,Valladolid,Real Madrid,6.88,4.83,1.46
+30 Dec 2022,Cadiz CF,Almeria,2.19,3.29,3.62
+30 Dec 2022,Celta Vigo,Sevilla,2.28,3.21,3.51
+30 Dec 2022,Getafe,Mallorca,2.90,2.70,3.13
+29 Dec 2022,Atl. Madrid,Elche,1.27,6.04,12.20
+29 Dec 2022,Betis,Ath Bilbao,3.03,3.32,2.48
+29 Dec 2022,Girona,Rayo Vallecano,2.11,3.48,3.65
+10 Nov 2022,Real Madrid,Cadiz CF,1.22,6.99,13.47
+10 Nov 2022,Valencia,Betis,2.21,3.33,3.53
+10 Nov 2022,Rayo Vallecano,Celta Vigo,2.08,3.14,4.17
+09 Nov 2022,Mallorca,Atl. Madrid,3.90,2.96,2.25
+09 Nov 2022,Espanyol,Villarreal,2.80,3.39,2.59
+09 Nov 2022,Almeria,Getafe,2.07,3.19,4.14
+09 Nov 2022,Sevilla,Real Sociedad,2.51,3.25,3.02
+08 Nov 2022,Osasuna,Barcelona,5.88,4.32,1.56
+08 Nov 2022,Ath Bilbao,Valladolid,1.43,4.71,7.48
+08 Nov 2022,Elche,Girona,3.59,3.34,2.17
+07 Nov 2022,Rayo Vallecano,Real Madrid,4.96,3.83,1.73
+06 Nov 2022,Betis,Sevilla,2.10,3.27,3.92
+06 Nov 2022,Villarreal,Mallorca,1.76,3.56,5.27
+06 Nov 2022,Real Sociedad,Valencia,1.95,3.38,4.36
+06 Nov 2022,Atl. Madrid,Espanyol,1.53,4.27,6.62
+05 Nov 2022,Barcelona,Almeria,1.12,10.17,20.79
+05 Nov 2022,Celta Vigo,Osasuna,2.25,3.29,3.43
+05 Nov 2022,Valladolid,Elche,1.91,3.65,4.19
+05 Nov 2022,Getafe,Cadiz CF,2.15,3.00,4.15
+04 Nov 2022,Girona,Ath Bilbao,3.74,3.49,2.06
+31 Oct 2022,Elche,Getafe,2.74,2.93,3.03
+30 Oct 2022,Real Sociedad,Betis,2.07,3.31,3.98
+30 Oct 2022,Ath Bilbao,Villarreal,2.12,3.48,3.59
+30 Oct 2022,Real Madrid,Girona,1.26,6.27,11.47
+30 Oct 2022,Osasuna,Valladolid,1.86,3.63,4.52
+29 Oct 2022,Valencia,Barcelona,5.70,4.57,1.55
+29 Oct 2022,Sevilla,Rayo Vallecano,2.04,3.37,3.98
+29 Oct 2022,Cadiz CF,Atl. Madrid,6.47,3.68,1.63
+29 Oct 2022,Almeria,Celta Vigo,3.12,3.42,2.37
+28 Oct 2022,Mallorca,Espanyol,2.42,3.04,3.39
+24 Oct 2022,Celta Vigo,Getafe,1.70,3.57,5.95
+23 Oct 2022,Barcelona,Ath Bilbao,1.45,4.95,6.96
+23 Oct 2022,Girona,Osasuna,2.52,3.20,3.06
+23 Oct 2022,Villarreal,Almeria,1.38,5.17,8.25
+23 Oct 2022,Betis,Atl. Madrid,3.22,3.15,2.42
+23 Oct 2022,Espanyol,Elche,1.63,3.92,5.90
+22 Oct 2022,Real Madrid,Sevilla,1.39,4.93,8.54
+22 Oct 2022,Valencia,Mallorca,1.77,3.56,5.23
+22 Oct 2022,Valladolid,Real Sociedad,4.17,3.46,1.96
+22 Oct 2022,Rayo Vallecano,Cadiz CF,1.74,3.51,5.59
+20 Oct 2022,Barcelona,Villarreal,1.48,4.77,6.50
+20 Oct 2022,Osasuna,Espanyol,2.22,3.28,3.56
+20 Oct 2022,Almeria,Girona,2.71,3.35,2.72
+19 Oct 2022,Elche,Real Madrid,10.86,6.27,1.27
+19 Oct 2022,Real Sociedad,Mallorca,1.55,3.88,7.42
+19 Oct 2022,Cadiz CF,Betis,3.63,3.26,2.20
+19 Oct 2022,Valladolid,Celta Vigo,3.21,3.22,2.40
+18 Oct 2022,Atl. Madrid,Rayo Vallecano,1.59,3.82,6.78
+18 Oct 2022,Getafe,Ath Bilbao,4.99,3.34,1.86
+18 Oct 2022,Sevilla,Valencia,2.29,3.32,3.32
+17 Oct 2022,Villarreal,Osasuna,1.78,3.71,4.89
+16 Oct 2022,Betis,Almeria,1.57,4.21,6.19
+16 Oct 2022,Espanyol,Valladolid,2.04,3.45,3.90
+16 Oct 2022,Real Madrid,Barcelona,2.29,3.76,3.00
+16 Oct 2022,Celta Vigo,Real Sociedad,2.48,3.13,3.19
+15 Oct 2022,Ath Bilbao,Atl. Madrid,2.36,3.21,3.33
+15 Oct 2022,Mallorca,Sevilla,3.13,2.98,2.61
+15 Oct 2022,Valencia,Elche,1.44,4.80,7.32
+15 Oct 2022,Girona,Cadiz CF,1.95,3.30,4.52
+14 Oct 2022,Rayo Vallecano,Getafe,1.95,3.24,4.60
+10 Oct 2022,Elche,Mallorca,2.98,3.06,2.61
+09 Oct 2022,Barcelona,Celta Vigo,1.29,5.98,10.08
+09 Oct 2022,Real Sociedad,Villarreal,2.67,3.33,2.76
+09 Oct 2022,Cadiz CF,Espanyol,2.94,3.10,2.67
+09 Oct 2022,Valladolid,Betis,2.98,3.49,2.41
+08 Oct 2022,Getafe,Real Madrid,7.14,4.52,1.48
+08 Oct 2022,Sevilla,Ath Bilbao,3.39,3.39,2.22
+08 Oct 2022,Atl. Madrid,Girona,1.42,4.66,8.51
+08 Oct 2022,Almeria,Rayo Vallecano,3.20,3.24,2.41
+07 Oct 2022,Osasuna,Valencia,2.53,3.24,3.00
+03 Oct 2022,Rayo Vallecano,Elche,1.56,4.16,6.37
+02 Oct 2022,Real Madrid,Osasuna,1.37,5.28,8.29
+02 Oct 2022,Girona,Real Sociedad,3.36,3.19,2.34
+02 Oct 2022,Celta Vigo,Betis,2.45,3.21,3.10
+02 Oct 2022,Espanyol,Valencia,2.86,3.24,2.64
+01 Oct 2022,Mallorca,Barcelona,9.30,5.16,1.36
+01 Oct 2022,Sevilla,Atl. Madrid,3.30,3.13,2.38
+01 Oct 2022,Getafe,Valladolid,2.42,3.05,3.39
+01 Oct 2022,Cadiz CF,Villarreal,5.10,3.74,1.74
+30 Sep 2022,Ath Bilbao,Almeria,1.38,4.97,8.71
+18 Sep 2022,Atl. Madrid,Real Madrid,3.17,3.26,2.41
+18 Sep 2022,Betis,Girona,1.73,3.73,5.29
+18 Sep 2022,Real Sociedad,Espanyol,1.71,3.73,5.36
+18 Sep 2022,Villarreal,Sevilla,1.76,3.72,5.00
+18 Sep 2022,Osasuna,Getafe,1.69,3.44,6.35
+17 Sep 2022,Ath Bilbao,Rayo Vallecano,1.62,3.87,6.14
+17 Sep 2022,Valencia,Celta Vigo,2.34,3.10,3.46
+17 Sep 2022,Barcelona,Elche,1.08,12.20,28.19
+17 Sep 2022,Mallorca,Almeria,1.95,3.29,4.50
+16 Sep 2022,Valladolid,Cadiz CF,2.04,3.33,4.03
+12 Sep 2022,Almeria,Osasuna,3.00,3.17,2.56
+11 Sep 2022,Betis,Villarreal,2.99,3.39,2.44
+11 Sep 2022,Getafe,Real Sociedad,4.37,3.15,2.03
+11 Sep 2022,Elche,Ath Bilbao,4.72,3.65,1.80
+11 Sep 2022,Real Madrid,Mallorca,1.30,5.77,10.22
+10 Sep 2022,Atl. Madrid,Celta Vigo,1.85,3.44,4.80
+10 Sep 2022,Cadiz CF,Barcelona,9.12,5.27,1.35
+10 Sep 2022,Espanyol,Sevilla,2.56,3.20,3.00
+10 Sep 2022,Rayo Vallecano,Valencia,2.77,3.04,2.87
+09 Sep 2022,Girona,Valladolid,2.10,3.30,3.87
+05 Sep 2022,Valladolid,Almeria,2.28,3.35,3.33
+04 Sep 2022,Valencia,Getafe,1.94,3.22,4.73
+04 Sep 2022,Villarreal,Elche,1.41,4.93,8.05
+04 Sep 2022,Ath Bilbao,Espanyol,1.52,4.31,6.75
+04 Sep 2022,Osasuna,Rayo Vallecano,2.14,3.09,4.05
+03 Sep 2022,Sevilla,Barcelona,4.94,3.92,1.72
+03 Sep 2022,Real Sociedad,Atl. Madrid,2.97,3.08,2.67
+03 Sep 2022,Real Madrid,Betis,1.38,5.37,7.57
+03 Sep 2022,Mallorca,Girona,2.15,3.12,3.96
+02 Sep 2022,Celta Vigo,Cadiz CF,1.63,3.69,6.60
+29 Aug 2022,Valencia,Atl. Madrid,4.30,3.35,1.97
+29 Aug 2022,Cadiz CF,Ath Bilbao,4.02,3.24,2.08
+28 Aug 2022,Espanyol,Real Madrid,6.34,4.64,1.50
+28 Aug 2022,Barcelona,Valladolid,1.15,9.17,17.32
+28 Aug 2022,Getafe,Villarreal,5.22,3.72,1.73
+27 Aug 2022,Almeria,Sevilla,3.56,3.37,2.17
+27 Aug 2022,Rayo Vallecano,Mallorca,2.06,3.26,4.07
+27 Aug 2022,Elche,Real Sociedad,3.92,3.30,2.08
+26 Aug 2022,Betis,Osasuna,1.84,3.63,4.57
+26 Aug 2022,Girona,Celta Vigo,2.81,3.11,2.77
+22 Aug 2022,Girona,Getafe,2.43,2.86,3.64
+22 Aug 2022,Elche,Almeria,2.38,3.23,3.23
+21 Aug 2022,Real Sociedad,Barcelona,3.60,3.48,2.11
+21 Aug 2022,Atl. Madrid,Villarreal,1.92,3.42,4.45
+21 Aug 2022,Ath Bilbao,Valencia,1.69,3.75,5.54
+20 Aug 2022,Celta Vigo,Real Madrid,5.01,4.20,1.67
+20 Aug 2022,Mallorca,Betis,3.28,3.21,2.37
+20 Aug 2022,Osasuna,Cadiz CF,1.96,3.28,4.49
+19 Aug 2022,Sevilla,Valladolid,1.53,4.20,6.72
+19 Aug 2022,Espanyol,Rayo Vallecano,2.60,3.05,3.08
+15 Aug 2022,Betis,Elche,1.57,4.15,6.16
+15 Aug 2022,Getafe,Atl. Madrid,5.56,3.13,1.86
+15 Aug 2022,Ath Bilbao,Mallorca,1.58,3.97,6.64
+14 Aug 2022,Almeria,Real Madrid,6.96,5.02,1.44
+14 Aug 2022,Valencia,Girona,1.89,3.56,4.42
+14 Aug 2022,Cadiz CF,Real Sociedad,3.79,3.11,2.22
+13 Aug 2022,Barcelona,Rayo Vallecano,1.23,6.86,13.25
+13 Aug 2022,Valladolid,Villarreal,3.50,3.42,2.18
+13 Aug 2022,Celta Vigo,Espanyol,1.79,3.63,4.94
+12 Aug 2022,Osasuna,Sevilla,3.26,3.06,2.48

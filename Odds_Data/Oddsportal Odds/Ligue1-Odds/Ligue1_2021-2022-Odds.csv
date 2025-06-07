@@ -1,0 +1,385 @@
+Date,HomeTeam,AwayTeam,HomeBet,DrawBet,AwayBet
+29 May 2022,St Etienne,Auxerre,2.17,3.42,3.55
+26 May 2022,Auxerre,St Etienne,2.43,3.14,3.21
+21 May 2022,Angers,Montpellier,2.07,3.69,3.49
+21 May 2022,Brest,Bordeaux,1.65,4.57,4.74
+21 May 2022,Clermont,Lyon,3.64,4.19,1.91
+21 May 2022,Lens,Monaco,3.31,3.89,2.11
+21 May 2022,Lille,Rennes,3.63,3.82,2.00
+21 May 2022,Lorient,Troyes,2.21,3.57,3.29
+21 May 2022,Marseille,Strasbourg,2.20,3.28,3.63
+21 May 2022,Nantes,St Etienne,2.47,3.62,2.84
+21 May 2022,PSG,Metz,1.13,10.28,17.51
+21 May 2022,Reims,Nice,4.01,3.80,1.91
+20 May 2022,Auxerre,Sochaux,2.24,3.11,3.53
+17 May 2022,Paris FC,Sochaux,2.69,2.97,2.88
+14 May 2022,Bordeaux,Lorient,2.44,3.38,3.04
+14 May 2022,Lyon,Nantes,1.49,5.25,5.84
+14 May 2022,Metz,Angers,2.29,3.60,3.15
+14 May 2022,Monaco,Brest,1.23,7.03,12.34
+14 May 2022,Montpellier,PSG,8.64,6.77,1.30
+14 May 2022,Nice,Lille,1.72,4.12,4.70
+14 May 2022,Rennes,Marseille,1.94,3.71,4.04
+14 May 2022,St Etienne,Reims,2.02,3.52,3.91
+14 May 2022,Strasbourg,Clermont,1.44,4.78,7.70
+14 May 2022,Troyes,Lens,3.81,3.68,2.00
+11 May 2022,Nantes,Rennes,5.71,4.59,1.55
+11 May 2022,Nice,St Etienne,1.52,4.43,6.66
+08 May 2022,PSG,Troyes,1.17,8.41,15.63
+08 May 2022,Lorient,Marseille,3.76,3.63,2.01
+08 May 2022,Angers,Bordeaux,2.41,3.45,3.00
+08 May 2022,Clermont,Montpellier,1.64,4.17,5.26
+08 May 2022,Reims,Lens,3.38,3.42,2.23
+08 May 2022,Metz,Lyon,8.65,6.21,1.31
+07 May 2022,Brest,Strasbourg,4.02,3.69,1.93
+06 May 2022,Lille,Monaco,3.79,3.66,2.01
+01 May 2022,Marseille,Lyon,2.37,3.60,2.97
+01 May 2022,Bordeaux,Nice,3.27,3.54,2.21
+01 May 2022,Brest,Clermont,2.85,3.27,2.64
+01 May 2022,Lorient,Reims,2.22,3.29,3.58
+01 May 2022,Monaco,Angers,1.33,5.56,9.51
+01 May 2022,Montpellier,Metz,1.81,3.93,4.31
+01 May 2022,Troyes,Lille,3.47,3.29,2.25
+30 Apr 2022,Rennes,St Etienne,1.30,6.00,9.61
+30 Apr 2022,Lens,Nantes,1.64,4.17,5.29
+29 Apr 2022,Strasbourg,PSG,3.64,3.80,2.02
+24 Apr 2022,Reims,Marseille,4.21,3.47,1.95
+24 Apr 2022,Lille,Strasbourg,2.73,3.20,2.81
+24 Apr 2022,Clermont,Angers,2.14,3.29,3.81
+24 Apr 2022,Metz,Brest,2.68,3.28,2.80
+24 Apr 2022,Nantes,Bordeaux,2.13,3.64,3.44
+24 Apr 2022,Nice,Troyes,1.49,4.51,7.08
+24 Apr 2022,Rennes,Lorient,1.36,5.39,8.63
+23 Apr 2022,PSG,Lens,1.25,6.86,10.50
+23 Apr 2022,St Etienne,Monaco,4.53,4.17,1.73
+23 Apr 2022,Lyon,Montpellier,1.38,5.67,7.60
+20 Apr 2022,Angers,PSG,6.15,4.69,1.51
+20 Apr 2022,Brest,Lyon,4.25,4.25,1.77
+20 Apr 2022,Lens,Montpellier,1.48,4.45,7.40
+20 Apr 2022,Marseille,Nantes,1.57,4.24,6.12
+20 Apr 2022,Strasbourg,Rennes,2.58,3.35,2.86
+20 Apr 2022,Bordeaux,St Etienne,2.43,3.44,3.00
+20 Apr 2022,Lorient,Metz,1.58,4.07,6.49
+20 Apr 2022,Monaco,Nice,1.80,3.76,4.63
+20 Apr 2022,Reims,Lille,2.98,3.04,2.68
+20 Apr 2022,Troyes,Clermont,2.32,3.27,3.34
+17 Apr 2022,PSG,Marseille,1.41,5.34,7.01
+17 Apr 2022,Lyon,Bordeaux,1.38,5.33,7.78
+17 Apr 2022,Metz,Clermont,2.83,3.11,2.78
+17 Apr 2022,Montpellier,Reims,2.37,3.27,3.28
+17 Apr 2022,Nantes,Angers,2.01,3.42,4.08
+17 Apr 2022,Troyes,Strasbourg,4.02,3.27,2.08
+17 Apr 2022,Nice,Lorient,1.66,4.06,5.39
+16 Apr 2022,Lille,Lens,1.95,3.54,4.17
+16 Apr 2022,St Etienne,Brest,2.22,3.36,3.50
+15 Apr 2022,Rennes,Monaco,2.09,3.71,3.47
+10 Apr 2022,Marseille,Montpellier,1.48,4.65,6.80
+10 Apr 2022,Strasbourg,Lyon,2.53,3.37,2.93
+10 Apr 2022,Lens,Nice,2.43,3.32,3.06
+10 Apr 2022,Angers,Lille,3.83,3.22,2.15
+10 Apr 2022,Brest,Nantes,2.70,3.21,2.80
+10 Apr 2022,Monaco,Troyes,1.36,5.19,8.91
+10 Apr 2022,Bordeaux,Metz,1.93,3.46,4.33
+09 Apr 2022,Clermont,PSG,10.43,6.40,1.27
+09 Apr 2022,Reims,Rennes,4.99,3.60,1.79
+08 Apr 2022,Lorient,St Etienne,2.17,3.20,3.81
+03 Apr 2022,PSG,Lorient,1.18,8.09,15.26
+03 Apr 2022,Lyon,Angers,1.39,5.06,8.34
+03 Apr 2022,Clermont,Nantes,2.65,3.16,2.94
+03 Apr 2022,Metz,Monaco,7.61,4.30,1.49
+03 Apr 2022,Montpellier,Brest,2.07,3.53,3.69
+03 Apr 2022,St Etienne,Marseille,3.47,3.16,2.32
+03 Apr 2022,Troyes,Reims,2.63,2.99,3.13
+03 Apr 2022,Strasbourg,Lens,2.14,3.38,3.68
+02 Apr 2022,Lille,Bordeaux,1.48,4.45,7.21
+02 Apr 2022,Nice,Rennes,2.90,3.29,2.58
+20 Mar 2022,Marseille,Nice,1.93,3.54,4.29
+20 Mar 2022,Reims,Lyon,4.33,3.65,1.88
+20 Mar 2022,Angers,Brest,2.41,3.09,3.35
+20 Mar 2022,Bordeaux,Montpellier,2.51,3.38,2.92
+20 Mar 2022,Lorient,Strasbourg,3.52,3.23,2.25
+20 Mar 2022,Rennes,Metz,1.27,5.86,12.73
+20 Mar 2022,Monaco,PSG,3.69,3.77,1.99
+19 Mar 2022,Nantes,Lille,2.72,3.05,2.93
+19 Mar 2022,Lens,Clermont,1.76,3.73,4.97
+18 Mar 2022,St Etienne,Troyes,1.90,3.42,4.53
+13 Mar 2022,Brest,Marseille,3.96,3.49,2.01
+13 Mar 2022,Lyon,Rennes,2.02,3.68,3.68
+13 Mar 2022,Angers,Reims,2.41,2.92,3.60
+13 Mar 2022,Clermont,Lorient,2.27,3.09,3.73
+13 Mar 2022,Metz,Lens,5.00,3.80,1.75
+13 Mar 2022,Strasbourg,Monaco,2.75,3.13,2.83
+13 Mar 2022,PSG,Bordeaux,1.13,9.91,19.58
+12 Mar 2022,Troyes,Nantes,3.07,3.17,2.53
+12 Mar 2022,Montpellier,Nice,3.35,3.48,2.22
+11 Mar 2022,Lille,St Etienne,1.70,3.70,5.65
+06 Mar 2022,Marseille,Monaco,2.57,3.29,2.90
+06 Mar 2022,Lille,Clermont,1.67,3.68,5.95
+06 Mar 2022,Bordeaux,Troyes,2.04,3.38,4.05
+06 Mar 2022,Nantes,Montpellier,2.00,3.33,4.24
+06 Mar 2022,Reims,Strasbourg,3.86,3.00,2.25
+06 Mar 2022,Rennes,Angers,1.42,4.60,8.65
+06 Mar 2022,St Etienne,Metz,1.89,3.23,5.03
+05 Mar 2022,Nice,PSG,4.86,4.09,1.70
+05 Mar 2022,Lens,Brest,1.58,4.22,5.94
+04 Mar 2022,Lorient,Lyon,4.73,3.87,1.77
+27 Feb 2022,Lyon,Lille,1.78,3.84,4.70
+27 Feb 2022,Troyes,Marseille,4.78,3.73,1.79
+27 Feb 2022,Angers,Lens,3.33,3.22,2.36
+27 Feb 2022,Brest,Lorient,2.22,3.30,3.56
+27 Feb 2022,Clermont,Bordeaux,1.95,3.47,4.19
+27 Feb 2022,Metz,Nantes,3.07,2.96,2.69
+27 Feb 2022,Monaco,Reims,1.44,4.52,8.08
+26 Feb 2022,PSG,St Etienne,1.15,8.71,17.29
+26 Feb 2022,Strasbourg,Nice,2.04,3.37,3.92
+25 Feb 2022,Montpellier,Rennes,4.77,3.83,1.76
+20 Feb 2022,Marseille,Clermont,1.48,4.64,7.19
+20 Feb 2022,Bordeaux,Monaco,5.58,4.01,1.64
+20 Feb 2022,Lorient,Montpellier,2.45,3.21,3.14
+20 Feb 2022,Reims,Brest,2.38,3.16,3.33
+20 Feb 2022,Rennes,Troyes,1.34,5.15,10.57
+20 Feb 2022,St Etienne,Strasbourg,3.18,3.28,2.40
+20 Feb 2022,Nice,Angers,1.82,3.55,4.95
+19 Feb 2022,Nantes,PSG,8.74,5.38,1.36
+19 Feb 2022,Lens,Lyon,3.09,3.56,2.31
+18 Feb 2022,Lille,Metz,1.57,4.00,6.75
+13 Feb 2022,Metz,Marseille,5.44,3.93,1.66
+13 Feb 2022,Lens,Bordeaux,1.57,4.47,5.63
+13 Feb 2022,Angers,Strasbourg,3.21,3.23,2.38
+13 Feb 2022,Brest,Troyes,1.98,3.50,4.04
+13 Feb 2022,Clermont,St Etienne,2.44,3.21,3.19
+13 Feb 2022,Nantes,Reims,2.25,3.16,3.60
+13 Feb 2022,Monaco,Lorient,1.39,5.11,8.15
+12 Feb 2022,Lyon,Nice,1.81,3.89,4.36
+12 Feb 2022,Montpellier,Lille,3.14,3.29,2.41
+11 Feb 2022,PSG,Rennes,1.55,4.55,5.77
+06 Feb 2022,Lille,PSG,5.14,4.02,1.69
+06 Feb 2022,Rennes,Brest,1.49,4.54,6.93
+06 Feb 2022,Nice,Clermont,1.67,3.97,5.44
+06 Feb 2022,Reims,Bordeaux,1.97,3.56,4.03
+06 Feb 2022,Strasbourg,Nantes,1.89,3.60,4.42
+06 Feb 2022,Troyes,Metz,2.24,3.19,3.64
+06 Feb 2022,Lorient,Lens,3.33,3.27,2.33
+05 Feb 2022,Monaco,Lyon,2.13,3.59,3.49
+05 Feb 2022,St Etienne,Montpellier,2.40,3.30,3.11
+04 Feb 2022,Marseille,Angers,1.52,4.16,7.16
+01 Feb 2022,Lyon,Marseille,2.93,3.25,2.57
+26 Jan 2022,Angers,St Etienne,2.21,3.25,3.62
+23 Jan 2022,PSG,Reims,1.23,6.32,14.87
+23 Jan 2022,Montpellier,Monaco,4.17,3.63,1.92
+23 Jan 2022,Angers,Troyes,2.08,3.13,4.21
+23 Jan 2022,Bordeaux,Strasbourg,4.37,4.02,1.79
+23 Jan 2022,Clermont,Rennes,4.58,3.76,1.80
+23 Jan 2022,Nantes,Lorient,2.28,3.12,3.60
+23 Jan 2022,Metz,Nice,5.15,3.63,1.77
+22 Jan 2022,Lens,Marseille,2.51,3.47,2.85
+22 Jan 2022,Brest,Lille,3.27,3.43,2.28
+21 Jan 2022,Lyon,St Etienne,1.41,5.08,7.72
+19 Jan 2022,Clermont,Strasbourg,3.61,3.34,2.17
+19 Jan 2022,Lille,Lorient,1.54,4.24,6.53
+19 Jan 2022,Montpellier,Troyes,1.73,3.90,4.91
+16 Jan 2022,Marseille,Lille,2.25,3.38,3.37
+16 Jan 2022,Troyes,Lyon,4.49,3.84,1.80
+16 Jan 2022,Lorient,Angers,2.17,3.25,3.74
+16 Jan 2022,Monaco,Clermont,1.49,4.51,6.81
+16 Jan 2022,Reims,Metz,1.76,3.54,5.40
+16 Jan 2022,Strasbourg,Montpellier,2.05,3.48,3.79
+16 Jan 2022,Rennes,Bordeaux,1.43,4.99,7.25
+15 Jan 2022,PSG,Brest,1.27,6.29,10.65
+15 Jan 2022,St Etienne,Lens,4.14,3.79,1.88
+14 Jan 2022,Nice,Nantes,1.75,3.77,4.94
+09 Jan 2022,Lyon,PSG,3.18,3.72,2.22
+09 Jan 2022,Nantes,Monaco,4.08,3.39,2.01
+09 Jan 2022,Clermont,Reims,2.43,3.09,3.30
+09 Jan 2022,Metz,Strasbourg,4.85,3.88,1.75
+09 Jan 2022,Brest,Nice,2.75,3.37,2.65
+08 Jan 2022,Lens,Rennes,2.62,3.45,2.73
+07 Jan 2022,Bordeaux,Marseille,4.89,4.14,1.69
+22 Dec 2021,Montpellier,Angers,2.01,3.48,3.88
+22 Dec 2021,Nice,Lens,2.02,3.60,3.74
+22 Dec 2021,St Etienne,Nantes,2.47,3.19,3.12
+22 Dec 2021,Troyes,Brest,2.51,3.21,3.04
+22 Dec 2021,Bordeaux,Lille,3.88,3.72,1.96
+22 Dec 2021,Lorient,PSG,6.68,4.62,1.49
+22 Dec 2021,Lyon,Metz,1.36,5.33,8.70
+22 Dec 2021,Marseille,Reims,1.55,4.18,6.34
+22 Dec 2021,Monaco,Rennes,2.25,3.47,3.28
+12 Dec 2021,PSG,Monaco,1.46,4.97,6.66
+12 Dec 2021,Strasbourg,Marseille,2.33,3.37,3.21
+12 Dec 2021,Angers,Clermont,2.02,3.39,4.05
+12 Dec 2021,Metz,Lorient,2.45,3.12,3.25
+12 Dec 2021,Rennes,Nice,1.89,3.66,4.27
+12 Dec 2021,Troyes,Bordeaux,2.19,3.49,3.41
+12 Dec 2021,Lille,Lyon,2.08,3.57,3.60
+11 Dec 2021,Reims,St Etienne,2.25,3.21,3.55
+11 Dec 2021,Brest,Montpellier,2.17,3.54,3.39
+10 Dec 2021,Nantes,Lens,2.78,3.22,2.73
+05 Dec 2021,Bordeaux,Lyon,4.70,4.22,1.70
+05 Dec 2021,Nice,Strasbourg,1.89,3.49,4.48
+05 Dec 2021,Lorient,Nantes,2.69,3.11,2.88
+05 Dec 2021,Monaco,Metz,1.39,4.98,8.39
+05 Dec 2021,Montpellier,Clermont,2.03,3.58,3.76
+05 Dec 2021,Reims,Angers,2.28,3.03,3.72
+05 Dec 2021,St Etienne,Rennes,4.00,3.63,1.95
+04 Dec 2021,Lens,PSG,4.99,4.27,1.65
+04 Dec 2021,Lille,Troyes,1.56,4.11,6.55
+04 Dec 2021,Marseille,Brest,1.60,4.33,5.65
+01 Dec 2021,Clermont,Lens,3.06,3.47,2.37
+01 Dec 2021,Lyon,Reims,1.52,4.41,6.52
+01 Dec 2021,Nantes,Marseille,3.16,3.29,2.40
+01 Dec 2021,PSG,Nice,1.39,5.22,7.71
+01 Dec 2021,Rennes,Lille,1.99,3.56,3.94
+01 Dec 2021,Angers,Monaco,3.37,3.29,2.29
+01 Dec 2021,Brest,St Etienne,1.99,3.66,3.80
+01 Dec 2021,Metz,Montpellier,2.69,3.34,2.74
+01 Dec 2021,Strasbourg,Bordeaux,1.80,3.89,4.46
+01 Dec 2021,Troyes,Lorient,2.28,3.27,3.41
+28 Nov 2021,Marseille,Troyes,1.45,4.68,7.48
+28 Nov 2021,Montpellier,Lyon,4.19,4.24,1.77
+28 Nov 2021,Bordeaux,Brest,2.29,3.45,3.21
+28 Nov 2021,Lorient,Rennes,4.96,3.90,1.72
+28 Nov 2021,Monaco,Strasbourg,1.76,3.84,4.77
+28 Nov 2021,Reims,Clermont,2.26,3.21,3.52
+28 Nov 2021,St Etienne,PSG,9.56,6.30,1.29
+27 Nov 2021,Nice,Metz,1.38,5.02,8.93
+27 Nov 2021,Lille,Nantes,1.69,3.82,5.30
+26 Nov 2021,Lens,Angers,1.74,3.77,5.02
+21 Nov 2021,Clermont,Nice,3.30,3.51,2.21
+21 Nov 2021,Angers,Lorient,1.78,3.66,4.94
+21 Nov 2021,Metz,Bordeaux,2.33,3.31,3.26
+21 Nov 2021,Strasbourg,Reims,1.98,3.27,4.39
+21 Nov 2021,Troyes,St Etienne,2.35,3.43,3.13
+21 Nov 2021,Brest,Lens,3.49,3.49,2.16
+20 Nov 2021,Rennes,Montpellier,1.46,4.74,7.04
+20 Nov 2021,PSG,Nantes,1.19,7.62,15.36
+19 Nov 2021,Monaco,Lille,2.05,3.36,3.97
+07 Nov 2021,Rennes,Lyon,2.58,3.57,2.72
+07 Nov 2021,Nice,Montpellier,1.50,4.66,6.33
+07 Nov 2021,Lorient,Brest,2.50,3.28,3.01
+07 Nov 2021,Nantes,Strasbourg,2.59,3.15,3.02
+07 Nov 2021,Reims,Monaco,4.37,3.44,1.94
+07 Nov 2021,St Etienne,Clermont,2.47,3.41,2.96
+07 Nov 2021,Marseille,Metz,1.41,4.93,7.90
+06 Nov 2021,Bordeaux,PSG,10.15,6.42,1.27
+06 Nov 2021,Lille,Angers,1.62,3.96,6.01
+05 Nov 2021,Lens,Troyes,1.62,4.10,5.67
+31 Oct 2021,Clermont,Marseille,3.56,3.65,2.07
+31 Oct 2021,Brest,Monaco,4.45,3.85,1.80
+31 Oct 2021,Bordeaux,Reims,2.67,3.16,2.88
+31 Oct 2021,Montpellier,Nantes,2.23,3.41,3.37
+31 Oct 2021,Strasbourg,Lorient,1.89,3.51,4.44
+31 Oct 2021,Troyes,Rennes,4.05,3.67,1.91
+31 Oct 2021,Angers,Nice,3.17,3.21,2.42
+30 Oct 2021,Lyon,Lens,1.54,4.52,5.79
+30 Oct 2021,Metz,St Etienne,2.68,3.32,2.72
+29 Oct 2021,PSG,Lille,1.37,5.05,8.52
+27 Oct 2021,Nice,Marseille,2.95,3.28,2.52
+24 Oct 2021,Marseille,PSG,5.58,4.60,1.56
+24 Oct 2021,Monaco,Montpellier,1.45,4.81,6.99
+24 Oct 2021,Lens,Metz,1.49,4.37,7.43
+24 Oct 2021,Lorient,Bordeaux,2.16,3.40,3.58
+24 Oct 2021,Reims,Troyes,2.33,3.05,3.55
+24 Oct 2021,Rennes,Strasbourg,1.69,3.82,5.51
+24 Oct 2021,Nice,Lyon,2.90,3.58,2.42
+23 Oct 2021,Lille,Brest,1.49,4.36,7.19
+23 Oct 2021,Nantes,Clermont,2.18,3.49,3.39
+22 Oct 2021,St Etienne,Angers,2.97,3.34,2.53
+17 Oct 2021,Marseille,Lorient,1.55,4.24,6.32
+17 Oct 2021,Montpellier,Lens,2.92,3.45,2.46
+17 Oct 2021,Bordeaux,Nantes,2.77,3.22,2.73
+17 Oct 2021,Brest,Reims,2.29,3.19,3.47
+17 Oct 2021,Metz,Rennes,5.21,3.92,1.70
+17 Oct 2021,Strasbourg,St Etienne,2.18,3.36,3.55
+17 Oct 2021,Troyes,Nice,4.20,3.68,1.89
+16 Oct 2021,Lyon,Monaco,2.07,3.66,3.58
+16 Oct 2021,Clermont,Lille,3.17,3.32,2.39
+15 Oct 2021,PSG,Angers,1.35,5.42,8.72
+03 Oct 2021,St Etienne,Lyon,4.51,4.13,1.74
+03 Oct 2021,Lille,Marseille,2.24,3.30,3.47
+03 Oct 2021,Lorient,Clermont,2.50,3.40,2.89
+03 Oct 2021,Monaco,Bordeaux,1.37,5.18,8.64
+03 Oct 2021,Nantes,Troyes,1.78,3.66,4.83
+03 Oct 2021,Angers,Metz,1.93,3.37,4.48
+03 Oct 2021,Rennes,PSG,6.84,4.94,1.44
+02 Oct 2021,Nice,Brest,1.55,4.44,5.94
+02 Oct 2021,Montpellier,Strasbourg,2.53,3.37,2.89
+01 Oct 2021,Lens,Reims,1.96,3.46,4.16
+26 Sep 2021,Marseille,Lens,1.74,3.85,4.89
+26 Sep 2021,Clermont,Monaco,4.17,3.71,1.89
+26 Sep 2021,Brest,Metz,2.05,3.46,3.78
+26 Sep 2021,Reims,Nantes,2.73,3.02,2.94
+26 Sep 2021,Troyes,Angers,2.82,3.21,2.69
+26 Sep 2021,Bordeaux,Rennes,3.89,3.46,2.02
+25 Sep 2021,Lyon,Lorient,1.29,6.06,9.80
+25 Sep 2021,PSG,Montpellier,1.12,10.10,18.83
+25 Sep 2021,Strasbourg,Lille,3.22,3.13,2.44
+25 Sep 2021,St Etienne,Nice,3.40,3.51,2.17
+22 Sep 2021,Angers,Marseille,3.26,3.23,2.37
+22 Sep 2021,Lens,Strasbourg,2.12,3.46,3.62
+22 Sep 2021,Lorient,Nice,3.55,3.49,2.13
+22 Sep 2021,Lyon,Troyes,1.31,5.77,9.97
+22 Sep 2021,Metz,PSG,11.32,6.54,1.25
+22 Sep 2021,Lille,Reims,1.77,3.44,5.46
+22 Sep 2021,Monaco,St Etienne,1.46,4.58,7.37
+22 Sep 2021,Montpellier,Bordeaux,2.06,3.73,3.50
+22 Sep 2021,Nantes,Brest,2.07,3.42,3.77
+22 Sep 2021,Rennes,Clermont,2.02,3.44,3.94
+19 Sep 2021,PSG,Lyon,1.31,6.05,9.07
+19 Sep 2021,Marseille,Rennes,1.94,3.54,4.07
+19 Sep 2021,Angers,Nantes,2.12,3.21,3.94
+19 Sep 2021,Clermont,Brest,1.85,3.77,4.29
+19 Sep 2021,Reims,Lorient,2.24,3.20,3.55
+19 Sep 2021,Troyes,Montpellier,2.44,3.48,2.95
+19 Sep 2021,Nice,Monaco,3.15,3.33,2.38
+18 Sep 2021,St Etienne,Bordeaux,1.89,3.61,4.27
+18 Sep 2021,Lens,Lille,2.54,3.30,2.93
+17 Sep 2021,Strasbourg,Metz,1.90,3.50,4.40
+12 Sep 2021,Lyon,Strasbourg,1.56,4.39,5.95
+12 Sep 2021,Nantes,Nice,2.97,3.19,2.59
+12 Sep 2021,Bordeaux,Lens,3.15,3.43,2.33
+12 Sep 2021,Brest,Angers,2.63,3.26,2.86
+12 Sep 2021,Metz,Troyes,2.44,3.29,3.07
+12 Sep 2021,Rennes,Reims,1.74,3.47,5.57
+12 Sep 2021,Montpellier,St Etienne,2.52,3.53,2.79
+11 Sep 2021,Monaco,Marseille,1.83,3.66,4.52
+11 Sep 2021,PSG,Clermont,1.32,5.67,9.56
+10 Sep 2021,Lorient,Lille,3.66,3.32,2.14
+29 Aug 2021,Reims,PSG,14.39,7.41,1.19
+29 Aug 2021,Lille,Montpellier,1.63,4.08,5.59
+29 Aug 2021,Clermont,Metz,1.65,3.93,5.56
+29 Aug 2021,Lens,Lorient,1.62,4.03,5.78
+29 Aug 2021,Strasbourg,Brest,1.99,3.51,3.98
+29 Aug 2021,Angers,Rennes,2.91,3.13,2.66
+29 Aug 2021,Troyes,Monaco,4.80,3.71,1.78
+28 Aug 2021,Marseille,St Etienne,1.67,3.95,5.30
+28 Aug 2021,Nice,Bordeaux,1.82,3.79,4.48
+27 Aug 2021,Nantes,Lyon,4.63,3.96,1.75
+22 Aug 2021,Rennes,Nantes,1.68,3.76,5.62
+22 Aug 2021,Bordeaux,Angers,3.37,3.18,2.34
+22 Aug 2021,Metz,Reims,2.34,3.09,3.49
+22 Aug 2021,Montpellier,Lorient,2.21,3.45,3.39
+22 Aug 2021,Strasbourg,Troyes,1.98,3.50,4.00
+22 Aug 2021,Lyon,Clermont,1.61,4.39,5.28
+21 Aug 2021,St Etienne,Lille,3.21,3.18,2.42
+21 Aug 2021,Monaco,Lens,1.75,3.76,4.97
+20 Aug 2021,Brest,PSG,9.39,5.54,1.33
+15 Aug 2021,Marseille,Bordeaux,1.50,4.40,6.88
+15 Aug 2021,Lens,St Etienne,2.06,3.57,3.68
+15 Aug 2021,Brest,Rennes,3.57,3.38,2.16
+15 Aug 2021,Clermont,Troyes,1.93,3.65,4.08
+15 Aug 2021,Nantes,Metz,2.15,3.25,3.77
+15 Aug 2021,Reims,Montpellier,2.54,3.32,2.91
+15 Aug 2021,Angers,Lyon,4.45,3.74,1.83
+14 Aug 2021,PSG,Strasbourg,1.23,6.75,12.26
+14 Aug 2021,Lille,Nice,1.86,3.46,4.64
+13 Aug 2021,Lorient,Monaco,4.20,3.59,1.91
+08 Aug 2021,Montpellier,Marseille,3.63,3.58,2.07
+08 Aug 2021,Metz,Lille,5.01,3.35,1.85
+08 Aug 2021,Bordeaux,Clermont,2.60,3.22,2.91
+08 Aug 2021,Nice,Reims,1.81,3.54,4.92
+08 Aug 2021,St Etienne,Lorient,2.18,3.46,3.44
+08 Aug 2021,Strasbourg,Angers,2.05,3.41,3.85
+08 Aug 2021,Rennes,Lens,1.91,3.62,4.13
+07 Aug 2021,Troyes,PSG,9.31,5.45,1.33
+07 Aug 2021,Lyon,Brest,1.36,5.39,8.33
+06 Aug 2021,Monaco,Nantes,1.42,4.75,7.83

@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,HomeBet,DrawBet,AwayBet
+15-May-16,Betis,Getafe,3.43,3.73,2.08
+15-May-16,Gijon,Villarreal,1.5,4.69,6.39
+15-May-16,Rayo Vallecano,Levante,1.36,5.85,7.56
+15-May-16,Espanyol,Eibar,0,0,0
+15-May-16,Malaga,Las Palmas,1.66,3.97,5.33
+14-May-16,Ath Bilbao,Sevilla,1.34,5.64,8.34
+14-May-16,Atl. Madrid,Celta Vigo,1.57,4.22,6.1
+14-May-16,Dep. La Coruna,Real Madrid,13.37,8.5,1.18
+14-May-16,Granada CF,Barcelona,26.99,13.41,1.08
+13-May-16,Valencia,Real Sociedad,2.02,3.72,3.54
+8-May-16,Barcelona,Espanyol,1.05,18.91,35.68
+8-May-16,Celta Vigo,Malaga,1.62,4.12,5.53
+8-May-16,Eibar,Betis,2.16,3.45,3.52
+8-May-16,Getafe,Gijon,2.01,3.61,3.8
+8-May-16,Las Palmas,Ath Bilbao,3.95,3.76,1.92
+8-May-16,Levante,Atl. Madrid,15.47,5.87,1.25
+8-May-16,Real Madrid,Valencia,0,0,0
+8-May-16,Real Sociedad,Rayo Vallecano,2.72,3.61,2.52
+8-May-16,Sevilla,Granada CF,2.96,4.06,2.2
+8-May-16,Villarreal,Dep. La Coruna,0,0,0
+2-May-16,Malaga,Levante,1.87,3.56,4.42
+1-May-16,Valencia,Villarreal,1.95,3.56,4.03
+1-May-16,Dep. La Coruna,Getafe,2.05,3.6,3.61
+1-May-16,Espanyol,Sevilla,1.93,3.69,3.94
+1-May-16,Ath Bilbao,Celta Vigo,1.89,3.65,4.17
+30-Apr-16,Granada CF,Las Palmas,1.59,4.12,5.82
+30-Apr-16,Betis,Barcelona,23.95,10.54,1.1
+30-Apr-16,Atl. Madrid,Rayo Vallecano,1.35,5.3,8.83
+30-Apr-16,Real Sociedad,Real Madrid,4.83,4.03,1.71
+29-Apr-16,Gijon,Eibar,1.62,4.03,5.55
+25-Apr-16,Celta Vigo,Granada CF,1.6,4.21,5.64
+24-Apr-16,Villarreal,Real Sociedad,0,0,0
+24-Apr-16,Getafe,Valencia,3.11,3.56,2.27
+24-Apr-16,Sevilla,Betis,1.48,4.67,6.66
+24-Apr-16,Levante,Ath Bilbao,3.43,3.54,2.13
+23-Apr-16,Eibar,Dep. La Coruna,2.3,3.31,3.28
+23-Apr-16,Barcelona,Gijon,1.04,20.93,40.01
+23-Apr-16,Atl. Madrid,Malaga,1.29,5.38,12.61
+23-Apr-16,Rayo Vallecano,Real Madrid,7.97,5.94,1.34
+22-Apr-16,Las Palmas,Espanyol,2.36,3.3,3.19
+21-Apr-16,Granada CF,Levante,2.19,3.35,3.51
+21-Apr-16,Real Sociedad,Getafe,1.69,3.97,5.06
+20-Apr-16,Real Madrid,Villarreal,1.24,7.03,11.4
+20-Apr-16,Ath Bilbao,Atl. Madrid,4.47,3.3,1.95
+20-Apr-16,Gijon,Sevilla,2.78,3.48,2.54
+20-Apr-16,Malaga,Rayo Vallecano,2.01,3.6,3.75
+20-Apr-16,Valencia,Eibar,1.61,4.17,5.55
+20-Apr-16,Dep. La Coruna,Barcelona,13.59,7.69,1.2
+19-Apr-16,Betis,Las Palmas,2.03,3.54,3.75
+19-Apr-16,Espanyol,Celta Vigo,2.53,3.33,2.88
+17-Apr-16,Barcelona,Valencia,1.12,10.26,19.56
+17-Apr-16,Atl. Madrid,Granada CF,1.28,5.5,13.77
+17-Apr-16,Rayo Vallecano,Villarreal,2.59,3.49,2.71
+17-Apr-16,Sevilla,Dep. La Coruna,1.48,4.66,6.67
+17-Apr-16,Malaga,Ath Bilbao,2.31,3.11,3.47
+16-Apr-16,Celta Vigo,Betis,1.53,4.34,6.29
+16-Apr-16,Eibar,Real Sociedad,0,0,0
+16-Apr-16,Las Palmas,Gijon,1.9,3.54,4.26
+16-Apr-16,Getafe,Real Madrid,13.15,7.15,1.21
+15-Apr-16,Levante,Espanyol,2.33,3.34,3.2
+11-Apr-16,Dep. La Coruna,Las Palmas,2.06,3.42,3.82
+10-Apr-16,Ath Bilbao,Rayo Vallecano,1.54,4.54,5.76
+10-Apr-16,Villarreal,Getafe,1.5,4.35,6.88
+10-Apr-16,Valencia,Sevilla,2.3,3.56,3.06
+10-Apr-16,Gijon,Celta Vigo,2.83,3.41,2.54
+9-Apr-16,Betis,Levante,1.88,3.58,4.35
+9-Apr-16,Real Sociedad,Barcelona,0,0,0
+9-Apr-16,Espanyol,Atl. Madrid,5.28,3.51,1.77
+9-Apr-16,Real Madrid,Eibar,1.19,7.66,14.57
+8-Apr-16,Granada CF,Malaga,2.28,3.26,3.37
+4-Apr-16,Levante,Gijon,2.16,3.37,3.54
+3-Apr-16,Sevilla,Real Sociedad,1.58,4.36,5.56
+3-Apr-16,Eibar,Villarreal,3.03,3.2,2.5
+3-Apr-16,Malaga,Espanyol,1.89,3.47,4.52
+3-Apr-16,Ath Bilbao,Granada CF,1.42,4.58,8.38
+2-Apr-16,Celta Vigo,Dep. La Coruna,1.73,3.85,4.89
+2-Apr-16,Barcelona,Real Madrid,1.54,5.01,5.47
+2-Apr-16,Las Palmas,Valencia,2.41,3.31,3.08
+2-Apr-16,Atl. Madrid,Betis,1.33,5.06,10.63
+1-Apr-16,Rayo Vallecano,Getafe,1.96,3.66,3.88
+20-Mar-16,Real Madrid,Sevilla,1.34,5.95,7.92
+20-Mar-16,Valencia,Celta Vigo,2.18,3.46,3.41
+20-Mar-16,Villarreal,Barcelona,8.03,5.04,1.39
+20-Mar-16,Espanyol,Ath Bilbao,2.97,3.31,2.49
+19-Mar-16,Betis,Malaga,2.6,3.15,2.93
+19-Mar-16,Dep. La Coruna,Levante,1.93,3.52,4.19
+19-Mar-16,Granada CF,Rayo Vallecano,2.1,3.57,3.51
+19-Mar-16,Real Sociedad,Las Palmas,1.71,3.78,5.22
+19-Mar-16,Gijon,Atl. Madrid,7.83,3.85,1.53
+18-Mar-16,Getafe,Eibar,2.12,3.29,3.76
+14-Mar-16,Granada CF,Espanyol,2.12,3.32,3.73
+13-Mar-16,Las Palmas,Real Madrid,7.37,5.42,1.39
+13-Mar-16,Ath Bilbao,Betis,1.57,4.02,6.51
+13-Mar-16,Sevilla,Villarreal,1.8,3.78,5.3
+13-Mar-16,Levante,Valencia,3.06,3.37,2.38
+12-Mar-16,Rayo Vallecano,Eibar,2.05,3.58,3.62
+12-Mar-16,Atl. Madrid,Dep. La Coruna,1.22,6.08,16.84
+12-Mar-16,Celta Vigo,Real Sociedad,2.07,3.54,3.65
+12-Mar-16,Barcelona,Getafe,1.06,16.08,31.53
+11-Mar-16,Malaga,Gijon,1.65,3.78,5.82
+7-Mar-16,Espanyol,Rayo Vallecano,1.86,3.78,4.2
+6-Mar-16,Valencia,Atl. Madrid,4.14,3.25,2.03
+6-Mar-16,Gijon,Ath Bilbao,4.86,3.6,1.8
+6-Mar-16,Real Sociedad,Levante,1.59,4.01,6.15
+6-Mar-16,Eibar,Barcelona,12.06,6.01,1.26
+6-Mar-16,Betis,Granada CF,2.06,3.4,3.81
+5-Mar-16,Dep. La Coruna,Malaga,2.43,3.14,3.2
+5-Mar-16,Getafe,Sevilla,4.17,3.79,1.86
+5-Mar-16,Villarreal,Las Palmas,1.54,4.09,6.75
+5-Mar-16,Real Madrid,Celta Vigo,0,0,0
+3-Mar-16,Rayo Vallecano,Barcelona,15.45,8.27,1.17
+3-Mar-16,Espanyol,Betis,2.14,3.3,3.72
+3-Mar-16,Granada CF,Gijon,1.89,3.51,4.38
+2-Mar-16,Levante,Real Madrid,0,0,0
+2-Mar-16,Ath Bilbao,Dep. La Coruna,0,0,0
+2-Mar-16,Celta Vigo,Villarreal,2.1,3.36,3.72
+2-Mar-16,Malaga,Valencia,1.99,3.48,4.01
+2-Mar-16,Sevilla,Eibar,1.43,4.76,7.51
+1-Mar-16,Las Palmas,Getafe,2,3.41,4.04
+1-Mar-16,Atl. Madrid,Real Sociedad,1.4,4.42,9.86
+28-Feb-16,Barcelona,Sevilla,1.2,7.68,12.99
+28-Feb-16,Dep. La Coruna,Granada CF,1.82,3.54,4.73
+28-Feb-16,Valencia,Ath Bilbao,2.07,3.42,3.72
+28-Feb-16,Villarreal,Levante,1.73,3.6,5.35
+27-Feb-16,Real Sociedad,Malaga,2.08,3.26,3.91
+27-Feb-16,Betis,Rayo Vallecano,2.26,3.41,3.27
+27-Feb-16,Getafe,Celta Vigo,2.94,3.33,2.49
+27-Feb-16,Gijon,Espanyol,2.32,3.27,3.26
+27-Feb-16,Real Madrid,Atl. Madrid,1.95,3.46,4.25
+26-Feb-16,Eibar,Las Palmas,1.78,3.71,4.79
+21-Feb-16,Atl. Madrid,Villarreal,1.46,4.08,8.7
+21-Feb-16,Ath Bilbao,Real Sociedad,1.76,3.6,5.09
+21-Feb-16,Granada CF,Valencia,2.96,3.31,2.5
+21-Feb-16,Malaga,Real Madrid,4.39,3.68,1.84
+21-Feb-16,Rayo Vallecano,Sevilla,3.23,3.63,2.19
+20-Feb-16,Celta Vigo,Eibar,1.7,3.91,5.03
+20-Feb-16,Betis,Gijon,2.06,3.32,3.9
+20-Feb-16,Espanyol,Dep. La Coruna,2.3,3.28,3.3
+20-Feb-16,Las Palmas,Barcelona,14.4,7.16,1.2
+19-Feb-16,Levante,Getafe,2.11,3.37,3.69
+17-Feb-16,Gijon,Barcelona,17.56,8.37,1.16
+14-Feb-16,Barcelona,Celta Vigo,0,0,0
+14-Feb-16,Eibar,Levante,2.07,3.36,3.84
+14-Feb-16,Getafe,Atl. Madrid,8.42,4.14,1.47
+14-Feb-16,Sevilla,Las Palmas,1.31,5.53,10.22
+14-Feb-16,Real Sociedad,Granada CF,1.69,3.81,5.36
+13-Feb-16,Dep. La Coruna,Betis,1.86,3.44,4.72
+13-Feb-16,Valencia,Espanyol,1.68,3.77,5.47
+13-Feb-16,Villarreal,Malaga,2.13,3.2,3.87
+13-Feb-16,Real Madrid,Ath Bilbao,1.36,5.36,8.51
+12-Feb-16,Gijon,Rayo Vallecano,2.38,3.34,3.1
+8-Feb-16,Espanyol,Real Sociedad,2.61,3.18,2.91
+7-Feb-16,Granada CF,Real Madrid,11.01,6.15,1.27
+7-Feb-16,Celta Vigo,Sevilla,3.06,3.47,2.34
+7-Feb-16,Betis,Valencia,2.65,3.17,2.81
+7-Feb-16,Levante,Barcelona,20.97,9.07,1.14
+6-Feb-16,Gijon,Dep. La Coruna,2.6,3.28,2.85
+6-Feb-16,Ath Bilbao,Villarreal,1.83,3.49,4.82
+6-Feb-16,Rayo Vallecano,Las Palmas,0,0,0
+6-Feb-16,Atl. Madrid,Eibar,0,0,0
+5-Feb-16,Malaga,Getafe,1.61,3.79,6.29
+1-Feb-16,Dep. La Coruna,Rayo Vallecano,1.91,3.63,4.16
+31-Jan-16,Real Madrid,Espanyol,1.1,10.81,25.54
+31-Jan-16,Las Palmas,Celta Vigo,2.6,3.3,2.82
+31-Jan-16,Valencia,Gijon,1.65,3.85,5.62
+31-Jan-16,Sevilla,Levante,1.36,5.05,9.22
+30-Jan-16,Real Sociedad,Betis,1.64,3.89,5.74
+30-Jan-16,Villarreal,Granada CF,1.53,4.13,7.02
+30-Jan-16,Eibar,Malaga,0,0,0
+30-Jan-16,Getafe,Ath Bilbao,3.61,3.35,2.14
+30-Jan-16,Barcelona,Atl. Madrid,1.53,4.21,6.79
+25-Jan-16,Levante,Las Palmas,0,0,0
+24-Jan-16,Betis,Real Madrid,7.92,5.42,1.37
+24-Jan-16,Dep. La Coruna,Valencia,2.21,3.3,3.5
+24-Jan-16,Atl. Madrid,Sevilla,1.53,3.93,7.26
+24-Jan-16,Ath Bilbao,Eibar,1.68,3.79,5.52
+23-Jan-16,Rayo Vallecano,Celta Vigo,2.17,3.55,3.35
+23-Jan-16,Granada CF,Getafe,2.5,3.18,3.09
+23-Jan-16,Espanyol,Villarreal,2.97,3.2,2.58
+23-Jan-16,Malaga,Barcelona,6.12,4.25,1.56
+22-Jan-16,Gijon,Real Sociedad,3.06,3.22,2.47
+18-Jan-16,Eibar,Granada CF,1.79,3.5,5.08
+17-Jan-16,Barcelona,Ath Bilbao,1.15,8.24,18.87
+17-Jan-16,Getafe,Espanyol,2.21,3.2,3.61
+17-Jan-16,Las Palmas,Atl. Madrid,6.77,3.78,1.59
+17-Jan-16,Real Madrid,Gijon,1.08,13.28,24.5
+17-Jan-16,Valencia,Rayo Vallecano,1.58,4.32,5.73
+16-Jan-16,Real Sociedad,Dep. La Coruna,0,0,0
+16-Jan-16,Villarreal,Betis,0,0,0
+16-Jan-16,Celta Vigo,Levante,1.53,4.19,6.88
+16-Jan-16,Sevilla,Malaga,1.76,3.75,4.94
+10-Jan-16,Celta Vigo,Atl. Madrid,4.17,3.23,2.04
+10-Jan-16,Eibar,Espanyol,2.02,3.35,4.04
+10-Jan-16,Las Palmas,Malaga,2.67,3.11,2.91
+10-Jan-16,Real Sociedad,Valencia,2.2,3.41,3.4
+10-Jan-16,Villarreal,Gijon,1.45,4.45,7.85
+9-Jan-16,Levante,Rayo Vallecano,2.38,3.29,3.14
+9-Jan-16,Real Madrid,Dep. La Coruna,1.16,8.34,16.64
+9-Jan-16,Getafe,Betis,1.95,3.44,4.24
+9-Jan-16,Sevilla,Ath Bilbao,2.13,3.48,3.52
+9-Jan-16,Barcelona,Granada CF,0,0,0
+4-Jan-16,Gijon,Getafe,2.32,3.25,3.31
+3-Jan-16,Valencia,Real Madrid,6.02,4.61,1.52
+3-Jan-16,Ath Bilbao,Las Palmas,1.41,4.81,8.08
+3-Jan-16,Dep. La Coruna,Villarreal,2.58,3.17,2.97
+3-Jan-16,Betis,Eibar,2.44,3.27,3.06
+3-Jan-16,Granada CF,Sevilla,4.84,3.77,1.76
+3-Jan-16,Rayo Vallecano,Real Sociedad,2.59,3.37,2.78
+2-Jan-16,Malaga,Celta Vigo,2.16,3.24,3.71
+2-Jan-16,Atl. Madrid,Levante,1.21,6.53,18.85
+2-Jan-16,Espanyol,Barcelona,15.23,7.69,1.19
+31-Dec-15,Villarreal,Valencia,1.87,3.49,4.51
+30-Dec-15,Las Palmas,Granada CF,2,3.37,4.04
+30-Dec-15,Barcelona,Betis,1.06,16.92,30.35
+30-Dec-15,Celta Vigo,Ath Bilbao,2.82,3.3,2.59
+30-Dec-15,Getafe,Dep. La Coruna,2.67,3.17,2.85
+30-Dec-15,Eibar,Gijon,1.93,3.4,4.34
+30-Dec-15,Rayo Vallecano,Atl. Madrid,6.97,4.2,1.52
+30-Dec-15,Sevilla,Espanyol,1.45,4.77,7.16
+30-Dec-15,Levante,Malaga,0,0,0
+30-Dec-15,Real Madrid,Real Sociedad,1.16,8.73,14.81
+20-Dec-15,Malaga,Atl. Madrid,5.68,3.48,1.73
+20-Dec-15,Ath Bilbao,Levante,1.4,4.66,8.93
+20-Dec-15,Granada CF,Celta Vigo,2.76,3.28,2.68
+20-Dec-15,Real Sociedad,Villarreal,2.4,3.24,3.16
+20-Dec-15,Real Madrid,Rayo Vallecano,1.08,13.24,23.41
+19-Dec-15,Dep. La Coruna,Eibar,2,3.31,4.15
+19-Dec-15,Betis,Sevilla,3.85,3.63,1.96
+19-Dec-15,Espanyol,Las Palmas,1.99,3.46,3.94
+19-Dec-15,Valencia,Getafe,1.72,3.71,5.29
+13-Dec-15,Villarreal,Real Madrid,4.9,4.2,1.67
+13-Dec-15,Atl. Madrid,Ath Bilbao,1.58,3.83,6.75
+13-Dec-15,Eibar,Valencia,0,0,0
+13-Dec-15,Rayo Vallecano,Malaga,2.37,3.31,3.15
+12-Dec-15,Las Palmas,Betis,2.24,3.39,3.33
+12-Dec-15,Sevilla,Gijon,1.37,5.24,8.4
+12-Dec-15,Celta Vigo,Espanyol,1.56,4.24,6.05
+12-Dec-15,Levante,Granada CF,2.12,3.19,3.94
+12-Dec-15,Barcelona,Dep. La Coruna,1.09,12.25,27.57
+11-Dec-15,Getafe,Real Sociedad,2.88,3.2,2.62
+7-Dec-15,Espanyol,Levante,0,0,0
+6-Dec-15,Ath Bilbao,Malaga,1.52,4.24,6.83
+6-Dec-15,Gijon,Las Palmas,2.28,3.3,3.34
+6-Dec-15,Villarreal,Rayo Vallecano,0,0,0
+6-Dec-15,Real Sociedad,Eibar,1.98,3.42,4.09
+5-Dec-15,Betis,Celta Vigo,3.6,3.65,2.04
+5-Dec-15,Dep. La Coruna,Sevilla,2.83,3.49,2.47
+5-Dec-15,Valencia,Barcelona,11.56,6.7,1.25
+5-Dec-15,Granada CF,Atl. Madrid,7.46,3.88,1.54
+5-Dec-15,Real Madrid,Getafe,1.11,10.39,22.67
+29-Nov-15,Sevilla,Valencia,0,0,0
+29-Nov-15,Rayo Vallecano,Ath Bilbao,3.35,3.44,2.21
+29-Nov-15,Eibar,Real Madrid,0,0,0
+29-Nov-15,Getafe,Villarreal,3.09,3.24,2.44
+28-Nov-15,Celta Vigo,Gijon,1.42,4.98,7.48
+28-Nov-15,Las Palmas,Dep. La Coruna,2.38,3.23,3.23
+28-Nov-15,Malaga,Granada CF,1.77,3.51,5.31
+28-Nov-15,Atl. Madrid,Espanyol,1.31,5.21,11.54
+28-Nov-15,Barcelona,Real Sociedad,1.08,13.55,28.36
+27-Nov-15,Levante,Betis,2.05,3.4,3.87
+23-Nov-15,Getafe,Rayo Vallecano,2.31,3.43,3.15
+22-Nov-15,Betis,Atl. Madrid,6.09,3.81,1.61
+22-Nov-15,Granada CF,Ath Bilbao,4.32,3.45,1.93
+22-Nov-15,Villarreal,Eibar,1.53,3.87,6.31
+22-Nov-15,Gijon,Levante,2.2,3.29,3.52
+21-Nov-15,Dep. La Coruna,Celta Vigo,3.31,3.49,2.21
+21-Nov-15,Valencia,Las Palmas,1.5,4.34,7.07
+21-Nov-15,Espanyol,Malaga,2.38,3.1,3.1
+21-Nov-15,Real Madrid,Barcelona,2.49,3.59,2.82
+21-Nov-15,Real Sociedad,Sevilla,2.67,3.38,2.69
+8-Nov-15,Sevilla,Real Madrid,3.39,3.85,2.05
+8-Nov-15,Atl. Madrid,Gijon,0,0,0
+8-Nov-15,Barcelona,Villarreal,1.31,5.85,10.04
+8-Nov-15,Ath Bilbao,Espanyol,1.48,4.42,7.11
+7-Nov-15,Malaga,Betis,1.78,3.67,4.82
+7-Nov-15,Eibar,Getafe,2.14,3.21,3.79
+7-Nov-15,Rayo Vallecano,Granada CF,1.87,3.64,4.31
+7-Nov-15,Levante,Dep. La Coruna,2.68,3.13,2.87
+7-Nov-15,Celta Vigo,Valencia,1.79,3.81,4.54
+6-Nov-15,Las Palmas,Real Sociedad,2.74,3.16,2.77
+1-Nov-15,Betis,Ath Bilbao,3.43,3.36,2.21
+1-Nov-15,Gijon,Malaga,2.66,3.24,2.81
+1-Nov-15,Espanyol,Granada CF,2.12,3.31,3.72
+1-Nov-15,Eibar,Rayo Vallecano,2.34,3.34,3.19
+31-Oct-15,Real Sociedad,Celta Vigo,2.57,3.27,2.88
+31-Oct-15,Getafe,Barcelona,9.44,5.31,1.34
+31-Oct-15,Valencia,Levante,1.51,4.22,7.21
+31-Oct-15,Villarreal,Sevilla,0,0,0
+31-Oct-15,Real Madrid,Las Palmas,1.11,10.55,24.29
+30-Oct-15,Dep. La Coruna,Atl. Madrid,5.67,3.55,1.71
+26-Oct-15,Ath Bilbao,Gijon,1.47,4.38,7.57
+25-Oct-15,Atl. Madrid,Valencia,1.6,3.88,6.34
+25-Oct-15,Barcelona,Eibar,1.12,9.71,23.33
+25-Oct-15,Las Palmas,Villarreal,3.68,3.34,2.12
+25-Oct-15,Levante,Real Sociedad,2.78,3.08,2.79
+24-Oct-15,Malaga,Dep. La Coruna,2.28,3.24,3.37
+24-Oct-15,Sevilla,Getafe,1.4,4.76,8.37
+24-Oct-15,Granada CF,Betis,2.4,3.29,3.11
+24-Oct-15,Celta Vigo,Real Madrid,3.34,3.8,2.1
+23-Oct-15,Rayo Vallecano,Espanyol,0,0,0
+19-Oct-15,Gijon,Granada CF,0,0,0
+18-Oct-15,Dep. La Coruna,Ath Bilbao,2.86,3.15,2.63
+18-Oct-15,Getafe,Las Palmas,2.26,3.16,3.52
+18-Oct-15,Real Sociedad,Atl. Madrid,4.14,3.23,2.04
+18-Oct-15,Villarreal,Celta Vigo,2.1,3.45,3.64
+17-Oct-15,Betis,Espanyol,2.21,3.3,3.49
+17-Oct-15,Valencia,Malaga,1.57,4.07,6.37
+17-Oct-15,Barcelona,Rayo Vallecano,1.13,9.98,20.29
+17-Oct-15,Eibar,Sevilla,3.51,3.41,2.18
+17-Oct-15,Real Madrid,Levante,1.1,11.17,25.99
+4-Oct-15,Atl. Madrid,Real Madrid,3.21,3.31,2.36
+4-Oct-15,Levante,Villarreal,4.43,3.45,1.89
+4-Oct-15,Ath Bilbao,Valencia,2.15,3.32,3.64
+4-Oct-15,Rayo Vallecano,Betis,0,0,0
+3-Oct-15,Malaga,Real Sociedad,2.49,3.14,3.1
+3-Oct-15,Las Palmas,Eibar,2.06,3.31,3.91
+3-Oct-15,Espanyol,Gijon,2.04,3.28,4.04
+3-Oct-15,Granada CF,Dep. La Coruna,2.55,3.18,2.98
+3-Oct-15,Sevilla,Barcelona,4.32,3.89,1.81
+2-Oct-15,Celta Vigo,Getafe,1.46,4.53,7.38
+27-Sep-15,Real Sociedad,Ath Bilbao,2.44,3.1,3.23
+27-Sep-15,Getafe,Levante,2.22,3.02,3.85
+27-Sep-15,Dep. La Coruna,Espanyol,2.11,3.32,3.78
+27-Sep-15,Gijon,Betis,2.34,3.27,3.23
+26-Sep-15,Eibar,Celta Vigo,3.74,3.44,2.06
+26-Sep-15,Sevilla,Rayo Vallecano,1.44,4.89,6.93
+26-Sep-15,Villarreal,Atl. Madrid,2.73,3.14,2.8
+26-Sep-15,Real Madrid,Malaga,1.14,9.21,19.1
+26-Sep-15,Barcelona,Las Palmas,1.08,12.03,28.47
+25-Sep-15,Valencia,Granada CF,1.43,4.5,8.25
+24-Sep-15,Betis,Dep. La Coruna,2.25,3.3,3.45
+23-Sep-15,Las Palmas,Sevilla,3.04,3.45,2.37
+23-Sep-15,Malaga,Villarreal,2.85,3.22,2.63
+23-Sep-15,Ath Bilbao,Real Madrid,4.48,4,1.76
+23-Sep-15,Celta Vigo,Barcelona,6.63,4.65,1.49
+23-Sep-15,Levante,Eibar,2.38,3.04,3.44
+23-Sep-15,Rayo Vallecano,Gijon,2.15,3.45,3.5
+22-Sep-15,Granada CF,Real Sociedad,2.57,3.13,3.01
+22-Sep-15,Atl. Madrid,Getafe,1.33,4.86,11.63
+22-Sep-15,Espanyol,Valencia,3.14,3.32,2.37
+20-Sep-15,Barcelona,Levante,1.08,12.8,29.61
+20-Sep-15,Las Palmas,Rayo Vallecano,1.97,3.62,3.91
+20-Sep-15,Villarreal,Ath Bilbao,1.77,3.57,4.98
+20-Sep-15,Dep. La Coruna,Gijon,1.88,3.39,4.66
+20-Sep-15,Sevilla,Celta Vigo,1.84,3.83,4.26
+19-Sep-15,Real Sociedad,Espanyol,1.8,3.63,4.77
+19-Sep-15,Eibar,Atl. Madrid,0,0,0
+19-Sep-15,Valencia,Betis,1.48,4.54,7.08
+19-Sep-15,Real Madrid,Granada CF,1.08,13.41,28.53
+18-Sep-15,Getafe,Malaga,2.68,3.06,2.94
+14-Sep-15,Rayo Vallecano,Dep. La Coruna,2.21,3.46,3.31
+13-Sep-15,Malaga,Eibar,1.83,3.5,4.81
+13-Sep-15,Celta Vigo,Las Palmas,1.51,4.33,6.77
+13-Sep-15,Ath Bilbao,Getafe,0,0,0
+13-Sep-15,Granada CF,Villarreal,3.38,3.2,2.31
+12-Sep-15,Betis,Real Sociedad,2.34,3.31,3.21
+12-Sep-15,Atl. Madrid,Barcelona,3.05,3.19,2.53
+12-Sep-15,Gijon,Valencia,3.42,3.25,2.26
+12-Sep-15,Espanyol,Real Madrid,8.91,5.31,1.35
+11-Sep-15,Levante,Sevilla,4.17,3.56,1.92
+30-Aug-15,Getafe,Granada CF,2.12,3.19,3.9
+30-Aug-15,Las Palmas,Levante,1.82,3.48,4.85
+30-Aug-15,Sevilla,Atl. Madrid,2.66,3.19,2.84
+30-Aug-15,Valencia,Dep. La Coruna,1.49,4.29,7.41
+30-Aug-15,Eibar,Ath Bilbao,3.7,3.1,2.23
+29-Aug-15,Real Madrid,Betis,1.09,10.67,24.64
+29-Aug-15,Celta Vigo,Rayo Vallecano,1.49,4.52,6.67
+29-Aug-15,Barcelona,Malaga,1.11,9.93,23.82
+29-Aug-15,Real Sociedad,Gijon,0,0,0
+28-Aug-15,Villarreal,Espanyol,1.59,3.87,6.45
+24-Aug-15,Granada CF,Eibar,1.96,3.21,4.55
+23-Aug-15,Betis,Villarreal,3.08,3.31,2.42
+23-Aug-15,Levante,Celta Vigo,3.69,3.28,2.15
+23-Aug-15,Gijon,Real Madrid,11.27,5.94,1.28
+23-Aug-15,Ath Bilbao,Barcelona,5.81,4.26,1.58
+22-Aug-15,Rayo Vallecano,Valencia,2.94,3.53,2.41
+22-Aug-15,Atl. Madrid,Las Palmas,1.25,6.06,14.74
+22-Aug-15,Dep. La Coruna,Real Sociedad,2.38,3.26,3.21
+22-Aug-15,Espanyol,Getafe,2.02,3.25,4.2
+21-Aug-15,Malaga,Sevilla,3.27,3.46,2.23

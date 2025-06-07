@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,HomeBet,DrawBet,AwayBet
+29 May 2011,Arles-Avignon,Sochaux,4.35,3.42,1.86
+29 May 2011,Bordeaux,Montpellier,1.94,3.28,4.12
+29 May 2011,Brest,Toulouse,2.14,2.94,3.93
+29 May 2011,Caen,Marseille,2.11,3.43,3.38
+29 May 2011,Lille,Rennes,1.53,3.92,6.32
+29 May 2011,Lorient,Auxerre,2.40,3.13,3.07
+29 May 2011,Monaco,Lyon,2.86,3.36,2.41
+29 May 2011,Nancy,Lens,1.34,4.92,9.11
+29 May 2011,St Etienne,PSG,3.94,3.46,1.92
+29 May 2011,Valenciennes,Nice,1.80,3.29,4.90
+21 May 2011,Auxerre,Brest,2.34,2.92,3.40
+21 May 2011,Lens,Arles-Avignon,1.53,3.91,6.67
+21 May 2011,Lyon,Caen,1.32,4.99,9.57
+21 May 2011,Marseille,Valenciennes,1.45,4.19,7.53
+21 May 2011,Montpellier,Monaco,2.90,3.32,2.42
+21 May 2011,Nice,Lorient,2.32,3.05,3.32
+21 May 2011,PSG,Lille,2.21,3.12,3.46
+21 May 2011,Rennes,Nancy,2.09,3.23,3.62
+21 May 2011,Sochaux,St Etienne,1.79,3.56,4.49
+21 May 2011,Toulouse,Bordeaux,2.06,2.94,4.24
+18 May 2011,Bordeaux,PSG,2.82,3.21,2.52
+18 May 2011,Lille,Sochaux,1.35,4.80,8.98
+16 May 2011,Brest,Lyon,3.86,3.33,1.99
+15 May 2011,Lorient,Marseille,3.71,3.28,2.05
+15 May 2011,Arles-Avignon,Toulouse,5.40,3.43,1.71
+15 May 2011,Caen,Montpellier,1.94,3.36,4.00
+15 May 2011,Monaco,Lens,1.87,3.30,4.45
+15 May 2011,Nancy,Nice,1.82,3.38,4.63
+15 May 2011,St Etienne,Rennes,2.33,3.08,3.26
+15 May 2011,Valenciennes,Auxerre,1.99,3.08,4.25
+11 May 2011,Marseille,Brest,1.32,4.87,9.82
+11 May 2011,Auxerre,Lyon,3.76,3.23,2.06
+11 May 2011,Lens,Bordeaux,2.61,3.09,2.83
+11 May 2011,Montpellier,Lorient,2.40,3.06,3.12
+11 May 2011,Nice,Arles-Avignon,1.34,4.65,9.77
+11 May 2011,Rennes,Caen,1.98,3.26,3.99
+11 May 2011,Sochaux,Monaco,2.16,3.19,3.52
+11 May 2011,Toulouse,Valenciennes,2.01,3.01,4.29
+10 May 2011,PSG,Nancy,1.42,4.28,8.08
+10 May 2011,St Etienne,Lille,3.70,3.25,2.06
+08 May 2011,Lyon,Marseille,2.16,3.26,3.42
+08 May 2011,Valenciennes,Rennes,2.31,3.05,3.32
+07 May 2011,Nancy,Lille,3.74,3.29,2.02
+07 May 2011,Arles-Avignon,St Etienne,4.29,3.34,1.88
+07 May 2011,Auxerre,Montpellier,2.21,3.07,3.54
+07 May 2011,Bordeaux,Sochaux,1.63,3.66,5.74
+07 May 2011,Brest,Nice,1.82,3.32,4.74
+07 May 2011,Caen,Lens,2.02,3.25,3.87
+07 May 2011,Lorient,Toulouse,1.85,3.27,4.57
+07 May 2011,Monaco,PSG,3.40,3.12,2.24
+01 May 2011,St Etienne,Monaco,2.13,3.05,3.75
+01 May 2011,Marseille,Auxerre,1.35,4.49,10.23
+01 May 2011,Montpellier,Brest,1.82,3.28,4.87
+01 May 2011,Nice,Caen,2.11,3.15,3.68
+01 May 2011,Toulouse,Lyon,3.70,3.07,2.14
+30 Apr 2011,PSG,Valenciennes,1.51,3.90,7.03
+30 Apr 2011,Lens,Lorient,2.44,3.15,2.97
+30 Apr 2011,Lille,Arles-Avignon,1.12,7.78,20.00
+30 Apr 2011,Rennes,Bordeaux,2.35,3.04,3.27
+30 Apr 2011,Sochaux,Nancy,2.17,3.16,3.50
+27 Apr 2011,Lyon,Montpellier,1.37,4.37,9.57
+27 Apr 2011,Marseille,Nice,1.34,4.55,10.63
+24 Apr 2011,Lorient,Lille,3.12,3.28,2.29
+24 Apr 2011,Auxerre,Lens,2.33,3.02,3.32
+24 Apr 2011,Bordeaux,St Etienne,1.91,3.34,4.23
+24 Apr 2011,Brest,PSG,3.50,3.21,2.16
+24 Apr 2011,Caen,Toulouse,2.46,3.10,3.00
+24 Apr 2011,Monaco,Rennes,2.30,3.01,3.40
+24 Apr 2011,Nancy,Arles-Avignon,1.39,4.39,8.99
+24 Apr 2011,Valenciennes,Sochaux,2.04,3.14,3.94
+17 Apr 2011,PSG,Lyon,2.66,3.16,2.69
+17 Apr 2011,Arles-Avignon,Valenciennes,3.64,3.25,2.07
+17 Apr 2011,Montpellier,Marseille,3.82,3.22,2.03
+16 Apr 2011,Lille,Bordeaux,1.56,3.85,6.21
+16 Apr 2011,Lens,Brest,2.10,3.14,3.74
+16 Apr 2011,Nice,Monaco,2.67,2.88,2.93
+16 Apr 2011,Rennes,Lorient,2.24,3.05,3.48
+16 Apr 2011,Sochaux,Caen,1.97,3.27,4.02
+16 Apr 2011,St Etienne,Nancy,1.96,3.26,4.07
+16 Apr 2011,Toulouse,Auxerre,1.84,3.36,4.61
+10 Apr 2011,Lyon,Lens,1.34,4.61,10.46
+10 Apr 2011,Marseille,Toulouse,1.49,3.91,7.46
+10 Apr 2011,Montpellier,Nice,1.99,3.09,4.25
+09 Apr 2011,Brest,Rennes,2.86,3.01,2.63
+09 Apr 2011,Auxerre,St Etienne,2.20,3.04,3.60
+09 Apr 2011,Bordeaux,Arles-Avignon,1.25,5.33,14.82
+09 Apr 2011,Caen,PSG,3.62,3.23,2.12
+09 Apr 2011,Lorient,Sochaux,1.65,3.61,5.57
+09 Apr 2011,Monaco,Lille,3.71,3.16,2.11
+09 Apr 2011,Valenciennes,Nancy,1.92,3.26,4.33
+03 Apr 2011,Lens,Marseille,3.35,3.06,2.28
+03 Apr 2011,Nice,Lyon,4.99,3.47,1.74
+03 Apr 2011,St Etienne,Valenciennes,2.03,3.21,3.89
+02 Apr 2011,Toulouse,Montpellier,2.18,3.08,3.58
+02 Apr 2011,Arles-Avignon,Monaco,4.06,3.24,1.97
+02 Apr 2011,Lille,Caen,1.31,4.80,11.03
+02 Apr 2011,Nancy,Bordeaux,2.82,3.10,2.58
+02 Apr 2011,PSG,Lorient,1.73,3.56,4.90
+02 Apr 2011,Rennes,Auxerre,1.70,3.49,5.38
+02 Apr 2011,Sochaux,Brest,1.97,3.22,4.06
+20 Mar 2011,Marseille,PSG,2.01,3.23,3.90
+20 Mar 2011,Caen,Arles-Avignon,1.61,3.67,6.01
+20 Mar 2011,Monaco,Nancy,1.95,3.28,4.14
+19 Mar 2011,Lyon,Rennes,1.64,3.64,5.66
+19 Mar 2011,Auxerre,Sochaux,2.11,3.16,3.69
+19 Mar 2011,Brest,Lille,4.25,3.30,1.91
+19 Mar 2011,Lorient,St Etienne,1.86,3.30,4.47
+19 Mar 2011,Montpellier,Lens,1.81,3.27,4.85
+19 Mar 2011,Toulouse,Nice,1.80,3.19,5.16
+19 Mar 2011,Valenciennes,Bordeaux,2.48,3.01,3.03
+13 Mar 2011,PSG,Montpellier,1.71,3.50,5.11
+13 Mar 2011,Bordeaux,Monaco,1.80,3.33,4.89
+13 Mar 2011,Lille,Valenciennes,1.44,4.09,8.10
+12 Mar 2011,Arles-Avignon,Lorient,4.40,3.38,1.85
+12 Mar 2011,Lens,Toulouse,2.37,3.02,3.25
+12 Mar 2011,Nancy,Caen,1.85,3.34,4.50
+12 Mar 2011,Nice,Auxerre,2.50,2.94,3.10
+12 Mar 2011,Sochaux,Lyon,3.69,3.27,2.06
+12 Mar 2011,St Etienne,Brest,1.77,3.43,4.89
+11 Mar 2011,Rennes,Marseille,2.44,3.13,3.02
+06 Mar 2011,Marseille,Lille,2.09,3.12,3.81
+06 Mar 2011,Brest,Bordeaux,3.12,3.06,2.42
+06 Mar 2011,Lyon,Arles-Avignon,1.16,6.83,16.80
+05 Mar 2011,Auxerre,PSG,3.32,3.04,2.30
+05 Mar 2011,Caen,St Etienne,2.38,3.04,3.18
+05 Mar 2011,Lorient,Nancy,1.69,3.51,5.37
+05 Mar 2011,Montpellier,Rennes,2.41,2.96,3.23
+05 Mar 2011,Nice,Lens,2.30,2.97,3.44
+05 Mar 2011,Toulouse,Sochaux,1.82,3.22,4.91
+05 Mar 2011,Valenciennes,Monaco,2.08,3.15,3.75
+27 Feb 2011,Lille,Lyon,2.20,3.21,3.39
+27 Feb 2011,Nancy,Marseille,4.17,3.31,1.91
+27 Feb 2011,PSG,Toulouse,1.66,3.43,5.95
+26 Feb 2011,Bordeaux,Auxerre,1.84,3.27,4.69
+26 Feb 2011,Arles-Avignon,Brest,3.10,3.04,2.44
+26 Feb 2011,Monaco,Caen,1.84,3.29,4.64
+26 Feb 2011,Rennes,Lens,1.68,3.49,5.51
+26 Feb 2011,Sochaux,Montpellier,2.44,3.04,3.08
+26 Feb 2011,St Etienne,Nice,1.70,3.43,5.50
+26 Feb 2011,Valenciennes,Lorient,2.18,3.13,3.47
+20 Feb 2011,Toulouse,Rennes,2.34,2.95,3.42
+20 Feb 2011,Montpellier,Lille,3.49,3.10,2.21
+20 Feb 2011,Nice,PSG,3.73,3.14,2.11
+19 Feb 2011,Lorient,Bordeaux,2.41,3.00,3.19
+19 Feb 2011,Auxerre,Arles-Avignon,1.47,3.95,7.69
+19 Feb 2011,Brest,Monaco,2.46,2.99,3.13
+19 Feb 2011,Caen,Valenciennes,2.31,3.02,3.36
+19 Feb 2011,Lens,Sochaux,2.02,3.18,3.97
+19 Feb 2011,Marseille,St Etienne,1.60,3.61,6.24
+18 Feb 2011,Lyon,Nancy,1.44,4.06,8.07
+13 Feb 2011,Lille,Toulouse,1.46,3.98,8.03
+13 Feb 2011,Rennes,Nice,1.57,3.62,6.76
+13 Feb 2011,Valenciennes,Brest,1.91,3.26,4.33
+12 Feb 2011,St Etienne,Lyon,3.43,3.10,2.23
+12 Feb 2011,ArlesAvignon,Montpellier,4.76,3.30,1.82
+12 Feb 2011,Bordeaux,Caen,1.56,3.66,6.78
+12 Feb 2011,Monaco,Lorient,2.12,3.07,3.81
+12 Feb 2011,Nancy,Auxerre,2.21,3.03,3.58
+12 Feb 2011,PSG,Lens,1.50,3.86,7.20
+12 Feb 2011,Sochaux,Marseille,3.44,3.15,2.20
+06 Feb 2011,Lyon,Bordeaux,1.69,3.52,5.37
+06 Feb 2011,Auxerre,Lille,3.65,3.17,2.12
+06 Feb 2011,Toulouse,Monaco,2.10,3.04,3.86
+05 Feb 2011,Rennes,PSG,2.76,3.06,2.70
+05 Feb 2011,Brest,Nancy,2.20,3.05,3.56
+05 Feb 2011,Caen,Lorient,2.41,3.07,3.12
+05 Feb 2011,Lens,Valenciennes,2.21,3.03,3.59
+05 Feb 2011,Marseille,ArlesAvignon,1.17,6.39,17.34
+05 Feb 2011,Montpellier,St Etienne,2.13,3.03,3.80
+05 Feb 2011,Nice,Sochaux,2.39,3.03,3.21
+30 Jan 2011,Monaco,Marseille,3.62,3.20,2.11
+30 Jan 2011,Bordeaux,Nice,1.56,3.72,6.51
+30 Jan 2011,Nancy,Montpellier,2.29,3.06,3.37
+29 Jan 2011,Lille,Lens,1.35,4.59,9.72
+29 Jan 2011,ArlesAvignon,PSG,7.41,4.03,1.48
+29 Jan 2011,Caen,Auxerre,2.49,3.03,3.01
+29 Jan 2011,Lorient,Brest,1.79,3.41,4.78
+29 Jan 2011,Sochaux,Rennes,2.86,2.96,2.67
+29 Jan 2011,St Etienne,Toulouse,2.19,3.03,3.60
+29 Jan 2011,Valenciennes,Lyon,4.20,3.21,1.94
+22 Jan 2011,Lens,Caen,2.09,3.07,3.87
+19 Jan 2011,Lille,Nancy,1.38,4.44,8.70
+16 Jan 2011,Marseille,Bordeaux,1.74,3.49,4.92
+15 Jan 2011,Auxerre,Monaco,1.93,3.13,4.43
+15 Jan 2011,Brest,Caen,2.01,3.11,4.09
+15 Jan 2011,Lens,St Etienne,2.47,3.09,2.98
+15 Jan 2011,Lyon,Lorient,1.48,3.95,7.62
+15 Jan 2011,Montpellier,Valenciennes,2.02,3.10,4.12
+15 Jan 2011,Nice,Lille,4.38,3.34,1.87
+15 Jan 2011,PSG,Sochaux,1.48,4.01,7.41
+15 Jan 2011,Rennes,ArlesAvignon,1.35,4.60,9.79
+15 Jan 2011,Toulouse,Nancy,1.90,3.26,4.34
+22 Dec 2010,Bordeaux,Lens,1.59,3.64,6.23
+22 Dec 2010,Brest,Marseille,4.00,3.14,2.03
+22 Dec 2010,Caen,Rennes,2.97,3.07,2.51
+22 Dec 2010,Lille,St Etienne,1.46,4.12,7.44
+22 Dec 2010,Lyon,Auxerre,1.53,3.72,7.13
+22 Dec 2010,Monaco,Sochaux,2.12,3.07,3.76
+22 Dec 2010,Nancy,PSG,3.78,3.16,2.06
+22 Dec 2010,Valenciennes,Toulouse,2.32,2.98,3.39
+22 Dec 2010,Arles-Avignon,Nice,3.18,3.10,2.36
+21 Dec 2010,Lorient,Montpellier,2.04,3.14,3.96
+19 Dec 2010,Marseille,Lyon,2.13,3.19,3.57
+19 Dec 2010,Sochaux,Bordeaux,2.51,3.11,2.91
+18 Dec 2010,PSG,Monaco,1.49,3.92,7.28
+18 Dec 2010,Montpellier,Auxerre,2.03,3.19,3.90
+18 Dec 2010,Nice,Brest,2.27,3.07,3.38
+18 Dec 2010,Rennes,Valenciennes,1.78,3.39,4.85
+18 Dec 2010,St Etienne,Arles-Avignon,1.37,4.41,9.19
+18 Dec 2010,Toulouse,Lorient,2.14,3.11,3.66
+12 Dec 2010,Bordeaux,Rennes,2.01,3.14,4.03
+12 Dec 2010,Lyon,Toulouse,1.57,3.65,6.48
+12 Dec 2010,Monaco,St Etienne,2.28,3.14,3.29
+11 Dec 2010,Auxerre,Marseille,3.70,3.14,2.12
+11 Dec 2010,Arles-Avignon,Lille,7.42,4.08,1.46
+11 Dec 2010,Brest,Montpellier,2.39,3.01,3.21
+11 Dec 2010,Caen,Nice,2.07,3.14,3.86
+11 Dec 2010,Lorient,Lens,2.00,3.18,4.06
+11 Dec 2010,Nancy,Sochaux,2.14,3.19,3.55
+11 Dec 2010,Valenciennes,PSG,3.31,3.13,2.27
+05 Dec 2010,St Etienne,Bordeaux,2.49,3.03,3.01
+05 Dec 2010,Nice,Marseille,4.35,3.38,1.86
+05 Dec 2010,PSG,Brest,1.56,3.78,6.25
+05 Dec 2010,Lille,Lorient,1.54,3.84,6.76
+04 Dec 2010,Montpellier,Lyon,2.97,3.07,2.50
+04 Dec 2010,Arles-Avignon,Nancy,3.56,3.14,2.17
+04 Dec 2010,Lens,Auxerre,2.41,3.01,3.18
+04 Dec 2010,Rennes,Monaco,1.81,3.34,4.73
+04 Dec 2010,Sochaux,Valenciennes,2.05,3.18,3.84
+04 Dec 2010,Toulouse,Caen,1.71,3.43,5.41
+01 Dec 2010,Marseille,Rennes,1.52,3.86,6.69
+01 Dec 2010,Valenciennes,St Etienne,2.22,3.10,3.48
+30 Nov 2010,Brest,Lens,2.14,3.03,3.81
+28 Nov 2010,Lyon,PSG,2.04,3.22,3.82
+28 Nov 2010,Auxerre,Toulouse,1.98,3.17,4.10
+28 Nov 2010,Caen,Sochaux,2.15,3.14,3.61
+27 Nov 2010,Bordeaux,Lille,2.56,3.08,2.88
+27 Nov 2010,Lorient,Rennes,2.43,3.01,3.13
+27 Nov 2010,Marseille,Montpellier,1.65,3.55,5.77
+27 Nov 2010,Monaco,Nice,2.15,3.08,3.69
+27 Nov 2010,Nancy,St Etienne,2.24,3.09,3.40
+27 Nov 2010,Valenciennes,Arles-Avignon,1.52,3.79,6.99
+21 Nov 2010,Lens,Lyon,3.15,3.04,2.41
+21 Nov 2010,Arles-Avignon,Bordeaux,5.19,3.51,1.71
+21 Nov 2010,Lille,Monaco,1.51,3.90,6.98
+20 Nov 2010,Nice,Montpellier,2.82,2.97,2.71
+20 Nov 2010,Nancy,Valenciennes,2.12,3.09,3.72
+20 Nov 2010,Sochaux,Lorient,2.43,3.05,3.10
+20 Nov 2010,St Etienne,Auxerre,2.27,3.02,3.45
+20 Nov 2010,Toulouse,Marseille,3.15,3.06,2.40
+20 Nov 2010,PSG,Caen,1.48,4.00,7.26
+20 Nov 2010,Rennes,Brest,1.82,3.31,4.80
+14 Nov 2010,Lyon,Nice,1.39,4.34,8.78
+14 Nov 2010,Auxerre,Rennes,2.36,3.04,3.23
+14 Nov 2010,Lorient,PSG,2.53,3.05,2.95
+13 Nov 2010,Caen,Lille,3.56,3.21,2.13
+13 Nov 2010,Bordeaux,Nancy,1.69,3.63,5.16
+13 Nov 2010,Brest,Sochaux,1.95,3.22,4.17
+13 Nov 2010,Marseille,Lens,1.40,4.31,8.57
+13 Nov 2010,Monaco,ArlesAvignon,1.54,3.72,6.94
+13 Nov 2010,Montpellier,Toulouse,2.18,3.08,3.59
+07 Nov 2010,PSG,Marseille,2.41,3.10,3.07
+07 Nov 2010,Lens,Montpellier,2.43,3.05,3.11
+07 Nov 2010,Lille,Brest,1.62,3.67,5.80
+07 Nov 2010,Nancy,Monaco,2.07,3.15,3.83
+07 Nov 2010,Nice,Toulouse,2.79,2.98,2.71
+06 Nov 2010,Rennes,Lyon,2.70,3.05,2.76
+06 Nov 2010,ArlesAvignon,Caen,3.39,3.04,2.29
+06 Nov 2010,Bordeaux,Valenciennes,1.86,3.23,4.64
+06 Nov 2010,Sochaux,Auxerre,2.33,3.01,3.31
+06 Nov 2010,St Etienne,Lorient,2.03,3.20,3.97
+02 Nov 2010,Monaco,Bordeaux,2.69,3.01,2.79
+31 Oct 2010,Montpellier,PSG,2.72,3.00,2.79
+31 Oct 2010,Valenciennes,Lille,3.28,3.06,2.34
+30 Oct 2010,Auxerre,Nice,1.80,3.29,4.90
+30 Oct 2010,Brest,St Etienne,2.29,3.05,3.36
+30 Oct 2010,Caen,Nancy,2.14,3.10,3.68
+30 Oct 2010,Lorient,ArlesAvignon,1.45,4.07,7.70
+30 Oct 2010,Lyon,Sochaux,1.43,4.17,8.06
+30 Oct 2010,Toulouse,Lens,1.76,3.37,5.06
+24 Oct 2010,Lille,Marseille,2.28,3.10,3.33
+24 Oct 2010,ArlesAvignon,Lyon,7.84,4.09,1.45
+24 Oct 2010,PSG,Auxerre,1.67,3.52,5.55
+23 Oct 2010,Sochaux,Toulouse,2.34,3.10,3.20
+23 Oct 2010,Bordeaux,Brest,1.67,3.44,5.79
+23 Oct 2010,Lens,Nice,1.99,3.20,4.06
+23 Oct 2010,Monaco,Valenciennes,2.09,3.10,3.85
+23 Oct 2010,Nancy,Lorient,2.18,3.11,3.56
+23 Oct 2010,Rennes,Montpellier,1.83,3.32,4.63
+23 Oct 2010,St Etienne,Caen,1.87,3.30,4.46
+17 Oct 2010,Lyon,Lille,2.07,3.18,3.76
+17 Oct 2010,Lens,Rennes,3.04,3.07,2.46
+17 Oct 2010,Lorient,Valenciennes,2.05,3.13,3.92
+17 Oct 2010,Nice,St Etienne,2.80,3.08,2.65
+16 Oct 2010,Toulouse,PSG,2.78,3.05,2.69
+16 Oct 2010,Auxerre,Bordeaux,2.56,3.00,2.95
+16 Oct 2010,Brest,ArlesAvignon,1.53,3.73,7.19
+16 Oct 2010,Caen,Monaco,2.05,3.22,3.75
+16 Oct 2010,Marseille,Nancy,1.42,4.25,8.36
+16 Oct 2010,Montpellier,Sochaux,2.03,3.21,3.91
+03 Oct 2010,Rennes,Toulouse,2.08,3.07,3.80
+03 Oct 2010,Lille,Montpellier,1.69,3.47,5.37
+03 Oct 2010,PSG,Nice,1.57,3.69,6.35
+02 Oct 2010,St Etienne,Marseille,2.93,3.12,2.46
+02 Oct 2010,Arles-Avignon,Auxerre,3.44,3.10,2.21
+02 Oct 2010,Bordeaux,Lorient,1.76,3.41,4.86
+02 Oct 2010,Monaco,Brest,1.99,3.13,4.13
+02 Oct 2010,Nancy,Lyon,3.56,3.18,2.13
+02 Oct 2010,Sochaux,Lens,2.01,3.17,3.94
+02 Oct 2010,Valenciennes,Caen,2.38,3.02,3.16
+26 Sep 2010,Lens,PSG,3.04,3.07,2.45
+26 Sep 2010,Brest,Valenciennes,2.22,3.03,3.56
+26 Sep 2010,Toulouse,Lille,2.82,2.99,2.68
+25 Sep 2010,Lyon,St Etienne,1.85,3.26,4.63
+25 Sep 2010,Auxerre,Nancy,2.25,3.01,3.50
+25 Sep 2010,Caen,Bordeaux,2.76,3.01,2.71
+25 Sep 2010,Lorient,Monaco,2.16,3.06,3.67
+25 Sep 2010,Marseille,Sochaux,1.43,4.23,8.02
+25 Sep 2010,Montpellier,Arles-Avignon,1.49,3.83,7.56
+25 Sep 2010,Nice,Rennes,2.81,2.99,2.68
+19 Sep 2010,Bordeaux,Lyon,2.67,3.07,2.77
+19 Sep 2010,Lille,Auxerre,1.77,3.42,4.85
+19 Sep 2010,PSG,Rennes,1.90,3.34,4.23
+18 Sep 2010,Arles-Avignon,Marseille,5.90,3.88,1.53
+18 Sep 2010,Lorient,Caen,2.08,3.18,3.74
+18 Sep 2010,Monaco,Toulouse,2.34,3.03,3.27
+18 Sep 2010,Nancy,Brest,2.05,3.17,3.87
+18 Sep 2010,Sochaux,Nice,2.20,3.13,3.48
+18 Sep 2010,St Etienne,Montpellier,2.14,3.12,3.64
+18 Sep 2010,Valenciennes,Lens,2.13,3.13,3.59
+12 Sep 2010,Marseille,Monaco,1.65,3.54,5.71
+12 Sep 2010,Brest,Lorient,2.54,3.08,2.91
+12 Sep 2010,Nice,Bordeaux,3.02,3.05,2.47
+11 Sep 2010,Lens,Lille,3.25,3.08,2.33
+11 Sep 2010,Auxerre,Caen,1.99,3.19,4.09
+11 Sep 2010,Lyon,Valenciennes,1.50,3.87,7.36
+11 Sep 2010,Montpellier,Nancy,1.78,3.32,5.06
+11 Sep 2010,PSG,Arles-Avignon,1.39,4.34,9.00
+11 Sep 2010,Rennes,Sochaux,1.66,3.52,5.61
+11 Sep 2010,Toulouse,St Etienne,1.89,3.24,4.49
+29 Aug 2010,Bordeaux,Marseille,2.54,3.08,2.91
+29 Aug 2010,Lille,Nice,1.52,3.86,7.07
+29 Aug 2010,Monaco,Auxerre,2.37,2.98,3.28
+29 Aug 2010,Sochaux,PSG,3.27,3.07,2.31
+28 Aug 2010,Caen,Brest,1.94,3.20,4.20
+28 Aug 2010,Arles-Avignon,Rennes,3.67,3.17,2.10
+28 Aug 2010,Lorient,Lyon,3.37,3.15,2.22
+28 Aug 2010,Nancy,Toulouse,2.44,3.03,3.10
+28 Aug 2010,St Etienne,Lens,2.05,3.14,3.96
+28 Aug 2010,Valenciennes,Montpellier,2.27,3.02,3.46
+22 Aug 2010,PSG,Bordeaux,2.10,3.18,3.67
+22 Aug 2010,Montpellier,Caen,2.10,3.08,3.82
+22 Aug 2010,Sochaux,Lille,3.80,3.18,2.06
+21 Aug 2010,Auxerre,Valenciennes,2.10,3.08,3.82
+21 Aug 2010,Lens,Monaco,2.17,3.12,3.55
+21 Aug 2010,Lyon,Brest,1.39,4.35,8.54
+21 Aug 2010,Marseille,Lorient,1.55,3.73,6.58
+21 Aug 2010,Nice,Nancy,2.40,3.05,3.14
+21 Aug 2010,Rennes,St Etienne,1.72,3.40,5.40
+21 Aug 2010,Toulouse,ArlesAvignon,1.61,3.60,6.17
+17 Aug 2010,Monaco,Montpellier,2.25,3.09,3.37
+15 Aug 2010,Lille,PSG,1.96,3.16,4.23
+15 Aug 2010,Bordeaux,Toulouse,1.80,3.27,4.95
+15 Aug 2010,Caen,Lyon,3.61,3.17,2.12
+14 Aug 2010,ArlesAvignon,Lens,2.77,3.08,2.67
+14 Aug 2010,Brest,Auxerre,2.83,3.05,2.63
+14 Aug 2010,Lorient,Nice,1.79,3.32,4.96
+14 Aug 2010,Nancy,Rennes,2.56,3.07,2.90
+14 Aug 2010,St Etienne,Sochaux,1.94,3.16,4.33
+14 Aug 2010,Valenciennes,Marseille,3.33,3.16,2.25
+08 Aug 2010,Montpellier,Bordeaux,2.88,3.03,2.61
+07 Aug 2010,Auxerre,Lorient,1.79,3.39,4.82
+07 Aug 2010,Lens,Nancy,2.03,3.15,3.94
+07 Aug 2010,Lyon,Monaco,1.44,4.07,8.21
+07 Aug 2010,Marseille,Caen,1.31,5.08,9.70
+07 Aug 2010,Nice,Valenciennes,2.34,3.01,3.33
+07 Aug 2010,PSG,St Etienne,1.65,3.53,5.82
+07 Aug 2010,Rennes,Lille,2.80,3.05,2.64
+07 Aug 2010,Sochaux,ArlesAvignon,1.84,3.26,4.74
+07 Aug 2010,Toulouse,Brest,1.74,3.42,5.17

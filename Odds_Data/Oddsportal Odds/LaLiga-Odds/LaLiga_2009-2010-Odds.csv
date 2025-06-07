@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,HomeBet,DrawBet,AwayBet
+16 May 2010,Barcelona,Valladolid,1.04,14.06,28.31
+16 May 2010,Malaga,Real Madrid,8.98,5.46,1.29
+16 May 2010,Osasuna,Xerez CD,2.36,3.49,2.82
+16 May 2010,Racing Santander,Gijon,1.29,5.56,9.89
+16 May 2010,Valencia,Tenerife,2.06,3.57,3.36
+15 May 2010,Almeria,Sevilla,6.88,4.67,1.42
+15 May 2010,Mallorca,Espanyol,1.29,5.51,9.28
+15 May 2010,Atl. Madrid,Getafe,4.35,4.09,1.69
+15 May 2010,Zaragoza,Villarreal,3.82,3.59,1.91
+15 May 2010,Ath Bilbao,Dep. La Coruna,1.85,3.52,4.24
+08 May 2010,Dep. La Coruna,Mallorca,3.74,3.67,1.91
+08 May 2010,Espanyol,Osasuna,1.98,3.32,3.93
+08 May 2010,Getafe,Malaga,1.79,3.57,4.50
+08 May 2010,Gijon,Atl. Madrid,1.70,3.82,4.76
+08 May 2010,Real Madrid,Ath Bilbao,1.08,10.74,23.45
+08 May 2010,Sevilla,Barcelona,5.96,4.61,1.48
+08 May 2010,Tenerife,Almeria,1.57,4.02,5.61
+08 May 2010,Valladolid,Racing Santander,2.09,3.36,3.51
+08 May 2010,Villarreal,Valencia,1.69,3.96,4.57
+08 May 2010,Xerez CD,Zaragoza,2.97,3.36,2.35
+05 May 2010,Mallorca,Real Madrid,5.22,4.37,1.56
+05 May 2010,Ath Bilbao,Malaga,1.89,3.44,4.13
+05 May 2010,Atl. Madrid,Valladolid,2.12,3.40,3.35
+05 May 2010,Osasuna,Dep. La Coruna,1.62,3.77,5.53
+05 May 2010,Racing Santander,Sevilla,3.41,3.38,2.11
+05 May 2010,Zaragoza,Espanyol,1.74,3.57,4.80
+04 May 2010,Valencia,Xerez CD,1.27,5.73,10.13
+04 May 2010,Almeria,Villarreal,2.73,3.37,2.50
+04 May 2010,Barcelona,Tenerife,1.06,12.00,27.50
+04 May 2010,Getafe,Gijon,1.51,4.03,6.61
+02 May 2010,Ath Bilbao,Mallorca,2.06,3.34,3.63
+02 May 2010,Real Madrid,Osasuna,1.10,9.58,22.67
+02 May 2010,Sevilla,Atl. Madrid,1.33,5.30,8.01
+01 May 2010,Villarreal,Barcelona,5.91,4.13,1.54
+01 May 2010,Espanyol,Valencia,3.03,3.27,2.30
+01 May 2010,Dep. La Coruna,Zaragoza,2.86,3.22,2.49
+01 May 2010,Malaga,Gijon,1.79,3.54,4.52
+01 May 2010,Tenerife,Racing Santander,2.01,3.38,3.69
+01 May 2010,Valladolid,Getafe,2.40,3.33,2.85
+01 May 2010,Xerez CD,Almeria,2.46,3.28,2.80
+26 Apr 2010,Osasuna,Ath Bilbao,2.47,3.26,2.86
+25 Apr 2010,Getafe,Sevilla,2.70,3.30,2.57
+25 Apr 2010,Atl. Madrid,Tenerife,1.94,3.48,3.90
+25 Apr 2010,Almeria,Espanyol,2.18,3.14,3.50
+25 Apr 2010,Gijon,Valladolid,2.27,3.22,3.21
+25 Apr 2010,Mallorca,Malaga,1.52,4.06,6.41
+25 Apr 2010,Racing Santander,Villarreal,2.97,3.26,2.39
+24 Apr 2010,Valencia,Dep. La Coruna,1.34,4.92,8.70
+24 Apr 2010,Zaragoza,Real Madrid,8.58,5.21,1.33
+24 Apr 2010,Barcelona,Xerez CD,1.09,9.22,27.80
+19 Apr 2010,Mallorca,Osasuna,1.57,3.73,6.26
+18 Apr 2010,Real Madrid,Valencia,1.36,4.95,7.80
+18 Apr 2010,Ath Bilbao,Zaragoza,1.79,3.57,4.52
+18 Apr 2010,Dep. La Coruna,Almeria,2.02,3.39,3.65
+18 Apr 2010,Malaga,Valladolid,2.14,3.27,3.46
+18 Apr 2010,Tenerife,Getafe,2.33,3.34,3.00
+18 Apr 2010,Xerez CD,Racing Santander,2.41,3.31,2.89
+17 Apr 2010,Villarreal,Atl. Madrid,1.69,3.88,4.78
+17 Apr 2010,Espanyol,Barcelona,9.55,5.11,1.30
+17 Apr 2010,Sevilla,Gijon,1.35,4.74,9.18
+15 Apr 2010,Valencia,Ath Bilbao,1.61,3.81,5.60
+15 Apr 2010,Almeria,Real Madrid,9.46,5.47,1.30
+14 Apr 2010,Barcelona,Dep. La Coruna,1.11,8.76,19.57
+14 Apr 2010,Atl. Madrid,Xerez CD,1.36,4.77,8.97
+14 Apr 2010,Osasuna,Malaga,1.97,3.35,3.90
+14 Apr 2010,Racing Santander,Espanyol,2.10,3.27,3.57
+14 Apr 2010,Zaragoza,Mallorca,2.24,3.29,3.20
+13 Apr 2010,Getafe,Villarreal,2.64,3.31,2.63
+13 Apr 2010,Gijon,Tenerife,1.91,3.43,4.04
+13 Apr 2010,Valladolid,Sevilla,4.07,3.53,1.88
+11 Apr 2010,Mallorca,Valencia,2.35,3.37,2.93
+11 Apr 2010,Espanyol,Atl. Madrid,2.48,3.31,2.82
+11 Apr 2010,Ath Bilbao,Almeria,1.67,3.67,5.18
+11 Apr 2010,Dep. La Coruna,Racing Santander,2.08,3.32,3.56
+11 Apr 2010,Osasuna,Zaragoza,2.24,3.22,3.28
+10 Apr 2010,Real Madrid,Barcelona,2.51,3.43,2.70
+10 Apr 2010,Tenerife,Valladolid,1.90,3.43,4.07
+10 Apr 2010,Villarreal,Gijon,1.42,4.42,7.73
+10 Apr 2010,Xerez CD,Getafe,2.97,3.30,2.35
+10 Apr 2010,Malaga,Sevilla,3.42,3.37,2.12
+04 Apr 2010,Atl. Madrid,Dep. La Coruna,1.74,3.65,4.68
+04 Apr 2010,Racing Santander,Real Madrid,9.92,5.53,1.28
+04 Apr 2010,Almeria,Mallorca,2.47,3.29,2.84
+04 Apr 2010,Getafe,Espanyol,1.80,3.54,4.49
+04 Apr 2010,Gijon,Xerez CD,1.77,3.52,4.70
+04 Apr 2010,Valencia,Osasuna,1.61,3.73,5.74
+04 Apr 2010,Valladolid,Villarreal,3.41,3.41,2.10
+03 Apr 2010,Sevilla,Tenerife,1.40,4.38,8.34
+03 Apr 2010,Barcelona,Ath Bilbao,1.16,6.86,16.42
+03 Apr 2010,Zaragoza,Malaga,1.84,3.48,4.29
+29 Mar 2010,Ath Bilbao,Racing Santander,1.92,3.39,4.06
+28 Mar 2010,Real Madrid,Atl. Madrid,1.30,5.45,9.29
+28 Mar 2010,Villarreal,Sevilla,2.25,3.29,3.19
+28 Mar 2010,Dep. La Coruna,Getafe,2.25,3.23,3.24
+28 Mar 2010,Espanyol,Gijon,1.92,3.41,4.00
+28 Mar 2010,Osasuna,Almeria,2.06,3.27,3.69
+28 Mar 2010,Xerez CD,Valladolid,2.51,3.23,2.83
+27 Mar 2010,Zaragoza,Valencia,2.64,3.23,2.69
+27 Mar 2010,Mallorca,Barcelona,6.26,4.10,1.52
+27 Mar 2010,Malaga,Tenerife,1.85,3.54,4.26
+25 Mar 2010,Atl. Madrid,Ath Bilbao,1.85,3.54,4.18
+25 Mar 2010,Getafe,Real Madrid,7.30,4.66,1.41
+24 Mar 2010,Valencia,Malaga,1.44,4.41,7.22
+24 Mar 2010,Almeria,Zaragoza,2.17,3.28,3.37
+24 Mar 2010,Barcelona,Osasuna,1.11,8.69,20.40
+24 Mar 2010,Racing Santander,Mallorca,2.37,3.25,3.02
+24 Mar 2010,Tenerife,Villarreal,2.61,3.28,2.67
+24 Mar 2010,Valladolid,Espanyol,2.16,3.28,3.41
+23 Mar 2010,Sevilla,Xerez CD,1.29,5.22,10.60
+23 Mar 2010,Gijon,Dep. La Coruna,2.36,3.19,3.09
+21 Mar 2010,Zaragoza,Barcelona,10.61,5.24,1.29
+21 Mar 2010,Valencia,Almeria,1.59,3.78,5.75
+21 Mar 2010,Malaga,Villarreal,2.70,3.26,2.56
+21 Mar 2010,Mallorca,Atl. Madrid,2.06,3.38,3.51
+21 Mar 2010,Osasuna,Racing Santander,2.18,3.14,3.44
+20 Mar 2010,Espanyol,Sevilla,3.20,3.26,2.25
+20 Mar 2010,Real Madrid,Gijon,1.12,8.62,18.41
+20 Mar 2010,Ath Bilbao,Getafe,2.05,3.29,3.67
+20 Mar 2010,Dep. La Coruna,Valladolid,1.75,3.52,4.87
+20 Mar 2010,Xerez CD,Tenerife,2.62,3.23,2.70
+15 Mar 2010,Atl. Madrid,Osasuna,1.81,3.50,4.52
+14 Mar 2010,Valladolid,Real Madrid,10.44,5.21,1.29
+14 Mar 2010,Barcelona,Valencia,1.34,5.05,8.68
+14 Mar 2010,Almeria,Malaga,2.00,3.30,3.75
+14 Mar 2010,Racing Santander,Zaragoza,2.45,3.21,2.93
+14 Mar 2010,Tenerife,Espanyol,2.27,3.27,3.17
+14 Mar 2010,Villarreal,Xerez CD,1.35,4.61,8.96
+13 Mar 2010,Sevilla,Dep. La Coruna,1.63,3.79,5.44
+13 Mar 2010,Gijon,Ath Bilbao,2.53,3.24,2.75
+13 Mar 2010,Getafe,Mallorca,2.12,3.31,3.46
+08 Mar 2010,Valencia,Racing Santander,1.54,3.93,5.98
+07 Mar 2010,Zaragoza,Atl. Madrid,2.64,3.27,2.61
+07 Mar 2010,Ath Bilbao,Valladolid,1.72,3.54,4.91
+07 Mar 2010,Espanyol,Villarreal,2.63,3.26,2.63
+07 Mar 2010,Malaga,Xerez CD,1.56,3.76,6.15
+07 Mar 2010,Mallorca,Gijon,1.66,3.76,5.12
+07 Mar 2010,Osasuna,Getafe,2.29,3.26,3.07
+06 Mar 2010,Real Madrid,Sevilla,1.41,4.68,7.07
+06 Mar 2010,Almeria,Barcelona,10.27,5.21,1.28
+06 Mar 2010,Dep. La Coruna,Tenerife,1.71,3.59,5.08
+28 Feb 2010,Atl. Madrid,Valencia,2.45,3.38,2.78
+28 Feb 2010,Sevilla,Ath Bilbao,1.57,3.91,5.94
+28 Feb 2010,Gijon,Osasuna,2.38,3.20,3.01
+28 Feb 2010,Racing Santander,Almeria,2.08,3.29,3.58
+28 Feb 2010,Valladolid,Mallorca,2.41,3.26,2.94
+28 Feb 2010,Villarreal,Dep. La Coruna,1.81,3.51,4.45
+28 Feb 2010,Xerez CD,Espanyol,3.06,3.24,2.35
+27 Feb 2010,Barcelona,Malaga,1.13,7.44,18.30
+27 Feb 2010,Tenerife,Real Madrid,10.18,5.35,1.29
+27 Feb 2010,Getafe,Zaragoza,1.82,3.46,4.31
+22 Feb 2010,Valencia,Getafe,1.56,3.85,6.08
+21 Feb 2010,Real Madrid,Villarreal,1.26,5.57,10.81
+21 Feb 2010,Almeria,Atl. Madrid,2.57,3.24,2.67
+21 Feb 2010,Ath Bilbao,Tenerife,1.85,3.47,4.32
+21 Feb 2010,Malaga,Espanyol,2.09,3.25,3.56
+21 Feb 2010,Osasuna,Valladolid,1.72,3.61,4.89
+21 Feb 2010,Zaragoza,Gijon,1.84,3.49,4.31
+20 Feb 2010,Mallorca,Sevilla,2.45,3.26,2.89
+20 Feb 2010,Barcelona,Racing Santander,1.16,7.01,16.58
+20 Feb 2010,Dep. La Coruna,Xerez CD,1.57,3.69,6.17
+15 Feb 2010,Tenerife,Mallorca,2.47,3.28,2.82
+14 Feb 2010,Atl. Madrid,Barcelona,5.03,3.93,1.63
+14 Feb 2010,Sevilla,Osasuna,1.56,3.78,6.27
+14 Feb 2010,Espanyol,Dep. La Coruna,2.31,3.22,3.14
+14 Feb 2010,Getafe,Almeria,1.72,3.56,4.97
+14 Feb 2010,Racing Santander,Malaga,2.10,3.26,3.57
+14 Feb 2010,Valladolid,Zaragoza,2.45,3.30,2.85
+13 Feb 2010,Villarreal,Ath Bilbao,1.85,3.50,4.26
+13 Feb 2010,Xerez CD,Real Madrid,12.01,5.41,1.25
+13 Feb 2010,Gijon,Valencia,4.53,3.67,1.76
+07 Feb 2010,Racing Santander,Atl. Madrid,2.46,3.32,2.82
+07 Feb 2010,Zaragoza,Sevilla,3.17,3.29,2.23
+07 Feb 2010,Almeria,Gijon,2.00,3.40,3.74
+07 Feb 2010,Ath Bilbao,Xerez CD,1.55,3.77,6.52
+07 Feb 2010,Malaga,Dep. La Coruna,2.29,3.26,3.09
+07 Feb 2010,Mallorca,Villarreal,2.29,3.28,3.10
+07 Feb 2010,Osasuna,Tenerife,1.77,3.53,4.64
+06 Feb 2010,Real Madrid,Espanyol,1.20,6.58,13.18
+06 Feb 2010,Barcelona,Getafe,1.15,7.61,15.50
+06 Feb 2010,Valencia,Valladolid,1.33,4.96,9.31
+31 Jan 2010,Sevilla,Valencia,2.26,3.36,3.08
+31 Jan 2010,Atl. Madrid,Malaga,1.67,3.64,5.22
+31 Jan 2010,Getafe,Racing Santander,1.84,3.43,4.43
+31 Jan 2010,Tenerife,Zaragoza,2.09,3.33,3.53
+31 Jan 2010,Valladolid,Almeria,2.09,3.33,3.53
+31 Jan 2010,Villarreal,Osasuna,1.69,3.55,5.28
+31 Jan 2010,Xerez CD,Mallorca,3.57,3.29,2.09
+30 Jan 2010,Dep. La Coruna,Real Madrid,3.79,3.46,1.97
+30 Jan 2010,Gijon,Barcelona,12.80,5.71,1.23
+30 Jan 2010,Espanyol,Ath Bilbao,2.34,3.26,3.07
+24 Jan 2010,Real Madrid,Malaga,1.16,7.17,15.83
+24 Jan 2010,Getafe,Atl. Madrid,2.40,3.25,2.96
+24 Jan 2010,Espanyol,Mallorca,2.45,3.28,2.87
+24 Jan 2010,Gijon,Racing Santander,2.21,3.29,3.29
+24 Jan 2010,Tenerife,Valencia,4.81,3.57,1.74
+24 Jan 2010,Villarreal,Zaragoza,1.55,3.86,6.36
+24 Jan 2010,Xerez CD,Osasuna,3.19,3.25,2.26
+23 Jan 2010,Dep. La Coruna,Ath Bilbao,2.25,3.25,3.23
+23 Jan 2010,Valladolid,Barcelona,11.23,5.71,1.25
+23 Jan 2010,Sevilla,Almeria,1.41,4.36,7.98
+17 Jan 2010,Valencia,Villarreal,1.84,3.52,4.18
+17 Jan 2010,Atl. Madrid,Gijon,1.50,4.14,6.20
+17 Jan 2010,Almeria,Tenerife,1.95,3.37,3.85
+17 Jan 2010,Malaga,Getafe,2.57,3.22,2.77
+17 Jan 2010,Mallorca,Dep. La Coruna,2.05,3.29,3.69
+17 Jan 2010,Racing Santander,Valladolid,1.89,3.40,4.04
+17 Jan 2010,Zaragoza,Xerez CD,1.53,3.95,6.21
+16 Jan 2010,Barcelona,Sevilla,1.29,5.68,9.43
+16 Jan 2010,Ath Bilbao,Real Madrid,5.78,3.91,1.57
+16 Jan 2010,Osasuna,Espanyol,2.03,3.28,3.75
+10 Jan 2010,Tenerife,Barcelona,8.26,4.94,1.36
+10 Jan 2010,Real Madrid,Mallorca,1.30,5.16,9.59
+10 Jan 2010,Dep. La Coruna,Osasuna,2.01,3.24,3.91
+10 Jan 2010,Espanyol,Zaragoza,2.07,3.32,3.55
+10 Jan 2010,Gijon,Getafe,2.68,3.23,2.64
+10 Jan 2010,Malaga,Ath Bilbao,2.36,3.28,3.00
+10 Jan 2010,Xerez CD,Valencia,6.24,3.80,1.55
+09 Jan 2010,Villarreal,Almeria,1.41,4.38,8.12
+09 Jan 2010,Sevilla,Racing Santander,1.56,3.80,6.40
+09 Jan 2010,Valladolid,Atl. Madrid,2.51,3.29,2.73
+03 Jan 2010,Osasuna,Real Madrid,7.15,4.34,1.44
+03 Jan 2010,Mallorca,Ath Bilbao,2.08,3.35,3.54
+03 Jan 2010,Almeria,Xerez CD,1.73,3.56,4.97
+03 Jan 2010,Getafe,Valladolid,1.73,3.54,5.00
+03 Jan 2010,Gijon,Malaga,2.19,3.25,3.38
+03 Jan 2010,Racing Santander,Tenerife,1.96,3.47,3.76
+03 Jan 2010,Zaragoza,Dep. La Coruna,2.43,3.30,2.84
+02 Jan 2010,Atl. Madrid,Sevilla,2.71,3.34,2.54
+02 Jan 2010,Barcelona,Villarreal,1.37,4.61,8.53
+02 Jan 2010,Valencia,Espanyol,1.43,4.37,7.23
+20 Dec 2009,Dep. La Coruna,Valencia,2.93,3.28,2.41
+20 Dec 2009,Tenerife,Atl. Madrid,2.64,3.37,2.58
+20 Dec 2009,Espanyol,Almeria,2.11,3.32,3.48
+20 Dec 2009,Malaga,Mallorca,2.50,3.28,2.80
+20 Dec 2009,Valladolid,Gijon,2.12,3.34,3.44
+20 Dec 2009,Villarreal,Racing Santander,1.56,3.91,6.06
+19 Dec 2009,Real Madrid,Zaragoza,1.21,6.36,12.93
+19 Dec 2009,Sevilla,Getafe,1.59,3.77,5.99
+19 Dec 2009,Ath Bilbao,Osasuna,2.09,3.30,3.53
+13 Dec 2009,Gijon,Sevilla,3.41,3.41,2.10
+13 Dec 2009,Atl. Madrid,Villarreal,2.19,3.34,3.25
+13 Dec 2009,Almeria,Dep. La Coruna,2.52,3.27,2.77
+13 Dec 2009,Getafe,Tenerife,1.76,3.54,4.64
+13 Dec 2009,Osasuna,Mallorca,2.18,3.30,3.32
+13 Dec 2009,Racing Santander,Xerez CD,1.68,3.56,5.33
+13 Dec 2009,Valladolid,Malaga,2.01,3.39,3.72
+12 Dec 2009,Valencia,Real Madrid,2.41,3.43,2.80
+12 Dec 2009,Barcelona,Espanyol,1.16,7.24,15.86
+12 Dec 2009,Zaragoza,Ath Bilbao,2.09,3.37,3.48
+06 Dec 2009,Ath Bilbao,Valencia,3.03,3.38,2.26
+06 Dec 2009,Villarreal,Getafe,1.84,3.52,4.26
+06 Dec 2009,Espanyol,Racing Santander,2.02,3.30,3.76
+06 Dec 2009,Malaga,Osasuna,2.34,3.24,3.05
+06 Dec 2009,Mallorca,Zaragoza,1.82,3.55,4.31
+06 Dec 2009,Tenerife,Gijon,2.11,3.38,3.41
+05 Dec 2009,Dep. La Coruna,Barcelona,6.34,4.08,1.53
+05 Dec 2009,Real Madrid,Almeria,1.19,6.57,15.05
+05 Dec 2009,Sevilla,Valladolid,1.36,4.74,8.78
+05 Dec 2009,Xerez CD,Atl. Madrid,4.67,3.62,1.75
+02 Dec 2009,Xerez CD,Barcelona,12.40,5.61,1.24
+29 Nov 2009,Atl. Madrid,Espanyol,1.72,3.66,4.90
+29 Nov 2009,Barcelona,Real Madrid,1.76,3.75,4.30
+29 Nov 2009,Almeria,Ath Bilbao,2.20,3.28,3.34
+29 Nov 2009,Getafe,Xerez CD,1.53,3.85,6.74
+29 Nov 2009,Racing Santander,Dep. La Coruna,2.61,3.26,2.64
+29 Nov 2009,Valladolid,Tenerife,1.93,3.46,3.90
+29 Nov 2009,Zaragoza,Osasuna,1.98,3.39,3.82
+28 Nov 2009,Sevilla,Malaga,1.29,5.27,10.50
+28 Nov 2009,Valencia,Mallorca,1.51,4.07,6.30
+28 Nov 2009,Gijon,Villarreal,3.01,3.33,2.33
+22 Nov 2009,Osasuna,Valencia,3.38,3.39,2.13
+22 Nov 2009,Malaga,Zaragoza,2.25,3.38,3.11
+22 Nov 2009,Espanyol,Getafe,2.12,3.29,3.49
+22 Nov 2009,Mallorca,Almeria,1.74,3.59,4.81
+22 Nov 2009,Villarreal,Valladolid,1.61,3.83,5.57
+22 Nov 2009,Xerez CD,Gijon,2.58,3.23,2.70
+21 Nov 2009,Ath Bilbao,Barcelona,7.01,4.38,1.46
+21 Nov 2009,Real Madrid,Racing Santander,1.24,5.81,11.47
+21 Nov 2009,Dep. La Coruna,Atl. Madrid,2.43,3.37,2.83
+21 Nov 2009,Tenerife,Sevilla,4.72,3.55,1.77
+08 Nov 2009,Sevilla,Villarreal,1.56,4.15,5.56
+08 Nov 2009,Valencia,Zaragoza,1.45,4.35,6.90
+08 Nov 2009,Almeria,Osasuna,2.48,3.18,2.90
+08 Nov 2009,Gijon,Espanyol,2.32,3.31,3.06
+08 Nov 2009,Racing Santander,Ath Bilbao,2.03,3.48,3.57
+08 Nov 2009,Valladolid,Xerez CD,1.60,3.95,5.51
+07 Nov 2009,Atl. Madrid,Real Madrid,3.62,3.50,2.00
+07 Nov 2009,Barcelona,Mallorca,1.19,6.69,14.02
+07 Nov 2009,Getafe,Dep. La Coruna,2.03,3.38,3.46
+07 Nov 2009,Tenerife,Malaga,1.90,3.51,3.99
+01 Nov 2009,Dep. La Coruna,Gijon,2.00,3.37,3.77
+01 Nov 2009,Malaga,Valencia,4.04,3.66,1.85
+01 Nov 2009,Espanyol,Valladolid,2.10,3.34,3.54
+01 Nov 2009,Mallorca,Racing Santander,1.88,3.53,4.10
+01 Nov 2009,Villarreal,Tenerife,1.74,3.57,4.83
+01 Nov 2009,Zaragoza,Almeria,1.97,3.42,3.77
+31 Oct 2009,Ath Bilbao,Atl. Madrid,2.73,3.33,2.53
+31 Oct 2009,Osasuna,Barcelona,6.76,4.51,1.44
+31 Oct 2009,Xerez CD,Sevilla,6.32,3.98,1.53
+31 Oct 2009,Real Madrid,Getafe,1.45,4.35,7.14
+25 Oct 2009,Barcelona,Zaragoza,1.13,8.41,16.70
+25 Oct 2009,Almeria,Valencia,3.25,3.46,2.15
+25 Oct 2009,Getafe,Ath Bilbao,1.91,3.51,3.95
+25 Oct 2009,Racing Santander,Osasuna,2.50,3.18,2.85
+25 Oct 2009,Tenerife,Xerez CD,1.72,3.66,4.78
+25 Oct 2009,Valladolid,Dep. La Coruna,2.64,3.23,2.68
+25 Oct 2009,Villarreal,Malaga,1.74,3.56,4.84
+24 Oct 2009,Sevilla,Espanyol,1.52,3.93,6.64
+24 Oct 2009,Gijon,Real Madrid,5.17,3.73,1.68
+24 Oct 2009,Atl. Madrid,Mallorca,1.75,3.71,4.58
+18 Oct 2009,Osasuna,Atl. Madrid,2.51,3.32,2.74
+18 Oct 2009,Ath Bilbao,Gijon,1.86,3.58,4.07
+18 Oct 2009,Espanyol,Tenerife,1.86,3.47,4.24
+18 Oct 2009,Malaga,Almeria,2.07,3.34,3.56
+18 Oct 2009,Mallorca,Getafe,2.14,3.37,3.35
+18 Oct 2009,Xerez CD,Villarreal,3.69,3.41,2.01
+18 Oct 2009,Zaragoza,Racing Santander,1.90,3.50,3.97
+17 Oct 2009,Valencia,Barcelona,4.99,3.83,1.67
+17 Oct 2009,Real Madrid,Valladolid,1.16,7.30,14.06
+17 Oct 2009,Dep. La Coruna,Sevilla,3.59,3.37,2.06
+04 Oct 2009,Sevilla,Real Madrid,3.19,3.32,2.24
+04 Oct 2009,Racing Santander,Valencia,3.62,3.42,2.02
+04 Oct 2009,Getafe,Osasuna,2.02,3.32,3.70
+04 Oct 2009,Gijon,Mallorca,2.66,3.29,2.63
+04 Oct 2009,Valladolid,Ath Bilbao,2.38,3.33,2.92
+04 Oct 2009,Villarreal,Espanyol,1.72,3.65,4.81
+04 Oct 2009,Xerez CD,Malaga,2.55,3.26,2.74
+03 Oct 2009,Atl. Madrid,Zaragoza,1.67,3.62,5.08
+03 Oct 2009,Barcelona,Almeria,1.10,8.88,21.75
+03 Oct 2009,Tenerife,Dep. La Coruna,2.37,3.30,2.98
+27 Sep 2009,Dep. La Coruna,Villarreal,2.46,3.31,2.80
+27 Sep 2009,Zaragoza,Getafe,2.39,3.28,2.94
+27 Sep 2009,Almeria,Racing Santander,2.11,3.36,3.42
+27 Sep 2009,Espanyol,Xerez CD,1.52,4.07,6.33
+27 Sep 2009,Mallorca,Valladolid,1.80,3.55,4.47
+27 Sep 2009,Osasuna,Gijon,1.89,3.49,4.05
+26 Sep 2009,Valencia,Atl. Madrid,1.84,3.66,4.08
+26 Sep 2009,Malaga,Barcelona,11.50,5.72,1.26
+26 Sep 2009,Ath Bilbao,Sevilla,3.14,3.37,2.23
+26 Sep 2009,Real Madrid,Tenerife,1.11,9.08,20.80
+24 Sep 2009,Gijon,Zaragoza,2.06,3.46,3.46
+23 Sep 2009,Getafe,Valencia,3.07,3.39,2.27
+23 Sep 2009,Tenerife,Ath Bilbao,2.44,3.37,2.81
+23 Sep 2009,Atl. Madrid,Almeria,1.44,4.35,7.24
+23 Sep 2009,Espanyol,Malaga,1.92,3.50,3.94
+23 Sep 2009,Valladolid,Osasuna,2.32,3.22,3.12
+23 Sep 2009,Villarreal,Real Madrid,5.17,3.91,1.62
+23 Sep 2009,Xerez CD,Dep. La Coruna,2.88,3.28,2.44
+22 Sep 2009,Racing Santander,Barcelona,11.22,5.26,1.29
+22 Sep 2009,Sevilla,Mallorca,1.43,4.37,7.38
+20 Sep 2009,Valencia,Gijon,1.27,5.47,10.79
+20 Sep 2009,Real Madrid,Xerez CD,1.11,8.13,21.50
+20 Sep 2009,Almeria,Getafe,2.57,3.22,2.75
+20 Sep 2009,Ath Bilbao,Villarreal,2.64,3.23,2.67
+20 Sep 2009,Zaragoza,Valladolid,2.08,3.31,3.56
+19 Sep 2009,Barcelona,Atl. Madrid,1.29,5.47,10.24
+19 Sep 2009,Malaga,Racing Santander,2.08,3.30,3.56
+19 Sep 2009,Osasuna,Sevilla,3.45,3.37,2.08
+19 Sep 2009,Dep. La Coruna,Espanyol,1.90,3.39,4.12
+19 Sep 2009,Mallorca,Tenerife,1.99,3.36,3.78
+13 Sep 2009,Xerez CD,Ath Bilbao,2.62,3.22,2.70
+13 Sep 2009,Valladolid,Valencia,3.62,3.27,2.08
+13 Sep 2009,Dep. La Coruna,Malaga,1.90,3.39,4.12
+13 Sep 2009,Gijon,Almeria,2.33,3.29,3.06
+13 Sep 2009,Tenerife,Osasuna,2.23,3.32,3.22
+13 Sep 2009,Villarreal,Mallorca,1.58,3.85,5.83
+12 Sep 2009,Sevilla,Zaragoza,1.59,3.72,6.13
+12 Sep 2009,Espanyol,Real Madrid,5.34,3.63,1.66
+12 Sep 2009,Atl. Madrid,Racing Santander,1.56,3.95,6.06
+12 Sep 2009,Getafe,Barcelona,5.50,3.68,1.64
+31 Aug 2009,Barcelona,Gijon,1.15,7.97,17.90
+30 Aug 2009,Almeria,Valladolid,2.20,3.27,3.30
+30 Aug 2009,Valencia,Sevilla,2.24,3.34,3.17
+30 Aug 2009,Ath Bilbao,Espanyol,2.22,3.30,3.24
+30 Aug 2009,Malaga,Atl. Madrid,3.85,3.49,1.94
+30 Aug 2009,Mallorca,Xerez CD,1.94,3.33,4.05
+30 Aug 2009,Osasuna,Villarreal,2.65,3.23,2.65
+30 Aug 2009,Racing Santander,Getafe,2.23,3.19,3.33
+29 Aug 2009,Zaragoza,Tenerife,1.90,3.40,4.16
+29 Aug 2009,Real Madrid,Dep. La Coruna,1.23,6.09,13.68

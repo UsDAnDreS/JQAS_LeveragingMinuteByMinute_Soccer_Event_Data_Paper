@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,HomeBet,DrawBet,AwayBet
+30 May 2009,Caen,Bordeaux,5.11,3.49,1.73
+30 May 2009,Grenoble,Sochaux,3.38,2.40,2.88
+30 May 2009,Lille,Nancy,1.45,4.12,7.54
+30 May 2009,Lorient,Le Mans,2.88,2.43,3.29
+30 May 2009,Marseille,Rennes,1.47,4.09,7.29
+30 May 2009,Nantes,Auxerre,2.82,3.14,2.57
+30 May 2009,Nice,Le Havre,1.56,3.64,6.63
+30 May 2009,PSG,Monaco,1.43,4.33,7.84
+30 May 2009,St Etienne,Valenciennes,1.40,4.39,8.38
+30 May 2009,Toulouse,Lyon,2.29,3.08,3.31
+23 May 2009,Auxerre,St Etienne,2.35,3.05,3.22
+23 May 2009,Bordeaux,Monaco,1.23,5.95,14.25
+23 May 2009,Le Havre,Lille,5.85,3.78,1.60
+23 May 2009,Le Mans,Grenoble,1.51,3.82,7.24
+23 May 2009,Lyon,Caen,1.31,4.95,10.19
+23 May 2009,Nancy,Marseille,5.94,3.70,1.59
+23 May 2009,Nice,Toulouse,2.95,3.15,2.47
+23 May 2009,Rennes,Lorient,1.71,3.44,5.39
+23 May 2009,Sochaux,Nantes,1.74,3.48,4.98
+23 May 2009,Valenciennes,PSG,3.07,3.04,2.45
+17 May 2009,Marseille,Lyon,2.03,3.24,3.69
+17 May 2009,Lille,Nice,1.48,3.82,7.61
+17 May 2009,Nantes,Rennes,2.73,3.01,2.76
+16 May 2009,PSG,Auxerre,1.56,3.62,6.82
+16 May 2009,Bordeaux,Le Mans,1.25,5.54,12.75
+16 May 2009,Caen,Sochaux,2.27,3.12,3.34
+16 May 2009,Grenoble,Nancy,2.56,2.76,3.23
+16 May 2009,Lorient,Le Havre,1.51,3.79,7.28
+16 May 2009,Monaco,Valenciennes,2.24,2.92,3.69
+16 May 2009,St Etienne,Toulouse,2.15,3.20,3.55
+13 May 2009,Valenciennes,Bordeaux,5.58,3.61,1.65
+13 May 2009,Auxerre,Grenoble,1.81,3.21,5.03
+13 May 2009,Le Havre,St Etienne,4.25,3.32,1.92
+13 May 2009,Le Mans,PSG,3.32,3.00,2.33
+13 May 2009,Nancy,Lorient,2.21,2.89,3.82
+13 May 2009,Nice,Marseille,5.56,3.55,1.67
+13 May 2009,Rennes,Caen,2.00,3.09,4.15
+13 May 2009,Sochaux,Monaco,1.72,3.48,5.30
+13 May 2009,Toulouse,Lille,2.19,3.02,3.65
+12 May 2009,Lyon,Nantes,1.31,4.87,11.28
+03 May 2009,Bordeaux,Sochaux,1.32,4.82,10.50
+03 May 2009,Nantes,Le Havre,1.50,3.79,7.80
+03 May 2009,PSG,Rennes,1.67,3.49,5.69
+02 May 2009,Marseille,Toulouse,1.52,3.70,7.49
+02 May 2009,Caen,Le Mans,2.09,3.08,3.84
+02 May 2009,Grenoble,Nice,2.33,2.94,3.48
+02 May 2009,Lorient,Lille,3.21,3.01,2.38
+02 May 2009,Monaco,Auxerre,2.12,3.02,3.85
+02 May 2009,St Etienne,Nancy,1.76,3.38,5.05
+02 May 2009,Valenciennes,Lyon,5.46,3.42,1.70
+29 Apr 2009,Rennes,Bordeaux,3.45,3.02,2.26
+26 Apr 2009,Lille,Marseille,2.43,3.04,3.12
+26 Apr 2009,Auxerre,Caen,2.09,3.05,3.93
+26 Apr 2009,Le Havre,Grenoble,2.85,2.97,2.67
+26 Apr 2009,Le Mans,Monaco,2.15,3.01,3.75
+26 Apr 2009,Nancy,Nantes,2.04,3.02,4.15
+26 Apr 2009,Nice,St Etienne,2.67,2.98,2.85
+26 Apr 2009,Sochaux,Valenciennes,1.83,3.15,5.03
+26 Apr 2009,Toulouse,Lorient,1.65,3.47,6.19
+24 Apr 2009,Lyon,PSG,1.69,3.38,5.72
+19 Apr 2009,Bordeaux,Lyon,2.40,3.05,3.18
+19 Apr 2009,Lorient,Marseille,3.86,3.12,2.07
+19 Apr 2009,PSG,Le Havre,1.28,5.04,12.30
+18 Apr 2009,St Etienne,Lille,2.88,3.04,2.58
+18 Apr 2009,Caen,Nancy,2.20,2.96,3.69
+18 Apr 2009,Grenoble,Toulouse,3.57,2.95,2.26
+18 Apr 2009,Monaco,Rennes,2.58,2.92,3.03
+18 Apr 2009,Nantes,Nice,2.15,3.01,3.79
+18 Apr 2009,Sochaux,Auxerre,1.93,3.02,4.65
+18 Apr 2009,Valenciennes,Le Mans,2.02,3.01,4.27
+12 Apr 2009,Lyon,Monaco,1.33,4.49,11.35
+12 Apr 2009,Lille,PSG,2.07,3.06,3.93
+12 Apr 2009,Marseille,Grenoble,1.34,4.43,10.95
+11 Apr 2009,Rennes,St Etienne,1.77,3.29,5.12
+11 Apr 2009,Auxerre,Bordeaux,3.43,3.03,2.28
+11 Apr 2009,Le Havre,Caen,2.78,2.96,2.72
+11 Apr 2009,Le Mans,Sochaux,2.74,2.88,2.89
+11 Apr 2009,Nancy,Valenciennes,2.14,2.95,3.85
+11 Apr 2009,Nice,Lorient,2.18,3.00,3.67
+11 Apr 2009,Toulouse,Nantes,1.55,3.65,7.10
+05 Apr 2009,St Etienne,Marseille,3.29,3.03,2.32
+05 Apr 2009,PSG,Nice,1.66,3.39,5.81
+05 Apr 2009,Sochaux,Rennes,2.69,2.78,2.76
+04 Apr 2009,Caen,Toulouse,3.11,2.95,2.41
+04 Apr 2009,Bordeaux,Nancy,1.45,3.83,8.00
+04 Apr 2009,Grenoble,Lorient,2.36,2.91,3.23
+04 Apr 2009,Le Mans,Lyon,4.28,3.22,1.88
+04 Apr 2009,Monaco,Le Havre,1.54,3.50,7.13
+04 Apr 2009,Nantes,Lille,2.93,2.93,2.53
+04 Apr 2009,Valenciennes,Auxerre,2.23,2.98,3.39
+22 Mar 2009,Toulouse,PSG,2.49,2.94,3.04
+22 Mar 2009,Lorient,St Etienne,2.45,2.92,3.11
+22 Mar 2009,Lyon,Sochaux,1.40,4.17,9.15
+21 Mar 2009,Marseille,Nantes,1.45,3.88,8.55
+21 Mar 2009,Auxerre,Le Mans,2.03,3.05,4.09
+21 Mar 2009,Le Havre,Bordeaux,5.50,3.33,1.73
+21 Mar 2009,Lille,Grenoble,1.51,3.65,8.08
+21 Mar 2009,Nancy,Monaco,2.15,2.98,3.80
+21 Mar 2009,Nice,Caen,1.95,3.04,4.55
+21 Mar 2009,Rennes,Valenciennes,1.59,3.43,6.60
+15 Mar 2009,PSG,Marseille,2.27,3.05,3.42
+15 Mar 2009,Grenoble,St Etienne,2.69,2.96,2.84
+15 Mar 2009,Lyon,Auxerre,1.39,4.22,9.74
+14 Mar 2009,Bordeaux,Nice,1.58,3.55,6.67
+14 Mar 2009,Caen,Lille,3.20,2.93,2.44
+14 Mar 2009,Le Mans,Rennes,3.17,2.94,2.45
+14 Mar 2009,Monaco,Toulouse,2.83,2.94,2.70
+14 Mar 2009,Nantes,Lorient,2.17,2.96,3.77
+14 Mar 2009,Sochaux,Nancy,2.14,2.96,3.81
+14 Mar 2009,Valenciennes,Le Havre,1.62,3.47,6.35
+08 Mar 2009,St Etienne,Nantes,1.78,3.25,5.09
+08 Mar 2009,Le Havre,Sochaux,3.14,2.98,2.43
+08 Mar 2009,Rennes,Auxerre,1.70,3.36,5.71
+07 Mar 2009,Lille,Lyon,3.03,2.95,2.57
+07 Mar 2009,Grenoble,Caen,2.35,2.87,3.51
+07 Mar 2009,Lorient,PSG,3.26,3.09,2.32
+07 Mar 2009,Marseille,Valenciennes,1.52,3.71,7.54
+07 Mar 2009,Nancy,Le Mans,2.01,3.03,4.30
+07 Mar 2009,Nice,Monaco,2.35,2.87,3.49
+07 Mar 2009,Toulouse,Bordeaux,2.68,2.95,2.87
+01 Mar 2009,Lyon,Rennes,1.70,3.28,5.80
+01 Mar 2009,Bordeaux,Lorient,1.58,3.56,6.87
+01 Mar 2009,Caen,Marseille,3.52,3.01,2.24
+01 Mar 2009,Monaco,St Etienne,2.39,2.97,3.27
+01 Mar 2009,PSG,Nancy,1.59,3.50,6.60
+28 Feb 2009,Auxerre,Toulouse,2.51,2.90,3.15
+28 Feb 2009,Le Mans,Le Havre,1.76,3.26,5.27
+28 Feb 2009,Nantes,Grenoble,2.03,2.98,4.29
+28 Feb 2009,Sochaux,Nice,2.10,2.97,3.98
+28 Feb 2009,Valenciennes,Lille,3.07,2.96,2.50
+22 Feb 2009,Lille,Monaco,1.64,3.45,6.14
+22 Feb 2009,Marseille,Le Mans,1.44,3.91,8.48
+22 Feb 2009,St Etienne,Bordeaux,2.95,3.04,2.53
+21 Feb 2009,Nice,Rennes,2.66,2.92,2.89
+21 Feb 2009,Grenoble,PSG,4.23,3.08,2.00
+21 Feb 2009,Le Havre,Auxerre,2.70,2.99,2.76
+21 Feb 2009,Lorient,Sochaux,2.19,2.93,3.80
+21 Feb 2009,Nancy,Lyon,3.66,2.97,2.22
+21 Feb 2009,Nantes,Caen,2.31,2.95,3.44
+21 Feb 2009,Toulouse,Valenciennes,1.79,3.23,5.35
+17 Feb 2009,Le Mans,Lille,3.21,3.05,2.35
+17 Feb 2009,Nancy,Nice,1.91,3.09,4.63
+17 Feb 2009,Valenciennes,Caen,2.06,3.06,4.01
+15 Feb 2009,Monaco,Marseille,3.27,3.02,2.26
+15 Feb 2009,Lyon,Le Havre,1.21,5.56,15.40
+15 Feb 2009,Sochaux,Toulouse,2.34,2.98,3.27
+14 Feb 2009,PSG,St Etienne,1.65,3.31,6.21
+14 Feb 2009,Auxerre,Lille,3.15,2.98,2.36
+14 Feb 2009,Bordeaux,Grenoble,1.34,4.43,10.37
+14 Feb 2009,Caen,Lorient,2.14,2.96,3.71
+14 Feb 2009,Le Mans,Nice,2.27,2.99,3.34
+14 Feb 2009,Rennes,Nancy,1.70,3.24,5.63
+14 Feb 2009,Valenciennes,Nantes,2.12,3.00,3.72
+08 Feb 2009,Marseille,Bordeaux,2.51,2.97,3.02
+08 Feb 2009,Grenoble,Valenciennes,2.32,2.92,3.40
+08 Feb 2009,Nice,Lyon,4.03,3.07,2.01
+07 Feb 2009,Lille,Sochaux,1.62,3.45,6.37
+07 Feb 2009,Le Havre,Rennes,4.53,3.13,1.91
+07 Feb 2009,Lorient,Monaco,2.05,3.02,4.09
+07 Feb 2009,Nancy,Auxerre,1.92,3.08,4.52
+07 Feb 2009,Nantes,PSG,3.02,3.04,2.47
+07 Feb 2009,St Etienne,Caen,1.74,3.28,5.34
+07 Feb 2009,Toulouse,Le Mans,1.77,3.24,5.19
+01 Feb 2009,Lyon,St Etienne,1.42,3.86,8.74
+01 Feb 2009,Bordeaux,Lille,1.86,3.15,4.54
+01 Feb 2009,Sochaux,Marseille,3.24,2.97,2.33
+31 Jan 2009,Rennes,Toulouse,1.78,3.16,5.10
+31 Jan 2009,Auxerre,Lorient,2.45,2.96,3.00
+31 Jan 2009,Le Havre,Nancy,2.83,2.91,2.65
+31 Jan 2009,Le Mans,Nantes,2.10,3.00,3.76
+31 Jan 2009,Monaco,Grenoble,1.97,3.04,4.22
+31 Jan 2009,PSG,Caen,1.59,3.43,6.57
+31 Jan 2009,Valenciennes,Nice,2.49,2.94,3.00
+18 Jan 2009,Lille,Rennes,2.24,2.84,3.76
+18 Jan 2009,Caen,Monaco,2.06,3.03,4.03
+18 Jan 2009,PSG,Sochaux,1.66,3.45,5.96
+17 Jan 2009,Nantes,Bordeaux,4.03,3.07,2.04
+17 Jan 2009,Grenoble,Lyon,5.70,3.47,1.68
+17 Jan 2009,Lorient,Valenciennes,1.86,3.24,4.77
+17 Jan 2009,Marseille,Le Havre,1.31,4.75,10.86
+17 Jan 2009,Nice,Auxerre,1.88,3.21,4.61
+17 Jan 2009,St Etienne,Le Mans,1.81,3.24,4.92
+17 Jan 2009,Toulouse,Nancy,2.08,3.03,4.00
+11 Jan 2009,Bordeaux,PSG,2.00,3.05,4.15
+10 Jan 2009,Auxerre,Marseille,3.65,3.11,2.16
+10 Jan 2009,Le Havre,Toulouse,2.91,2.92,2.66
+10 Jan 2009,Lyon,Lorient,1.41,4.19,8.85
+10 Jan 2009,Monaco,Nantes,1.98,3.10,4.24
+10 Jan 2009,Rennes,Grenoble,1.55,3.62,7.37
+10 Jan 2009,Sochaux,St Etienne,2.41,2.85,3.37
+21 Dec 2008,Monaco,Bordeaux,3.77,3.15,2.07
+21 Dec 2008,Marseille,Nancy,1.49,3.82,7.77
+21 Dec 2008,PSG,Valenciennes,1.46,3.91,8.11
+20 Dec 2008,Caen,Lyon,4.49,3.35,1.84
+20 Dec 2008,Grenoble,Le Mans,2.45,2.93,3.19
+20 Dec 2008,Lille,Le Havre,1.42,4.00,9.18
+20 Dec 2008,Lorient,Rennes,2.66,2.88,2.89
+20 Dec 2008,Nantes,Sochaux,2.14,3.05,3.71
+20 Dec 2008,St Etienne,Auxerre,1.88,3.16,4.58
+20 Dec 2008,Toulouse,Nice,1.92,3.11,4.48
+14 Dec 2008,Lyon,Marseille,1.80,3.34,4.78
+14 Dec 2008,Le Havre,Lorient,2.77,2.96,2.74
+14 Dec 2008,Nice,Lille,2.62,2.90,2.98
+13 Dec 2008,Rennes,Nantes,1.60,3.53,6.28
+13 Dec 2008,Auxerre,PSG,2.96,2.89,2.63
+13 Dec 2008,Le Mans,Bordeaux,3.14,2.93,2.47
+13 Dec 2008,Nancy,Grenoble,1.93,3.07,4.52
+13 Dec 2008,Sochaux,Caen,2.13,2.95,3.88
+13 Dec 2008,Toulouse,St Etienne,2.21,2.95,3.63
+13 Dec 2008,Valenciennes,Monaco,2.54,2.91,3.05
+10 Dec 2008,Nice,Grenoble,1.68,3.26,5.53
+07 Dec 2008,PSG,Le Mans,1.71,3.31,5.63
+07 Dec 2008,Grenoble,Auxerre,2.33,2.95,3.39
+07 Dec 2008,Lorient,Nancy,2.09,2.97,4.06
+07 Dec 2008,Monaco,Sochaux,1.87,3.23,4.56
+06 Dec 2008,Nantes,Lyon,4.45,3.11,1.95
+06 Dec 2008,Caen,Rennes,2.82,2.96,2.73
+06 Dec 2008,Lille,Toulouse,1.77,3.31,5.11
+06 Dec 2008,Marseille,Nice,1.73,3.33,5.32
+06 Dec 2008,St Etienne,Le Havre,1.67,3.42,5.60
+05 Dec 2008,Bordeaux,Valenciennes,1.39,4.20,9.32
+30 Nov 2008,Rennes,PSG,2.14,2.95,3.71
+30 Nov 2008,Nancy,St Etienne,2.03,3.02,4.09
+30 Nov 2008,Toulouse,Marseille,3.46,2.84,2.42
+29 Nov 2008,Sochaux,Bordeaux,3.55,2.79,2.26
+29 Nov 2008,Auxerre,Monaco,2.25,2.98,3.52
+29 Nov 2008,Le Havre,Nantes,2.33,3.00,3.35
+29 Nov 2008,Le Mans,Caen,2.15,3.00,3.73
+29 Nov 2008,Lille,Lorient,1.61,3.53,6.08
+29 Nov 2008,Lyon,Valenciennes,1.32,4.59,11.40
+23 Nov 2008,Marseille,Lille,1.85,3.23,4.48
+23 Nov 2008,Monaco,Le Mans,2.14,3.02,3.73
+23 Nov 2008,Nantes,Nancy,2.30,3.01,3.36
+22 Nov 2008,PSG,Lyon,2.91,3.01,2.57
+22 Nov 2008,Bordeaux,Rennes,1.93,3.15,4.37
+22 Nov 2008,Caen,Auxerre,2.10,3.07,3.83
+22 Nov 2008,Grenoble,Le Havre,2.08,3.04,3.94
+22 Nov 2008,Lorient,Toulouse,2.33,2.98,3.38
+22 Nov 2008,St Etienne,Nice,2.30,3.07,3.30
+22 Nov 2008,Valenciennes,Sochaux,2.39,2.98,3.22
+16 Nov 2008,Lyon,Bordeaux,1.75,3.34,5.17
+16 Nov 2008,Nice,Nantes,1.83,3.16,4.72
+16 Nov 2008,Rennes,Monaco,1.73,3.32,5.44
+15 Nov 2008,Lille,St Etienne,1.73,3.27,5.47
+15 Nov 2008,Auxerre,Sochaux,1.97,3.04,4.37
+15 Nov 2008,Le Havre,PSG,3.31,2.94,2.38
+15 Nov 2008,Le Mans,Valenciennes,1.67,3.34,5.98
+15 Nov 2008,Marseille,Lorient,1.40,4.28,9.12
+15 Nov 2008,Nancy,Caen,1.98,3.02,4.38
+15 Nov 2008,Toulouse,Grenoble,1.95,3.08,4.45
+09 Nov 2008,PSG,Lille,2.23,2.93,3.64
+09 Nov 2008,St Etienne,Rennes,2.36,2.96,3.28
+09 Nov 2008,Valenciennes,Nancy,2.42,2.96,3.19
+08 Nov 2008,Nantes,Toulouse,2.40,2.96,3.20
+08 Nov 2008,Bordeaux,Auxerre,1.55,3.60,7.19
+08 Nov 2008,Caen,Le Havre,1.68,3.39,5.62
+08 Nov 2008,Grenoble,Marseille,3.98,3.14,2.01
+08 Nov 2008,Lorient,Nice,2.31,2.94,3.41
+08 Nov 2008,Monaco,Lyon,4.10,3.09,2.00
+08 Nov 2008,Sochaux,Le Mans,2.42,3.02,3.13
+02 Nov 2008,Lyon,Le Mans,1.42,4.18,8.20
+02 Nov 2008,Le Havre,Monaco,2.54,2.97,2.97
+02 Nov 2008,Rennes,Sochaux,1.62,3.48,6.24
+01 Nov 2008,Marseille,St Etienne,1.58,3.56,6.60
+01 Nov 2008,Auxerre,Valenciennes,1.76,3.28,5.24
+01 Nov 2008,Lille,Nantes,1.60,3.50,6.50
+01 Nov 2008,Lorient,Grenoble,2.16,2.98,3.79
+01 Nov 2008,Nancy,Bordeaux,3.17,2.78,2.69
+01 Nov 2008,Nice,PSG,2.56,2.95,2.98
+01 Nov 2008,Toulouse,Caen,1.95,3.05,4.43
+29 Oct 2008,St Etienne,Lorient,1.73,3.30,5.52
+29 Oct 2008,Caen,Nice,2.02,3.07,4.14
+29 Oct 2008,Grenoble,Lille,2.91,2.96,2.61
+29 Oct 2008,Le Mans,Auxerre,1.81,3.31,4.94
+29 Oct 2008,Monaco,Nancy,2.21,2.94,3.70
+29 Oct 2008,Nantes,Marseille,3.58,3.03,2.20
+29 Oct 2008,PSG,Toulouse,1.76,3.31,5.15
+29 Oct 2008,Sochaux,Lyon,5.33,3.35,1.73
+29 Oct 2008,Valenciennes,Rennes,3.09,2.91,2.50
+28 Oct 2008,Bordeaux,Le Havre,1.36,4.38,9.18
+26 Oct 2008,Marseille,PSG,1.77,3.29,4.79
+26 Oct 2008,Nancy,Sochaux,2.02,3.01,3.97
+26 Oct 2008,St Etienne,Grenoble,1.68,3.40,5.37
+25 Oct 2008,Toulouse,Monaco,2.00,3.07,3.98
+25 Oct 2008,Auxerre,Lyon,4.36,3.24,1.85
+25 Oct 2008,Le Havre,Valenciennes,2.13,2.97,3.67
+25 Oct 2008,Lille,Caen,1.67,3.44,5.37
+25 Oct 2008,Lorient,Nantes,2.17,3.01,3.55
+25 Oct 2008,Nice,Bordeaux,2.84,2.94,2.60
+25 Oct 2008,Rennes,Le Mans,1.91,3.14,4.34
+19 Oct 2008,Valenciennes,Marseille,3.64,3.13,2.14
+19 Oct 2008,Auxerre,Rennes,2.48,2.97,3.10
+19 Oct 2008,Le Mans,Nancy,2.09,3.01,3.97
+18 Oct 2008,Lyon,Lille,1.51,3.71,7.56
+18 Oct 2008,Bordeaux,Toulouse,1.64,3.42,6.12
+18 Oct 2008,Caen,Grenoble,1.81,3.20,5.01
+18 Oct 2008,Monaco,Nice,2.20,2.97,3.64
+18 Oct 2008,Nantes,St Etienne,2.65,2.94,2.88
+18 Oct 2008,PSG,Lorient,1.64,3.44,6.02
+18 Oct 2008,Sochaux,Le Havre,1.83,3.21,4.91
+05 Oct 2008,Nancy,PSG,2.65,2.97,3.05
+05 Oct 2008,Rennes,Lyon,3.99,3.17,2.02
+05 Oct 2008,St Etienne,Monaco,1.87,3.18,4.64
+04 Oct 2008,Lille,Valenciennes,1.61,3.55,6.23
+04 Oct 2008,Grenoble,Nantes,2.05,3.10,3.97
+04 Oct 2008,Le Havre,Le Mans,2.59,2.98,2.92
+04 Oct 2008,Lorient,Bordeaux,3.29,2.97,2.36
+04 Oct 2008,Marseille,Caen,1.48,3.85,7.65
+04 Oct 2008,Nice,Sochaux,1.99,3.02,4.29
+04 Oct 2008,Toulouse,Auxerre,2.11,3.06,3.79
+28 Sep 2008,Bordeaux,St Etienne,1.82,3.21,4.96
+28 Sep 2008,Monaco,Lille,2.28,2.98,3.49
+28 Sep 2008,Valenciennes,Toulouse,2.19,2.96,3.76
+27 Sep 2008,PSG,Grenoble,1.56,3.58,7.08
+27 Sep 2008,Auxerre,Le Havre,1.95,3.09,4.38
+27 Sep 2008,Caen,Nantes,1.96,3.09,4.39
+27 Sep 2008,Le Mans,Marseille,3.06,3.04,2.45
+27 Sep 2008,Lyon,Nancy,1.42,4.02,8.93
+27 Sep 2008,Rennes,Nice,1.99,3.01,4.34
+27 Sep 2008,Sochaux,Lorient,1.96,2.94,4.65
+21 Sep 2008,Marseille,Monaco,1.57,3.52,7.00
+21 Sep 2008,Nancy,Rennes,2.12,2.99,3.86
+21 Sep 2008,St Etienne,PSG,2.40,2.91,3.34
+20 Sep 2008,Nice,Le Mans,2.06,2.94,4.16
+20 Sep 2008,Grenoble,Bordeaux,3.37,3.01,2.30
+20 Sep 2008,Le Havre,Lyon,4.98,3.36,1.77
+20 Sep 2008,Lille,Auxerre,1.76,3.22,5.57
+20 Sep 2008,Lorient,Caen,2.13,2.97,3.88
+20 Sep 2008,Nantes,Valenciennes,2.08,3.02,3.80
+20 Sep 2008,Toulouse,Sochaux,2.30,2.93,3.49
+14 Sep 2008,PSG,Nantes,1.56,3.61,6.96
+14 Sep 2008,Caen,St Etienne,2.54,2.97,2.96
+14 Sep 2008,Sochaux,Lille,2.46,2.87,3.22
+13 Sep 2008,Bordeaux,Marseille,2.30,3.00,3.38
+13 Sep 2008,Auxerre,Nancy,2.31,2.97,3.40
+13 Sep 2008,Le Mans,Toulouse,1.86,3.18,4.66
+13 Sep 2008,Lyon,Nice,1.39,4.12,9.98
+13 Sep 2008,Monaco,Lorient,2.03,3.07,4.07
+13 Sep 2008,Rennes,Le Havre,1.66,3.36,6.02
+13 Sep 2008,Valenciennes,Grenoble,2.06,3.04,4.04
+31 Aug 2008,St Etienne,Lyon,3.33,3.04,2.29
+31 Aug 2008,Lille,Bordeaux,2.82,2.96,2.70
+31 Aug 2008,Toulouse,Rennes,2.50,2.93,3.11
+30 Aug 2008,Marseille,Sochaux,1.44,4.03,8.15
+30 Aug 2008,Caen,PSG,2.57,2.98,2.94
+30 Aug 2008,Grenoble,Monaco,2.42,2.97,3.17
+30 Aug 2008,Lorient,Auxerre,1.95,3.14,4.32
+30 Aug 2008,Nancy,Le Havre,1.76,3.29,5.18
+30 Aug 2008,Nantes,Le Mans,2.15,3.00,3.70
+30 Aug 2008,Nice,Valenciennes,1.81,3.20,4.97
+24 Aug 2008,Bordeaux,Nantes,1.48,3.67,7.99
+24 Aug 2008,Auxerre,Nice,2.10,2.95,3.92
+24 Aug 2008,Rennes,Lille,2.12,2.98,3.78
+23 Aug 2008,Lyon,Grenoble,1.29,4.83,12.21
+23 Aug 2008,Le Havre,Marseille,3.92,3.05,2.07
+23 Aug 2008,Le Mans,St Etienne,2.51,2.98,2.93
+23 Aug 2008,Monaco,Caen,1.99,3.09,4.22
+23 Aug 2008,Nancy,Toulouse,1.73,3.17,5.49
+23 Aug 2008,Sochaux,PSG,2.54,2.90,2.98
+23 Aug 2008,Valenciennes,Lorient,2.37,2.93,3.23
+17 Aug 2008,Marseille,Auxerre,1.54,3.54,6.45
+17 Aug 2008,Grenoble,Rennes,2.81,2.94,2.66
+17 Aug 2008,Lorient,Lyon,4.79,3.31,1.78
+16 Aug 2008,PSG,Bordeaux,2.45,2.96,3.06
+16 Aug 2008,Caen,Valenciennes,2.04,3.07,3.95
+16 Aug 2008,Lille,Le Mans,1.86,3.14,4.32
+16 Aug 2008,Nantes,Monaco,2.45,2.91,2.98
+16 Aug 2008,Nice,Nancy,2.33,2.85,3.14
+16 Aug 2008,St Etienne,Sochaux,1.77,3.23,4.57
+16 Aug 2008,Toulouse,Le Havre,2.11,3.04,3.72
+10 Aug 2008,Lyon,Toulouse,1.34,4.39,10.70
+09 Aug 2008,Auxerre,Nantes,2.15,3.01,3.61
+09 Aug 2008,Bordeaux,Caen,1.49,3.71,7.41
+09 Aug 2008,Le Havre,Nice,2.24,2.94,3.51
+09 Aug 2008,Le Mans,Lorient,2.06,3.05,3.82
+09 Aug 2008,Monaco,PSG,2.47,2.94,3.01
+09 Aug 2008,Nancy,Lille,2.14,2.97,3.41
+09 Aug 2008,Rennes,Marseille,2.70,2.94,2.65
+09 Aug 2008,Sochaux,Grenoble,1.78,3.20,4.71
+09 Aug 2008,Valenciennes,St Etienne,2.67,2.92,2.71

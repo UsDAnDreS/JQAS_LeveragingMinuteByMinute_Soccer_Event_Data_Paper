@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,HomeBet,DrawBet,AwayBet
+20 May 2018,Lazio,Inter,2.57,3.61,2.62
+20 May 2018,Sassuolo,AS Roma,4.53,3.81,1.76
+20 May 2018,AC Milan,Fiorentina,1.66,4.11,4.94
+20 May 2018,Cagliari,Atalanta,3.20,3.59,2.19
+20 May 2018,Chievo,Benevento,1.71,3.97,4.73
+20 May 2018,Napoli,Crotone,1.39,5.51,7.01
+20 May 2018,Spal,Sampdoria,1.79,3.74,4.53
+20 May 2018,Udinese,Bologna,1.51,4.32,6.50
+20 May 2018,Genoa,Torino,2.22,3.67,3.10
+19 May 2018,Juventus,Verona,1.09,10.82,25.26
+13 May 2018,AS Roma,Juventus,2.85,2.93,2.78
+13 May 2018,Sampdoria,Napoli,5.78,4.76,1.50
+13 May 2018,Atalanta,AC Milan,2.18,2.95,4.05
+13 May 2018,Bologna,Chievo,2.25,3.07,3.56
+13 May 2018,Crotone,Lazio,4.24,3.43,1.93
+13 May 2018,Fiorentina,Cagliari,1.55,4.36,5.88
+13 May 2018,Torino,Spal,1.87,3.49,4.43
+13 May 2018,Verona,Udinese,7.63,4.94,1.41
+12 May 2018,Inter,Sassuolo,1.19,7.33,13.89
+12 May 2018,Benevento,Genoa,2.18,3.63,3.20
+06 May 2018,Cagliari,AS Roma,6.50,4.50,1.50
+06 May 2018,Sassuolo,Sampdoria,2.26,3.45,3.18
+06 May 2018,Chievo,Crotone,2.22,3.08,3.73
+06 May 2018,Genoa,Fiorentina,3.80,3.53,2.00
+06 May 2018,Lazio,Atalanta,1.95,3.57,3.97
+06 May 2018,Napoli,Torino,1.22,6.87,12.82
+06 May 2018,Spal,Benevento,1.49,4.54,6.49
+06 May 2018,Udinese,Inter,4.46,3.67,1.82
+05 May 2018,Juventus,Bologna,1.13,8.93,24.51
+05 May 2018,AC Milan,Verona,1.12,10.03,22.44
+29 Apr 2018,Torino,Lazio,5.00,4.04,1.68
+29 Apr 2018,Fiorentina,Napoli,7.11,4.49,1.47
+29 Apr 2018,Atalanta,Genoa,1.38,4.84,9.18
+29 Apr 2018,Benevento,Udinese,2.94,3.36,2.43
+29 Apr 2018,Bologna,AC Milan,5.65,3.87,1.64
+29 Apr 2018,Sampdoria,Cagliari,1.93,3.55,4.07
+29 Apr 2018,Verona,Spal,3.28,3.23,2.33
+29 Apr 2018,Crotone,Sassuolo,2.28,3.19,3.41
+28 Apr 2018,Inter,Juventus,3.00,3.11,2.56
+28 Apr 2018,AS Roma,Chievo,1.31,5.41,10.56
+23 Apr 2018,Genoa,Verona,1.42,4.54,8.31
+22 Apr 2018,Juventus,Napoli,2.27,3.19,3.43
+22 Apr 2018,Atalanta,Torino,1.54,4.18,6.41
+22 Apr 2018,Chievo,Inter,7.36,4.16,1.49
+22 Apr 2018,Lazio,Sampdoria,1.38,5.22,8.13
+22 Apr 2018,Udinese,Crotone,1.97,3.26,4.37
+22 Apr 2018,Cagliari,Bologna,1.97,3.30,4.29
+21 Apr 2018,AC Milan,Benevento,1.22,6.49,13.52
+21 Apr 2018,Sassuolo,Fiorentina,2.95,3.21,2.51
+21 Apr 2018,Spal,AS Roma,5.04,3.65,1.76
+18 Apr 2018,AS Roma,Genoa,1.33,5.13,10.25
+18 Apr 2018,Crotone,Juventus,11.93,5.00,1.32
+18 Apr 2018,Fiorentina,Lazio,2.92,3.43,2.42
+18 Apr 2018,Napoli,Udinese,1.22,6.48,14.85
+18 Apr 2018,Sampdoria,Bologna,1.69,3.83,5.16
+18 Apr 2018,Spal,Chievo,2.20,3.04,3.85
+18 Apr 2018,Torino,AC Milan,3.18,3.31,2.34
+18 Apr 2018,Verona,Sassuolo,4.46,3.56,1.85
+18 Apr 2018,Benevento,Atalanta,6.16,4.42,1.53
+17 Apr 2018,Inter,Cagliari,1.21,6.65,16.05
+15 Apr 2018,Lazio,AS Roma,2.52,3.34,2.87
+15 Apr 2018,Juventus,Sampdoria,1.33,5.10,11.07
+15 Apr 2018,AC Milan,Napoli,4.29,3.57,1.88
+15 Apr 2018,Bologna,Verona,1.59,4.00,6.09
+15 Apr 2018,Sassuolo,Benevento,1.67,4.00,5.05
+15 Apr 2018,Fiorentina,Spal,1.50,4.17,7.32
+14 Apr 2018,Atalanta,Inter,2.57,3.25,2.85
+14 Apr 2018,Chievo,Torino,3.46,3.29,2.21
+14 Apr 2018,Genoa,Crotone,1.86,3.25,4.91
+14 Apr 2018,Cagliari,Udinese,2.39,3.12,3.26
+08 Apr 2018,AC Milan,Sassuolo,1.49,4.32,7.19
+08 Apr 2018,Udinese,Lazio,5.23,4.01,1.65
+08 Apr 2018,Crotone,Bologna,2.40,3.16,3.25
+08 Apr 2018,Napoli,Chievo,1.15,8.09,21.73
+08 Apr 2018,Verona,Cagliari,3.08,3.27,2.42
+08 Apr 2018,Torino,Inter,4.16,3.61,1.91
+07 Apr 2018,Sampdoria,Genoa,2.46,3.21,3.07
+07 Apr 2018,AS Roma,Fiorentina,1.85,3.60,4.43
+07 Apr 2018,Spal,Atalanta,4.72,3.59,1.81
+07 Apr 2018,Benevento,Juventus,12.41,5.23,1.30
+04 Apr 2018,AC Milan,Inter,2.79,3.19,2.69
+04 Apr 2018,Chievo,Sassuolo,3.01,2.98,2.66
+04 Apr 2018,Torino,Crotone,1.59,3.97,6.24
+04 Apr 2018,Benevento,Verona,1.81,3.84,4.31
+03 Apr 2018,Atalanta,Sampdoria,1.37,5.09,8.42
+03 Apr 2018,Genoa,Cagliari,1.82,3.37,5.05
+03 Apr 2018,Udinese,Fiorentina,3.50,3.23,2.22
+31 Mar 2018,Juventus,AC Milan,1.64,3.63,6.33
+31 Mar 2018,Chievo,Sampdoria,2.30,3.31,3.29
+31 Mar 2018,Sassuolo,Napoli,8.40,4.55,1.43
+31 Mar 2018,Atalanta,Udinese,1.43,4.45,8.13
+31 Mar 2018,Cagliari,Torino,3.04,3.28,2.45
+31 Mar 2018,Fiorentina,Crotone,1.53,4.17,6.87
+31 Mar 2018,Genoa,Spal,1.91,3.25,4.71
+31 Mar 2018,Inter,Verona,1.16,8.28,17.84
+31 Mar 2018,Lazio,Benevento,1.24,6.42,12.83
+31 Mar 2018,Bologna,AS Roma,5.99,4.24,1.57
+18 Mar 2018,Lazio,Bologna,1.31,5.43,10.27
+18 Mar 2018,Napoli,Genoa,1.23,6.03,16.55
+18 Mar 2018,Benevento,Cagliari,2.24,3.35,3.34
+18 Mar 2018,AC Milan,Chievo,1.40,4.59,9.43
+18 Mar 2018,Crotone,AS Roma,6.01,4.05,1.59
+18 Mar 2018,Torino,Fiorentina,2.69,3.23,2.75
+18 Mar 2018,Verona,Atalanta,9.07,4.85,1.38
+18 Mar 2018,Sampdoria,Inter,3.96,3.59,1.95
+17 Mar 2018,Spal,Juventus,11.58,4.79,1.34
+17 Mar 2018,Udinese,Sassuolo,2.17,3.24,3.64
+14 Mar 2018,Juventus,Atalanta,1.42,4.28,9.62
+11 Mar 2018,Inter,Napoli,3.98,3.53,1.96
+11 Mar 2018,Genoa,AC Milan,3.52,3.13,2.26
+11 Mar 2018,Bologna,Atalanta,4.63,3.54,1.83
+11 Mar 2018,Cagliari,Lazio,6.45,4.29,1.52
+11 Mar 2018,Crotone,Sampdoria,2.67,3.27,2.72
+11 Mar 2018,Juventus,Udinese,1.23,5.94,16.21
+11 Mar 2018,Sassuolo,Spal,2.06,3.26,3.94
+11 Mar 2018,Fiorentina,Benevento,1.40,4.79,8.52
+10 Mar 2018,Verona,Chievo,3.89,3.32,2.07
+09 Mar 2018,AS Roma,Torino,1.54,4.43,5.96
+03 Mar 2018,Napoli,AS Roma,1.62,3.95,5.86
+03 Mar 2018,Lazio,Juventus,3.21,3.18,2.38
+03 Mar 2018,Spal,Bologna,2.45,3.09,3.12
+26 Feb 2018,Cagliari,Napoli,12.57,5.25,1.29
+25 Feb 2018,AS Roma,AC Milan,2.06,3.39,3.78
+25 Feb 2018,Fiorentina,Chievo,1.47,4.33,7.62
+25 Feb 2018,Sampdoria,Udinese,2.05,3.43,3.75
+25 Feb 2018,Sassuolo,Lazio,4.30,3.63,1.85
+25 Feb 2018,Verona,Torino,5.95,4.12,1.58
+25 Feb 2018,Crotone,Spal,2.27,3.09,3.57
+24 Feb 2018,Inter,Benevento,1.24,6.24,12.93
+24 Feb 2018,Bologna,Genoa,2.90,2.90,2.79
+19 Feb 2018,Lazio,Verona,1.18,7.59,15.50
+18 Feb 2018,AC Milan,Sampdoria,1.64,3.99,5.45
+18 Feb 2018,Atalanta,Fiorentina,2.34,3.28,3.21
+18 Feb 2018,Benevento,Crotone,2.39,3.21,3.17
+18 Feb 2018,Bologna,Sassuolo,2.64,3.11,2.89
+18 Feb 2018,Napoli,Spal,1.14,8.57,23.31
+18 Feb 2018,Torino,Juventus,5.01,3.53,1.78
+17 Feb 2018,Genoa,Inter,3.36,3.11,2.36
+17 Feb 2018,Chievo,Cagliari,2.17,3.12,3.83
+17 Feb 2018,Udinese,AS Roma,4.70,3.67,1.79
+11 Feb 2018,AS Roma,Benevento,1.18,7.37,15.84
+11 Feb 2018,Chievo,Genoa,3.02,3.00,2.59
+11 Feb 2018,Inter,Bologna,1.51,4.10,6.93
+11 Feb 2018,Sampdoria,Verona,1.46,4.49,6.88
+11 Feb 2018,Torino,Udinese,1.76,3.66,4.82
+11 Feb 2018,Sassuolo,Cagliari,2.00,3.33,3.96
+10 Feb 2018,Napoli,Lazio,1.82,3.53,4.70
+10 Feb 2018,Crotone,Atalanta,4.43,3.46,1.86
+10 Feb 2018,Spal,AC Milan,4.63,3.41,1.84
+09 Feb 2018,Fiorentina,Juventus,4.74,3.33,1.85
+05 Feb 2018,Lazio,Genoa,1.49,4.13,7.30
+04 Feb 2018,Benevento,Napoli,17.35,7.51,1.16
+04 Feb 2018,Atalanta,Chievo,1.44,4.47,7.48
+04 Feb 2018,Bologna,Fiorentina,3.25,3.28,2.27
+04 Feb 2018,Cagliari,Spal,2.08,3.30,3.75
+04 Feb 2018,Juventus,Sassuolo,1.22,6.06,14.42
+04 Feb 2018,Udinese,AC Milan,3.45,3.27,2.20
+04 Feb 2018,Verona,AS Roma,8.82,5.03,1.35
+03 Feb 2018,Inter,Crotone,1.27,5.35,12.96
+03 Feb 2018,Sampdoria,Torino,2.29,3.47,3.06
+28 Jan 2018,AS Roma,Sampdoria,1.37,5.00,8.10
+28 Jan 2018,AC Milan,Lazio,2.45,3.30,2.97
+28 Jan 2018,Crotone,Cagliari,2.55,2.95,3.03
+28 Jan 2018,Fiorentina,Verona,1.25,5.91,12.40
+28 Jan 2018,Genoa,Udinese,2.27,3.06,3.46
+28 Jan 2018,Napoli,Bologna,1.19,6.97,15.09
+28 Jan 2018,Torino,Benevento,1.41,4.71,7.48
+28 Jan 2018,Spal,Inter,5.69,3.87,1.61
+27 Jan 2018,Chievo,Juventus,10.29,4.68,1.35
+27 Jan 2018,Sassuolo,Atalanta,2.96,3.21,2.46
+24 Jan 2018,Sampdoria,AS Roma,3.78,3.63,1.94
+24 Jan 2018,Lazio,Udinese,1.53,4.08,6.43
+22 Jan 2018,Juventus,Genoa,1.24,5.60,14.93
+21 Jan 2018,Inter,AS Roma,2.41,3.43,2.87
+21 Jan 2018,Cagliari,AC Milan,3.94,3.40,1.98
+21 Jan 2018,Bologna,Benevento,1.70,3.59,5.30
+21 Jan 2018,Lazio,Chievo,1.29,5.65,10.01
+21 Jan 2018,Sampdoria,Fiorentina,3.07,3.30,2.35
+21 Jan 2018,Sassuolo,Torino,2.58,3.18,2.84
+21 Jan 2018,Udinese,Spal,1.84,3.51,4.43
+21 Jan 2018,Verona,Crotone,2.34,3.12,3.27
+21 Jan 2018,Atalanta,Napoli,3.70,3.37,2.05
+06 Jan 2018,Cagliari,Juventus,9.94,4.97,1.33
+06 Jan 2018,AS Roma,Atalanta,1.88,3.49,4.23
+06 Jan 2018,AC Milan,Crotone,1.26,5.75,12.08
+06 Jan 2018,Benevento,Sampdoria,3.70,3.42,2.04
+06 Jan 2018,Genoa,Sassuolo,2.34,3.06,3.33
+06 Jan 2018,Napoli,Verona,1.09,10.57,25.89
+06 Jan 2018,Spal,Lazio,5.71,3.81,1.63
+06 Jan 2018,Torino,Bologna,2.00,3.41,3.89
+05 Jan 2018,Fiorentina,Inter,2.55,3.20,2.86
+05 Jan 2018,Chievo,Udinese,3.15,3.13,2.40
+30 Dec 2017,Verona,Juventus,15.41,6.52,1.20
+30 Dec 2017,Inter,Lazio,2.29,3.49,3.03
+30 Dec 2017,AS Roma,Sassuolo,1.27,5.91,10.50
+30 Dec 2017,Atalanta,Cagliari,1.43,4.48,7.80
+30 Dec 2017,Benevento,Chievo,2.90,3.32,2.45
+30 Dec 2017,Bologna,Udinese,2.45,3.08,3.10
+30 Dec 2017,Sampdoria,Spal,1.84,3.51,4.44
+30 Dec 2017,Torino,Genoa,2.36,3.13,3.23
+30 Dec 2017,Fiorentina,AC Milan,2.35,3.28,3.10
+29 Dec 2017,Crotone,Napoli,14.89,6.50,1.20
+23 Dec 2017,Juventus,AS Roma,1.71,3.71,5.11
+23 Dec 2017,AC Milan,Atalanta,2.54,3.27,2.83
+23 Dec 2017,Genoa,Benevento,1.46,4.35,7.55
+23 Dec 2017,Napoli,Sampdoria,1.20,6.83,13.74
+23 Dec 2017,Sassuolo,Inter,4.95,3.72,1.72
+23 Dec 2017,Spal,Torino,3.13,3.29,2.37
+23 Dec 2017,Udinese,Verona,1.71,3.84,4.98
+23 Dec 2017,Lazio,Crotone,1.26,5.90,11.35
+22 Dec 2017,Cagliari,Fiorentina,3.15,3.25,2.34
+22 Dec 2017,Chievo,Bologna,2.57,3.07,2.95
+17 Dec 2017,Atalanta,Lazio,2.23,3.36,3.37
+17 Dec 2017,Benevento,Spal,2.62,3.23,2.83
+17 Dec 2017,Bologna,Juventus,7.86,4.31,1.46
+17 Dec 2017,Crotone,Chievo,2.97,3.06,2.63
+17 Dec 2017,Fiorentina,Genoa,1.76,3.61,5.04
+17 Dec 2017,Sampdoria,Sassuolo,1.94,3.64,3.97
+17 Dec 2017,Verona,AC Milan,6.12,4.30,1.55
+16 Dec 2017,AS Roma,Cagliari,1.24,6.55,12.42
+16 Dec 2017,Torino,Napoli,5.14,3.87,1.69
+16 Dec 2017,Inter,Udinese,1.34,5.28,9.19
+12 Dec 2017,Genoa,Atalanta,3.26,3.31,2.30
+11 Dec 2017,Lazio,Torino,1.52,4.49,6.27
+10 Dec 2017,AC Milan,Bologna,1.54,4.11,6.80
+10 Dec 2017,Sassuolo,Crotone,1.71,3.70,5.30
+10 Dec 2017,Napoli,Fiorentina,1.44,4.78,7.23
+10 Dec 2017,Spal,Verona,2.14,3.37,3.60
+10 Dec 2017,Udinese,Benevento,1.48,4.44,7.16
+10 Dec 2017,Chievo,AS Roma,5.67,4.06,1.62
+09 Dec 2017,Juventus,Inter,1.89,3.45,4.48
+09 Dec 2017,Cagliari,Sampdoria,2.46,3.39,2.94
+04 Dec 2017,Verona,Genoa,3.40,3.40,2.19
+04 Dec 2017,Crotone,Udinese,3.28,3.14,2.38
+03 Dec 2017,Sampdoria,Lazio,3.64,3.79,1.98
+03 Dec 2017,Bologna,Cagliari,2.14,3.29,3.71
+03 Dec 2017,Fiorentina,Sassuolo,1.58,4.22,5.74
+03 Dec 2017,Inter,Chievo,1.41,4.77,8.18
+03 Dec 2017,Benevento,AC Milan,9.47,5.37,1.33
+02 Dec 2017,Torino,Atalanta,2.63,3.41,2.68
+01 Dec 2017,Napoli,Juventus,2.15,3.22,3.75
+01 Dec 2017,AS Roma,Spal,1.24,6.26,12.54
+27 Nov 2017,Atalanta,Benevento,1.22,6.47,14.76
+26 Nov 2017,Juventus,Crotone,1.14,8.09,23.20
+26 Nov 2017,Lazio,Fiorentina,1.69,4.01,4.93
+26 Nov 2017,AC Milan,Torino,1.75,3.83,4.71
+26 Nov 2017,Genoa,AS Roma,4.95,3.88,1.72
+26 Nov 2017,Udinese,Napoli,9.95,5.40,1.32
+25 Nov 2017,Cagliari,Inter,5.04,3.99,1.68
+25 Nov 2017,Chievo,Spal,1.77,3.59,5.06
+25 Nov 2017,Sassuolo,Verona,1.66,3.99,5.24
+25 Nov 2017,Bologna,Sampdoria,2.45,3.31,3.01
+20 Nov 2017,Verona,Bologna,3.28,3.20,2.34
+19 Nov 2017,Inter,Atalanta,1.82,3.62,4.65
+19 Nov 2017,Benevento,Sassuolo,3.23,3.42,2.27
+19 Nov 2017,Sampdoria,Juventus,6.23,4.05,1.58
+19 Nov 2017,Spal,Fiorentina,3.99,3.57,1.96
+19 Nov 2017,Torino,Chievo,1.78,3.78,4.62
+19 Nov 2017,Udinese,Cagliari,1.99,3.53,3.89
+19 Nov 2017,Crotone,Genoa,3.25,3.17,2.37
+18 Nov 2017,Napoli,AC Milan,1.46,4.73,6.87
+18 Nov 2017,AS Roma,Lazio,2.19,3.55,3.29
+05 Nov 2017,Sassuolo,AC Milan,4.19,3.65,1.89
+05 Nov 2017,Atalanta,Spal,1.36,5.02,9.36
+05 Nov 2017,Cagliari,Verona,1.83,3.65,4.54
+05 Nov 2017,Chievo,Napoli,7.31,4.77,1.43
+05 Nov 2017,Fiorentina,AS Roma,3.22,3.64,2.19
+05 Nov 2017,Juventus,Benevento,1.06,14.59,37.54
+05 Nov 2017,Inter,Torino,1.58,4.31,5.63
+04 Nov 2017,Genoa,Sampdoria,2.46,3.32,2.97
+04 Nov 2017,Bologna,Crotone,1.78,3.45,5.27
+30 Oct 2017,Verona,Inter,8.49,5.24,1.36
+29 Oct 2017,Torino,Cagliari,1.57,4.35,5.75
+29 Oct 2017,Crotone,Fiorentina,5.40,3.98,1.65
+29 Oct 2017,Napoli,Sassuolo,1.15,9.17,16.76
+29 Oct 2017,Sampdoria,Chievo,2.14,3.43,3.55
+29 Oct 2017,Spal,Genoa,3.06,3.12,2.51
+29 Oct 2017,Udinese,Atalanta,3.83,3.45,2.03
+29 Oct 2017,Benevento,Lazio,10.08,5.77,1.30
+28 Oct 2017,AS Roma,Bologna,1.33,5.46,9.50
+28 Oct 2017,AC Milan,Juventus,4.11,3.58,1.93
+25 Oct 2017,AS Roma,Crotone,1.18,7.61,16.40
+25 Oct 2017,Bologna,Lazio,4.82,3.71,1.76
+25 Oct 2017,Cagliari,Benevento,1.67,3.97,5.21
+25 Oct 2017,Chievo,AC Milan,3.44,3.33,2.22
+25 Oct 2017,Fiorentina,Torino,1.74,3.98,4.64
+25 Oct 2017,Genoa,Napoli,8.13,4.94,1.39
+25 Oct 2017,Juventus,Spal,1.12,9.26,22.94
+25 Oct 2017,Sassuolo,Udinese,1.90,3.60,4.18
+25 Oct 2017,Atalanta,Verona,1.32,5.56,10.11
+24 Oct 2017,Inter,Sampdoria,1.43,4.79,7.40
+22 Oct 2017,Lazio,Cagliari,1.25,6.50,11.22
+22 Oct 2017,Udinese,Juventus,8.90,4.64,1.40
+22 Oct 2017,AC Milan,Genoa,1.61,4.00,5.77
+22 Oct 2017,Atalanta,Bologna,1.60,3.94,6.11
+22 Oct 2017,Benevento,Fiorentina,5.99,4.41,1.54
+22 Oct 2017,Spal,Sassuolo,2.95,3.37,2.45
+22 Oct 2017,Torino,AS Roma,3.65,3.81,1.97
+22 Oct 2017,Chievo,Verona,2.05,3.37,3.88
+21 Oct 2017,Napoli,Inter,1.48,4.70,6.46
+21 Oct 2017,Sampdoria,Crotone,1.54,4.16,6.55
+16 Oct 2017,Verona,Benevento,1.88,3.61,4.30
+15 Oct 2017,Inter,AC Milan,2.20,3.35,3.47
+15 Oct 2017,Bologna,Spal,1.99,3.30,4.21
+15 Oct 2017,Cagliari,Genoa,2.42,3.17,3.19
+15 Oct 2017,Crotone,Torino,3.33,3.34,2.26
+15 Oct 2017,Sampdoria,Atalanta,3.32,3.35,2.26
+15 Oct 2017,Sassuolo,Chievo,2.21,3.30,3.51
+15 Oct 2017,Fiorentina,Udinese,1.63,4.00,5.58
+14 Oct 2017,AS Roma,Napoli,3.24,3.66,2.17
+14 Oct 2017,Juventus,Lazio,1.57,4.20,6.05
+01 Oct 2017,Atalanta,Juventus,4.84,3.50,1.82
+01 Oct 2017,AC Milan,AS Roma,2.52,3.58,2.73
+01 Oct 2017,Benevento,Inter,10.13,5.76,1.30
+01 Oct 2017,Chievo,Fiorentina,2.93,3.27,2.52
+01 Oct 2017,Lazio,Sassuolo,1.52,4.43,6.44
+01 Oct 2017,Spal,Crotone,1.92,3.39,4.42
+01 Oct 2017,Torino,Verona,1.31,5.74,9.87
+01 Oct 2017,Napoli,Cagliari,1.13,9.63,19.46
+30 Sep 2017,Genoa,Bologna,2.22,3.22,3.53
+30 Sep 2017,Udinese,Sampdoria,2.54,3.29,2.93
+24 Sep 2017,Fiorentina,Atalanta,2.30,3.41,3.16
+24 Sep 2017,Sassuolo,Bologna,2.08,3.31,3.85
+24 Sep 2017,Cagliari,Chievo,2.27,3.26,3.36
+24 Sep 2017,Crotone,Benevento,2.02,3.29,4.11
+24 Sep 2017,Inter,Genoa,1.34,5.21,9.24
+24 Sep 2017,Verona,Lazio,5.77,4.25,1.58
+24 Sep 2017,Sampdoria,AC Milan,3.65,3.65,2.02
+23 Sep 2017,Juventus,Torino,1.40,4.83,8.23
+23 Sep 2017,Spal,Napoli,12.85,6.58,1.23
+23 Sep 2017,AS Roma,Udinese,1.24,6.43,12.51
+20 Sep 2017,AC Milan,Spal,1.25,6.26,12.43
+20 Sep 2017,Atalanta,Crotone,1.37,4.80,9.72
+20 Sep 2017,Cagliari,Sassuolo,2.19,3.41,3.40
+20 Sep 2017,Genoa,Chievo,2.23,3.25,3.49
+20 Sep 2017,Juventus,Fiorentina,1.39,4.79,8.77
+20 Sep 2017,Lazio,Napoli,3.41,3.60,2.12
+20 Sep 2017,Udinese,Torino,3.16,3.57,2.24
+20 Sep 2017,Verona,Sampdoria,3.59,3.44,2.11
+20 Sep 2017,Benevento,AS Roma,9.68,5.59,1.31
+19 Sep 2017,Bologna,Inter,5.65,3.96,1.64
+17 Sep 2017,Genoa,Lazio,4.00,3.58,1.95
+17 Sep 2017,Chievo,Atalanta,2.98,3.23,2.53
+17 Sep 2017,AC Milan,Udinese,1.37,4.89,8.58
+17 Sep 2017,Napoli,Benevento,1.10,10.29,23.78
+17 Sep 2017,Spal,Cagliari,2.43,3.31,3.01
+17 Sep 2017,Torino,Sampdoria,1.71,4.04,4.71
+17 Sep 2017,Sassuolo,Juventus,7.81,4.27,1.48
+16 Sep 2017,AS Roma,Verona,1.21,6.89,13.52
+16 Sep 2017,Fiorentina,Bologna,1.54,4.27,6.32
+16 Sep 2017,Crotone,Inter,8.28,4.78,1.40
+10 Sep 2017,Bologna,Napoli,8.91,5.18,1.36
+10 Sep 2017,Benevento,Torino,3.89,3.70,1.94
+10 Sep 2017,Lazio,AC Milan,2.32,3.55,3.09
+10 Sep 2017,Atalanta,Sassuolo,1.64,3.96,5.68
+10 Sep 2017,Cagliari,Crotone,1.63,3.98,5.75
+10 Sep 2017,Udinese,Genoa,2.45,3.18,3.14
+10 Sep 2017,Verona,Fiorentina,3.71,3.51,2.05
+10 Sep 2017,Inter,Spal,1.22,6.76,13.52
+09 Sep 2017,Juventus,Chievo,1.25,5.95,13.56
+27 Aug 2017,AC Milan,Cagliari,1.32,5.50,9.61
+27 Aug 2017,Chievo,Lazio,3.99,3.44,2.00
+27 Aug 2017,Crotone,Verona,2.77,3.18,2.73
+27 Aug 2017,Fiorentina,Sampdoria,1.67,4.13,4.98
+27 Aug 2017,Napoli,Atalanta,1.35,5.24,8.98
+27 Aug 2017,Spal,Udinese,2.47,3.26,3.03
+27 Aug 2017,Torino,Sassuolo,1.66,4.12,5.11
+26 Aug 2017,AS Roma,Inter,2.22,3.55,3.23
+26 Aug 2017,Benevento,Bologna,2.63,3.21,2.85
+26 Aug 2017,Genoa,Juventus,8.20,4.41,1.44
+20 Aug 2017,Bologna,Torino,3.24,3.36,2.28
+20 Aug 2017,Crotone,AC Milan,7.00,4.23,1.50
+20 Aug 2017,Inter,Fiorentina,1.50,4.38,6.67
+20 Aug 2017,Lazio,Spal,1.27,5.90,11.12
+20 Aug 2017,Sampdoria,Benevento,1.62,3.96,5.65
+20 Aug 2017,Sassuolo,Genoa,1.91,3.55,4.20
+20 Aug 2017,Udinese,Chievo,2.03,3.33,3.98
+20 Aug 2017,Atalanta,AS Roma,2.90,3.43,2.46
+19 Aug 2017,Verona,Napoli,7.69,4.84,1.41
+19 Aug 2017,Juventus,Cagliari,1.14,8.21,20.72

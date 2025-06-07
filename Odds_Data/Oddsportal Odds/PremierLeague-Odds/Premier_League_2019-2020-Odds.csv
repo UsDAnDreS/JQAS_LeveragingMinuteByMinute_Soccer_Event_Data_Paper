@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,HomeBet,DrawBet,AwayBet
+26-Jul-20,Arsenal,Watford,2.01,3.78,3.58
+26-Jul-20,Burnley,Brighton,2.64,3.36,2.74
+26-Jul-20,Chelsea,Wolves,1.89,3.38,4.58
+26-Jul-20,Crystal Palace,Tottenham,6.81,4.39,1.49
+26-Jul-20,Everton,Bournemouth,2.34,3.68,2.91
+26-Jul-20,Leicester,Manchester Utd,3.72,3.57,2.02
+26-Jul-20,Manchester City,Norwich,1.03,19.06,37.86
+26-Jul-20,Newcastle,Liverpool,5.61,4.53,1.55
+26-Jul-20,Southampton,Sheffield Utd,2,3.59,3.83
+26-Jul-20,West Ham,Aston Villa,2.6,3.54,2.65
+22-Jul-20,Liverpool,Chelsea,1.91,3.78,3.92
+22-Jul-20,Manchester Utd,West Ham,1.25,6.45,11.34
+21-Jul-20,Aston Villa,Arsenal,3.16,3.76,2.18
+21-Jul-20,Watford,Manchester City,9.09,6.04,1.31
+20-Jul-20,Wolves,Crystal Palace,1.44,4.24,8.98
+20-Jul-20,Brighton,Newcastle,1.97,3.53,4
+20-Jul-20,Sheffield Utd,Everton,1.98,3.34,4.21
+19-Jul-20,Tottenham,Leicester,2.3,3.38,3.23
+19-Jul-20,Bournemouth,Southampton,2.44,3.76,2.73
+18-Jul-20,Norwich,Burnley,3.23,3.41,2.27
+17-Jul-20,West Ham,Watford,2.46,2.94,3.37
+16-Jul-20,Crystal Palace,Manchester Utd,8.53,5.28,1.36
+16-Jul-20,Southampton,Brighton,2.27,3.42,3.25
+16-Jul-20,Everton,Aston Villa,2.11,3.53,3.5
+16-Jul-20,Leicester,Sheffield Utd,2.12,3.25,3.81
+15-Jul-20,Arsenal,Liverpool,4.52,4.22,1.72
+15-Jul-20,Burnley,Wolves,4.61,3.27,1.93
+15-Jul-20,Manchester City,Bournemouth,1.14,9.13,16.64
+15-Jul-20,Newcastle,Tottenham,5.21,4.15,1.65
+14-Jul-20,Chelsea,Norwich,1.13,9.49,20.68
+13-Jul-20,Manchester Utd,Southampton,1.27,6.14,11.06
+12-Jul-20,Bournemouth,Leicester,4.86,3.81,1.74
+12-Jul-20,Tottenham,Arsenal,2.74,3.4,2.63
+12-Jul-20,Aston Villa,Crystal Palace,2.36,3.39,3.11
+12-Jul-20,Wolves,Everton,2.08,3.2,4.03
+11-Jul-20,Brighton,Manchester City,11.98,6.75,1.23
+11-Jul-20,Sheffield Utd,Chelsea,4.99,3.78,1.73
+11-Jul-20,Liverpool,Burnley,1.22,6.83,12.96
+11-Jul-20,Norwich,West Ham,3.64,3.52,2.07
+11-Jul-20,Watford,Newcastle,1.91,3.54,4.28
+9-Jul-20,Aston Villa,Manchester Utd,9.01,5.61,1.33
+9-Jul-20,Bournemouth,Tottenham,4.78,3.9,1.73
+9-Jul-20,Everton,Southampton,2.08,3.44,3.69
+8-Jul-20,Brighton,Liverpool,6.07,4.04,1.58
+8-Jul-20,Manchester City,Newcastle,1.1,10.67,22.39
+8-Jul-20,Sheffield Utd,Wolves,4.13,3.06,2.11
+8-Jul-20,West Ham,Burnley,1.86,3.62,4.33
+7-Jul-20,Arsenal,Leicester,2.22,3.46,3.28
+7-Jul-20,Crystal Palace,Chelsea,7.77,4.34,1.46
+7-Jul-20,Watford,Norwich,1.74,3.74,4.91
+6-Jul-20,Tottenham,Everton,1.95,3.62,3.9
+5-Jul-20,Southampton,Manchester City,9.17,5.66,1.32
+5-Jul-20,Liverpool,Aston Villa,1.19,7.56,14.36
+5-Jul-20,Newcastle,West Ham,2.73,3.38,2.63
+5-Jul-20,Burnley,Sheffield Utd,3.19,2.94,2.58
+4-Jul-20,Chelsea,Watford,1.36,5.15,8.89
+4-Jul-20,Wolves,Arsenal,2.38,3.24,3.18
+4-Jul-20,Leicester,Crystal Palace,1.64,3.73,5.97
+4-Jul-20,Manchester Utd,Bournemouth,1.19,7.37,14.74
+4-Jul-20,Norwich,Brighton,3.54,3.27,2.21
+2-Jul-20,Manchester City,Liverpool,2.02,3.75,3.57
+2-Jul-20,Sheffield Utd,Tottenham,4.77,3.75,1.78
+1-Jul-20,West Ham,Chelsea,6.86,4.7,1.46
+1-Jul-20,Arsenal,Norwich,1.46,4.84,6.83
+1-Jul-20,Bournemouth,Newcastle,2.21,3.19,3.71
+1-Jul-20,Everton,Leicester,2.58,3.25,2.91
+30-Jun-20,Brighton,Manchester Utd,6.85,4.15,1.53
+29-Jun-20,Crystal Palace,Burnley,2.01,3.19,4.35
+28-Jun-20,Watford,Southampton,2.4,3.24,3.19
+27-Jun-20,Aston Villa,Wolves,4.58,3.47,1.88
+25-Jun-20,Chelsea,Manchester City,4.05,4.02,1.83
+25-Jun-20,Burnley,Watford,3.55,3.27,2.2
+25-Jun-20,Southampton,Arsenal,2.69,3.54,2.58
+24-Jun-20,Liverpool,Crystal Palace,1.27,5.87,12.28
+24-Jun-20,Manchester Utd,Sheffield Utd,1.36,4.91,9.76
+24-Jun-20,Newcastle,Aston Villa,2.35,3.36,3.15
+24-Jun-20,Norwich,Everton,4.44,3.61,1.86
+24-Jun-20,Wolves,Bournemouth,1.57,3.9,6.82
+23-Jun-20,Tottenham,West Ham,1.57,4.13,6.3
+23-Jun-20,Leicester,Brighton,1.62,3.95,5.85
+22-Jun-20,Manchester City,Burnley,1.13,8.96,22.39
+21-Jun-20,Everton,Liverpool,5.84,3.97,1.62
+21-Jun-20,Aston Villa,Chelsea,6.98,4.64,1.46
+21-Jun-20,Newcastle,Sheffield Utd,3.32,3.04,2.43
+20-Jun-20,Bournemouth,Crystal Palace,2.71,3.13,2.84
+20-Jun-20,West Ham,Wolves,4.1,3.45,1.97
+20-Jun-20,Brighton,Arsenal,3.28,3.41,2.26
+20-Jun-20,Watford,Leicester,3.81,3.47,2.04
+19-Jun-20,Tottenham,Manchester Utd,3.3,3.45,2.23
+19-Jun-20,Norwich,Southampton,2.88,3.42,2.49
+17-Jun-20,Manchester City,Arsenal,1.29,6.29,9.49
+17-Jun-20,Aston Villa,Sheffield Utd,3.27,3.31,2.33
+9-Mar-20,Leicester,Aston Villa,1.53,4.48,6.1
+8-Mar-20,Manchester Utd,Manchester City,4.46,3.93,1.77
+8-Mar-20,Chelsea,Everton,1.85,3.85,4.08
+7-Mar-20,Burnley,Tottenham,2.69,3.34,2.67
+7-Mar-20,Arsenal,West Ham,1.62,4.31,5.2
+7-Mar-20,Crystal Palace,Watford,2.7,3.1,2.86
+7-Mar-20,Sheffield Utd,Norwich,1.67,3.88,5.36
+7-Mar-20,Southampton,Newcastle,1.74,3.8,4.82
+7-Mar-20,Wolves,Brighton,1.72,3.74,5.18
+7-Mar-20,Liverpool,Bournemouth,1.21,7.18,12.48
+1-Mar-20,Everton,Manchester Utd,2.86,3.36,2.52
+1-Mar-20,Tottenham,Wolves,2.73,3.08,2.82
+29-Feb-20,Watford,Liverpool,6.84,4.64,1.46
+29-Feb-20,Bournemouth,Chelsea,4.16,3.69,1.88
+29-Feb-20,Newcastle,Burnley,2.69,3.21,2.75
+29-Feb-20,West Ham,Southampton,2.55,3.51,2.71
+29-Feb-20,Brighton,Crystal Palace,2.17,3.2,3.68
+28-Feb-20,Norwich,Leicester,4.26,3.81,1.84
+24-Feb-20,Liverpool,West Ham,1.15,8.81,17.1
+23-Feb-20,Arsenal,Everton,1.97,3.66,3.79
+23-Feb-20,Manchester Utd,Watford,1.58,3.96,6.24
+23-Feb-20,Wolves,Norwich,1.51,4.24,7.02
+22-Feb-20,Leicester,Manchester City,5.23,4.59,1.57
+22-Feb-20,Burnley,Bournemouth,2.22,3.3,3.46
+22-Feb-20,Crystal Palace,Newcastle,2.15,3.23,3.69
+22-Feb-20,Sheffield Utd,Brighton,1.9,3.42,4.45
+22-Feb-20,Southampton,Aston Villa,1.71,4.05,4.7
+22-Feb-20,Chelsea,Tottenham,1.85,3.57,4.51
+19-Feb-20,Manchester City,West Ham,1.12,9.97,19.12
+17-Feb-20,Chelsea,Manchester Utd,2,3.44,3.98
+16-Feb-20,Arsenal,Newcastle,1.45,4.58,7.72
+16-Feb-20,Aston Villa,Tottenham,3.92,3.76,1.94
+15-Feb-20,Norwich,Liverpool,9.27,5.58,1.33
+15-Feb-20,Southampton,Burnley,1.69,3.99,5.14
+14-Feb-20,Wolves,Leicester,2.7,3.22,2.8
+9-Feb-20,Sheffield Utd,Bournemouth,1.76,3.48,5.34
+8-Feb-20,Brighton,Watford,2.3,3.39,3.21
+8-Feb-20,Everton,Crystal Palace,1.64,3.74,5.91
+2-Feb-20,Tottenham,Manchester City,5.88,4.57,1.53
+2-Feb-20,Burnley,Arsenal,3.96,3.73,1.92
+1-Feb-20,Manchester Utd,Wolves,2.12,3.4,3.65
+1-Feb-20,Bournemouth,Aston Villa,2.17,3.38,3.49
+1-Feb-20,Crystal Palace,Sheffield Utd,3.09,3.03,2.57
+1-Feb-20,Liverpool,Southampton,1.3,5.65,10.21
+1-Feb-20,Newcastle,Norwich,2.23,3.38,3.38
+1-Feb-20,Watford,Everton,2.97,3.38,2.44
+1-Feb-20,West Ham,Brighton,2.51,3.4,2.87
+1-Feb-20,Leicester,Chelsea,2.55,3.54,2.72
+29-Jan-20,West Ham,Liverpool,8.55,5.42,1.35
+23-Jan-20,Wolves,Liverpool,5.29,4,1.65
+22-Jan-20,Manchester Utd,Burnley,1.44,4.54,7.85
+22-Jan-20,Leicester,West Ham,1.48,4.74,6.57
+22-Jan-20,Tottenham,Norwich,1.37,5.16,8.51
+21-Jan-20,Chelsea,Arsenal,1.73,3.91,4.8
+21-Jan-20,Aston Villa,Watford,3.14,3.41,2.36
+21-Jan-20,Bournemouth,Brighton,2.85,3.29,2.57
+21-Jan-20,Everton,Newcastle,1.51,4.29,7
+21-Jan-20,Sheffield Utd,Manchester City,8.18,4.83,1.4
+21-Jan-20,Crystal Palace,Southampton,2.74,3.19,2.76
+19-Jan-20,Liverpool,Manchester Utd,1.44,4.69,7.52
+19-Jan-20,Burnley,Leicester,4.32,3.69,1.86
+18-Jan-20,Newcastle,Chelsea,5.7,4.41,1.57
+18-Jan-20,Arsenal,Sheffield Utd,1.98,3.42,4.15
+18-Jan-20,Brighton,Aston Villa,1.68,4.2,4.81
+18-Jan-20,Manchester City,Crystal Palace,1.09,11.35,28.14
+18-Jan-20,Norwich,Bournemouth,2.26,3.49,3.19
+18-Jan-20,Southampton,Wolves,2.6,3.15,2.93
+18-Jan-20,West Ham,Everton,2.92,3.44,2.45
+18-Jan-20,Watford,Tottenham,3.11,3.66,2.25
+12-Jan-20,Aston Villa,Manchester City,15.69,9.46,1.14
+12-Jan-20,Bournemouth,Watford,2.55,3.44,2.79
+11-Jan-20,Tottenham,Liverpool,4.88,4.09,1.69
+11-Jan-20,Chelsea,Burnley,1.33,5.25,9.53
+11-Jan-20,Everton,Brighton,1.92,3.77,3.92
+11-Jan-20,Leicester,Southampton,1.7,3.88,5.06
+11-Jan-20,Manchester Utd,Norwich,1.33,5.4,9.01
+11-Jan-20,Wolves,Newcastle,1.45,4.44,7.69
+11-Jan-20,Crystal Palace,Arsenal,4.63,3.92,1.76
+10-Jan-20,Sheffield Utd,West Ham,1.92,3.45,4.3
+2-Jan-20,Liverpool,Sheffield Utd,1.27,5.7,11.82
+1-Jan-20,Arsenal,Manchester Utd,2.67,3.67,2.53
+1-Jan-20,Manchester City,Everton,1.31,5.81,9.14
+1-Jan-20,Norwich,Crystal Palace,2.4,3.38,3.04
+1-Jan-20,West Ham,Bournemouth,1.89,3.67,4.17
+1-Jan-20,Newcastle,Leicester,4.27,3.84,1.82
+1-Jan-20,Southampton,Tottenham,3.58,3.83,1.98
+1-Jan-20,Watford,Wolves,3.24,3.3,2.33
+1-Jan-20,Brighton,Chelsea,3.85,3.97,1.89
+1-Jan-20,Burnley,Aston Villa,1.96,3.43,4.13
+29-Dec-19,Manchester City,Sheffield Utd,1.22,7.05,12.21
+29-Dec-19,Liverpool,Wolves,1.26,6.25,10.93
+29-Dec-19,Arsenal,Chelsea,2.91,3.72,2.33
+28-Dec-19,Burnley,Manchester Utd,4.26,3.67,1.88
+28-Dec-19,Norwich,Tottenham,4.83,4.45,1.64
+28-Dec-19,West Ham,Leicester,2.56,3.64,2.65
+28-Dec-19,Newcastle,Everton,3.25,3.34,2.3
+28-Dec-19,Southampton,Crystal Palace,1.94,3.57,4.03
+28-Dec-19,Watford,Aston Villa,1.78,4.05,4.27
+28-Dec-19,Brighton,Bournemouth,1.81,3.81,4.47
+27-Dec-19,Wolves,Manchester City,6.89,5.44,1.41
+26-Dec-19,Leicester,Liverpool,3.57,4.06,1.94
+26-Dec-19,Manchester Utd,Newcastle,1.35,5.45,8.49
+26-Dec-19,Aston Villa,Norwich,2.2,3.74,3.13
+26-Dec-19,Bournemouth,Arsenal,3.91,4.11,1.86
+26-Dec-19,Chelsea,Southampton,1.38,5.06,8.5
+26-Dec-19,Crystal Palace,West Ham,2.25,3.43,3.24
+26-Dec-19,Everton,Burnley,1.73,3.66,5.18
+26-Dec-19,Sheffield Utd,Watford,1.81,3.59,4.68
+26-Dec-19,Tottenham,Brighton,1.52,4.47,6.27
+22-Dec-19,Tottenham,Chelsea,2.31,3.61,3.04
+22-Dec-19,Watford,Manchester Utd,4.68,3.83,1.77
+21-Dec-19,Manchester City,Leicester,1.38,5.61,7.22
+21-Dec-19,Aston Villa,Southampton,2.49,3.7,2.71
+21-Dec-19,Bournemouth,Burnley,2.41,3.32,3.06
+21-Dec-19,Brighton,Sheffield Utd,2.16,3.38,3.54
+21-Dec-19,Newcastle,Crystal Palace,2.41,3.11,3.26
+21-Dec-19,Norwich,Wolves,4.01,3.83,1.88
+21-Dec-19,Everton,Arsenal,2.15,3.84,3.21
+16-Dec-19,Crystal Palace,Brighton,2.8,3.25,2.69
+15-Dec-19,Arsenal,Manchester City,6.59,5.92,1.38
+15-Dec-19,Manchester Utd,Everton,1.66,4.01,5.28
+15-Dec-19,Wolves,Tottenham,2.88,3.6,2.41
+14-Dec-19,Southampton,West Ham,1.8,4.03,4.21
+14-Dec-19,Burnley,Newcastle,1.98,3.51,3.97
+14-Dec-19,Chelsea,Bournemouth,1.23,6.72,12.2
+14-Dec-19,Leicester,Norwich,1.23,6.78,12
+14-Dec-19,Sheffield Utd,Aston Villa,1.78,3.89,4.46
+14-Dec-19,Liverpool,Watford,1.18,7.74,15.63
+9-Dec-19,West Ham,Arsenal,3.67,4.17,1.9
+8-Dec-19,Brighton,Wolves,2.61,3.19,2.92
+8-Dec-19,Aston Villa,Leicester,4.93,4.19,1.67
+8-Dec-19,Newcastle,Southampton,2.59,3.31,2.83
+8-Dec-19,Norwich,Sheffield Utd,3.1,3.53,2.29
+7-Dec-19,Manchester City,Manchester Utd,1.32,5.79,8.86
+7-Dec-19,Bournemouth,Liverpool,6.52,4.61,1.49
+7-Dec-19,Tottenham,Burnley,1.41,4.83,7.75
+7-Dec-19,Watford,Crystal Palace,2.45,3.36,2.99
+7-Dec-19,Everton,Chelsea,3.27,3.79,2.14
+5-Dec-19,Arsenal,Brighton,1.62,4.33,5.17
+5-Dec-19,Sheffield Utd,Newcastle,1.78,3.54,5.2
+4-Dec-19,Liverpool,Everton,1.62,4.03,5.69
+4-Dec-19,Chelsea,Aston Villa,1.34,5.57,8.53
+4-Dec-19,Leicester,Watford,1.36,5.29,8.51
+4-Dec-19,Manchester Utd,Tottenham,2.58,3.43,2.78
+4-Dec-19,Southampton,Norwich,1.76,3.93,4.52
+4-Dec-19,Wolves,West Ham,1.68,3.94,5.16
+3-Dec-19,Burnley,Manchester City,11.57,6.77,1.24
+3-Dec-19,Crystal Palace,Bournemouth,2.21,3.48,3.34
+1-Dec-19,Leicester,Everton,1.6,4.13,5.81
+1-Dec-19,Manchester Utd,Aston Villa,1.45,4.75,7.2
+1-Dec-19,Norwich,Arsenal,4.37,4.4,1.71
+1-Dec-19,Wolves,Sheffield Utd,2.22,3.11,3.73
+30-Nov-19,Southampton,Watford,2.07,3.57,3.61
+30-Nov-19,Burnley,Crystal Palace,2.03,3.45,3.9
+30-Nov-19,Chelsea,West Ham,1.28,6.22,10.06
+30-Nov-19,Liverpool,Brighton,1.2,6.98,15.19
+30-Nov-19,Tottenham,Bournemouth,1.33,5.62,8.83
+30-Nov-19,Newcastle,Manchester City,11.98,7.84,1.2
+25-Nov-19,Aston Villa,Newcastle,2.17,3.51,3.36
+24-Nov-19,Sheffield Utd,Manchester Utd,3.9,3.37,2.05
+23-Nov-19,Manchester City,Chelsea,1.38,5.59,7.16
+23-Nov-19,Arsenal,Southampton,1.46,4.71,6.88
+23-Nov-19,Bournemouth,Wolves,2.98,3.23,2.53
+23-Nov-19,Brighton,Leicester,3.84,3.58,1.99
+23-Nov-19,Crystal Palace,Liverpool,6.79,4.48,1.49
+23-Nov-19,Everton,Norwich,1.35,5.31,8.54
+23-Nov-19,Watford,Burnley,2.24,3.3,3.41
+23-Nov-19,West Ham,Tottenham,4.67,4.38,1.67
+10-Nov-19,Liverpool,Manchester City,2.64,3.64,2.61
+10-Nov-19,Manchester Utd,Brighton,1.62,3.79,6.23
+10-Nov-19,Wolves,Aston Villa,1.68,3.84,5.44
+9-Nov-19,Leicester,Arsenal,1.89,4,3.85
+9-Nov-19,Burnley,West Ham,2.14,3.61,3.34
+9-Nov-19,Newcastle,Bournemouth,2.56,3.29,2.88
+9-Nov-19,Southampton,Everton,3.18,3.4,2.32
+9-Nov-19,Tottenham,Sheffield Utd,1.52,4.32,6.54
+9-Nov-19,Chelsea,Crystal Palace,1.43,4.77,7.69
+8-Nov-19,Norwich,Watford,2.88,3.61,2.39
+3-Nov-19,Everton,Tottenham,2.51,3.59,2.75
+3-Nov-19,Crystal Palace,Leicester,3.73,3.47,2.06
+2-Nov-19,Watford,Chelsea,5.15,4.33,1.62
+2-Nov-19,Arsenal,Wolves,1.75,3.85,4.73
+2-Nov-19,Aston Villa,Liverpool,9.23,6,1.3
+2-Nov-19,Brighton,Norwich,1.58,4.41,5.47
+2-Nov-19,Manchester City,Southampton,1.07,13,29.62
+2-Nov-19,Sheffield Utd,Burnley,2.27,3.23,3.43
+2-Nov-19,West Ham,Newcastle,1.81,3.78,4.43
+2-Nov-19,Bournemouth,Manchester Utd,3.68,3.57,2.06
+27-Oct-19,Arsenal,Crystal Palace,1.48,4.71,6.55
+27-Oct-19,Liverpool,Tottenham,1.47,4.81,6.55
+27-Oct-19,Norwich,Manchester Utd,4.65,3.76,1.78
+27-Oct-19,Newcastle,Wolves,3.4,3.09,2.39
+26-Oct-19,Burnley,Chelsea,5.14,4.06,1.67
+26-Oct-19,Brighton,Everton,2.64,3.32,2.76
+26-Oct-19,Watford,Bournemouth,2.27,3.58,3.12
+26-Oct-19,West Ham,Sheffield Utd,2.26,3.42,3.27
+26-Oct-19,Manchester City,Aston Villa,1.07,13.97,27.19
+25-Oct-19,Southampton,Leicester,3.13,3.39,2.36
+21-Oct-19,Sheffield Utd,Arsenal,3.72,3.57,2.04
+20-Oct-19,Manchester Utd,Liverpool,4.08,3.54,1.95
+19-Oct-19,Crystal Palace,Manchester City,11.61,7.36,1.22
+19-Oct-19,Aston Villa,Brighton,2.35,3.48,3.06
+19-Oct-19,Bournemouth,Norwich,1.74,4.23,4.36
+19-Oct-19,Chelsea,Newcastle,1.27,6.06,11.04
+19-Oct-19,Leicester,Burnley,1.49,4.4,7.11
+19-Oct-19,Tottenham,Watford,1.5,4.46,6.69
+19-Oct-19,Wolves,Southampton,2.04,3.29,4.04
+19-Oct-19,Everton,West Ham,1.78,4.02,4.31
+6-Oct-19,Newcastle,Manchester Utd,3.96,3.29,2.06
+6-Oct-19,Arsenal,Bournemouth,1.36,5.7,7.62
+6-Oct-19,Manchester City,Wolves,1.13,8.92,20.84
+6-Oct-19,Southampton,Chelsea,4.78,4.22,1.68
+5-Oct-19,West Ham,Crystal Palace,1.99,3.66,3.79
+5-Oct-19,Burnley,Everton,3.2,3.24,2.39
+5-Oct-19,Liverpool,Leicester,1.58,4.32,5.66
+5-Oct-19,Norwich,Aston Villa,2.42,3.62,2.85
+5-Oct-19,Watford,Sheffield Utd,2.36,3.26,3.24
+5-Oct-19,Brighton,Tottenham,5.09,3.9,1.7
+30-Sep-19,Manchester Utd,Arsenal,2.23,3.57,3.2
+29-Sep-19,Leicester,Newcastle,1.52,4.14,7.02
+28-Sep-19,Everton,Manchester City,8.73,5.59,1.34
+28-Sep-19,Aston Villa,Burnley,2.29,3.41,3.21
+28-Sep-19,Bournemouth,West Ham,2.39,3.62,2.89
+28-Sep-19,Chelsea,Brighton,1.42,4.71,7.73
+28-Sep-19,Crystal Palace,Norwich,1.92,3.78,3.89
+28-Sep-19,Tottenham,Southampton,1.38,5.1,8.15
+28-Sep-19,Wolves,Watford,1.93,3.45,4.27
+28-Sep-19,Sheffield Utd,Liverpool,9.01,5.3,1.35
+22-Sep-19,Arsenal,Aston Villa,1.41,5.09,7.29
+22-Sep-19,Chelsea,Liverpool,3.26,3.72,2.15
+22-Sep-19,Crystal Palace,Wolves,2.74,3.12,2.82
+22-Sep-19,West Ham,Manchester Utd,3.05,3.51,2.34
+21-Sep-19,Newcastle,Brighton,2.39,3.22,3.21
+21-Sep-19,Burnley,Norwich,2.02,3.76,3.59
+21-Sep-19,Everton,Sheffield Utd,1.75,3.59,5.24
+21-Sep-19,Manchester City,Watford,1.1,10.98,23.41
+21-Sep-19,Leicester,Tottenham,2.75,3.45,2.59
+20-Sep-19,Southampton,Bournemouth,2.18,3.55,3.34
+16-Sep-19,Aston Villa,West Ham,2.73,3.6,2.52
+15-Sep-19,Watford,Arsenal,4.16,3.87,1.86
+15-Sep-19,Bournemouth,Everton,3.4,3.53,2.17
+14-Sep-19,Norwich,Manchester City,25.14,11.93,1.09
+14-Sep-19,Brighton,Burnley,2.11,3.41,3.66
+14-Sep-19,Manchester Utd,Leicester,2.12,3.33,3.74
+14-Sep-19,Sheffield Utd,Southampton,2.46,3.28,3.03
+14-Sep-19,Tottenham,Crystal Palace,1.4,4.99,7.8
+14-Sep-19,Wolves,Chelsea,3.05,3.41,2.39
+14-Sep-19,Liverpool,Newcastle,1.19,7.53,14.54
+1-Sep-19,Arsenal,Tottenham,2.55,3.64,2.69
+1-Sep-19,Everton,Wolves,2.05,3.27,4.06
+31-Aug-19,Burnley,Liverpool,8.97,5.41,1.34
+31-Aug-19,Chelsea,Sheffield Utd,1.4,4.74,8.28
+31-Aug-19,Crystal Palace,Aston Villa,2.25,3.4,3.3
+31-Aug-19,Leicester,Bournemouth,1.65,4.03,5.29
+31-Aug-19,Manchester City,Brighton,1.08,11.4,30.15
+31-Aug-19,Newcastle,Watford,2.51,3.19,3.04
+31-Aug-19,West Ham,Norwich,1.88,4.02,3.86
+31-Aug-19,Southampton,Manchester Utd,4.16,3.52,1.94
+25-Aug-19,Tottenham,Newcastle,1.28,6.04,10.91
+25-Aug-19,Wolves,Burnley,1.78,3.45,5.32
+25-Aug-19,Bournemouth,Manchester City,16.68,8.21,1.17
+24-Aug-19,Liverpool,Arsenal,1.46,4.98,6.4
+24-Aug-19,Brighton,Southampton,2.32,3.28,3.29
+24-Aug-19,Manchester Utd,Crystal Palace,1.34,5.28,9.33
+24-Aug-19,Sheffield Utd,Leicester,3.31,3.28,2.3
+24-Aug-19,Watford,West Ham,2.18,3.53,3.34
+24-Aug-19,Norwich,Chelsea,4.32,3.85,1.82
+23-Aug-19,Aston Villa,Everton,3.07,3.43,2.38
+19-Aug-19,Wolves,Manchester Utd,3.02,3.3,2.46
+18-Aug-19,Chelsea,Leicester,1.71,3.82,5.22
+18-Aug-19,Sheffield Utd,Crystal Palace,2.51,3.25,3
+17-Aug-19,Manchester City,Tottenham,1.36,5.48,7.99
+17-Aug-19,Aston Villa,Bournemouth,2.25,3.62,3.12
+17-Aug-19,Brighton,West Ham,2.19,3.45,3.42
+17-Aug-19,Everton,Watford,1.81,3.7,4.58
+17-Aug-19,Norwich,Newcastle,2.13,3.43,3.58
+17-Aug-19,Southampton,Liverpool,6.64,4.52,1.49
+17-Aug-19,Arsenal,Burnley,1.35,5.25,8.99
+11-Aug-19,Manchester Utd,Chelsea,2.01,3.41,4.11
+11-Aug-19,Leicester,Wolves,2.39,3.16,3.33
+11-Aug-19,Newcastle,Arsenal,3.44,3.54,2.17
+10-Aug-19,Tottenham,Aston Villa,1.36,5.44,8.65
+10-Aug-19,Bournemouth,Sheffield Utd,1.98,3.61,4
+10-Aug-19,Burnley,Southampton,2.66,3.21,2.88
+10-Aug-19,Crystal Palace,Everton,3.41,3.39,2.25
+10-Aug-19,Watford,Brighton,2.07,3.28,4.08
+10-Aug-19,West Ham,Manchester City,11.36,6.65,1.25
+9-Aug-19,Liverpool,Norwich,1.13,9.85,19.76

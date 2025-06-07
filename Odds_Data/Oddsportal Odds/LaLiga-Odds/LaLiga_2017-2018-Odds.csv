@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,HomeBet,DrawBet,AwayBet
+20 May 2018,Barcelona,Real Sociedad,1.30,6.48,8.30
+20 May 2018,Atl. Madrid,Eibar,1.44,4.39,8.18
+20 May 2018,Ath Bilbao,Espanyol,1.91,3.67,3.95
+20 May 2018,Valencia,Dep. La Coruna,1.27,6.15,10.24
+19 May 2018,Villarreal,Real Madrid,4.51,4.95,1.62
+19 May 2018,Las Palmas,Girona,3.33,3.82,2.08
+19 May 2018,Malaga,Getafe,3.23,3.49,2.23
+19 May 2018,Sevilla,Alaves,1.30,6.06,9.00
+19 May 2018,Leganes,Betis,2.29,3.62,3.00
+19 May 2018,Celta Vigo,Levante,1.60,4.50,5.10
+13 May 2018,Levante,Barcelona,7.62,5.50,1.37
+13 May 2018,Espanyol,Malaga,1.61,3.85,6.12
+12 May 2018,Real Madrid,Celta Vigo,1.25,6.91,10.68
+12 May 2018,Alaves,Ath Bilbao,2.85,3.26,2.60
+12 May 2018,Betis,Sevilla,2.96,3.64,2.32
+12 May 2018,Dep. La Coruna,Villarreal,4.56,4.20,1.71
+12 May 2018,Eibar,Las Palmas,1.39,4.90,8.35
+12 May 2018,Getafe,Atl. Madrid,3.72,3.06,2.24
+12 May 2018,Girona,Valencia,2.11,3.63,3.40
+12 May 2018,Real Sociedad,Leganes,1.39,4.79,8.74
+09 May 2018,Sevilla,Real Madrid,2.08,4.07,3.13
+09 May 2018,Barcelona,Villarreal,1.35,5.52,8.27
+07 May 2018,Leganes,Levante,2.20,3.25,3.54
+06 May 2018,Barcelona,Real Madrid,1.74,4.49,4.07
+06 May 2018,Las Palmas,Getafe,2.59,3.28,2.83
+06 May 2018,Atl. Madrid,Espanyol,1.55,3.73,7.61
+06 May 2018,Malaga,Alaves,2.21,3.27,3.53
+05 May 2018,Villarreal,Valencia,2.38,3.51,2.96
+05 May 2018,Celta Vigo,Dep. La Coruna,1.78,3.91,4.43
+05 May 2018,Ath Bilbao,Betis,2.11,3.52,3.48
+05 May 2018,Girona,Eibar,2.11,3.34,3.67
+04 May 2018,Sevilla,Real Sociedad,2.14,3.60,3.35
+30 Apr 2018,Betis,Malaga,1.45,4.52,7.52
+29 Apr 2018,Dep. La Coruna,Barcelona,13.51,7.25,1.21
+29 Apr 2018,Valencia,Eibar,1.52,4.19,6.87
+29 Apr 2018,Alaves,Atl. Madrid,3.67,3.26,2.15
+29 Apr 2018,Getafe,Girona,1.94,3.25,4.56
+28 Apr 2018,Villarreal,Celta Vigo,1.69,3.94,5.10
+28 Apr 2018,Real Madrid,Leganes,1.46,4.64,7.32
+28 Apr 2018,Real Sociedad,Ath Bilbao,1.87,3.65,4.29
+28 Apr 2018,Espanyol,Las Palmas,1.41,4.59,8.62
+27 Apr 2018,Levante,Sevilla,4.07,3.85,1.86
+23 Apr 2018,Ath Bilbao,Levante,1.70,3.73,5.39
+22 Apr 2018,Atl. Madrid,Betis,1.57,3.88,6.66
+22 Apr 2018,Las Palmas,Alaves,3.10,3.36,2.36
+22 Apr 2018,Malaga,Real Sociedad,4.30,3.43,1.94
+22 Apr 2018,Girona,Espanyol,2.13,3.15,3.93
+21 Apr 2018,Celta Vigo,Valencia,2.53,3.56,2.73
+21 Apr 2018,Eibar,Getafe,2.20,2.99,3.87
+20 Apr 2018,Leganes,Dep. La Coruna,2.39,3.25,3.17
+19 Apr 2018,Betis,Las Palmas,1.36,5.36,8.25
+19 Apr 2018,Levante,Malaga,1.94,3.35,4.39
+19 Apr 2018,Alaves,Girona,1.97,3.34,4.18
+19 Apr 2018,Real Sociedad,Atl. Madrid,2.98,3.28,2.47
+18 Apr 2018,Real Madrid,Ath Bilbao,1.17,8.20,14.89
+18 Apr 2018,Espanyol,Eibar,1.99,3.21,4.38
+18 Apr 2018,Valencia,Getafe,1.64,3.81,5.86
+17 Apr 2018,Villarreal,Leganes,1.55,3.91,7.01
+17 Apr 2018,Celta Vigo,Barcelona,3.53,3.80,2.00
+17 Apr 2018,Dep. La Coruna,Sevilla,2.26,3.64,3.07
+15 Apr 2018,Malaga,Real Madrid,8.58,5.29,1.36
+15 Apr 2018,Getafe,Espanyol,2.11,3.11,4.03
+15 Apr 2018,Atl. Madrid,Levante,1.27,5.52,14.07
+15 Apr 2018,Eibar,Alaves,1.93,3.31,4.48
+14 Apr 2018,Ath Bilbao,Dep. La Coruna,1.62,4.07,5.61
+14 Apr 2018,Las Palmas,Real Sociedad,4.06,3.83,1.86
+14 Apr 2018,Leganes,Celta Vigo,3.15,3.13,2.47
+14 Apr 2018,Barcelona,Valencia,1.30,5.87,9.82
+14 Apr 2018,Sevilla,Villarreal,1.71,4.02,4.78
+13 Apr 2018,Girona,Betis,2.12,3.48,3.54
+09 Apr 2018,Villarreal,Ath Bilbao,1.92,3.39,4.45
+08 Apr 2018,Valencia,Espanyol,1.44,4.44,8.06
+08 Apr 2018,Real Sociedad,Girona,2.02,3.50,3.85
+08 Apr 2018,Real Madrid,Atl. Madrid,1.75,3.87,4.75
+08 Apr 2018,Levante,Las Palmas,1.80,3.77,4.51
+07 Apr 2018,Barcelona,Leganes,1.11,9.31,27.50
+07 Apr 2018,Betis,Eibar,2.26,3.51,3.19
+07 Apr 2018,Celta Vigo,Sevilla,2.23,3.58,3.18
+07 Apr 2018,Alaves,Getafe,2.50,3.06,3.21
+06 Apr 2018,Dep. La Coruna,Malaga,2.02,3.30,4.09
+02 Apr 2018,Getafe,Betis,2.25,3.27,3.43
+01 Apr 2018,Atl. Madrid,Dep. La Coruna,1.34,5.02,10.14
+01 Apr 2018,Eibar,Real Sociedad,2.29,3.39,3.22
+01 Apr 2018,Malaga,Villarreal,4.38,3.38,1.93
+01 Apr 2018,Leganes,Valencia,3.77,3.30,2.11
+01 Apr 2018,Espanyol,Alaves,1.93,3.25,4.56
+31 Mar 2018,Sevilla,Barcelona,4.50,3.96,1.76
+31 Mar 2018,Las Palmas,Real Madrid,9.02,6.15,1.30
+31 Mar 2018,Ath Bilbao,Celta Vigo,2.24,3.31,3.42
+31 Mar 2018,Girona,Levante,1.64,3.81,5.93
+18 Mar 2018,Real Madrid,Girona,1.16,8.79,15.75
+18 Mar 2018,Celta Vigo,Malaga,1.55,4.04,6.69
+18 Mar 2018,Villarreal,Atl. Madrid,3.71,3.31,2.12
+18 Mar 2018,Barcelona,Ath Bilbao,1.16,8.04,18.96
+18 Mar 2018,Leganes,Sevilla,3.83,3.37,2.06
+17 Mar 2018,Betis,Espanyol,2.29,3.28,3.33
+17 Mar 2018,Real Sociedad,Getafe,1.74,3.68,5.10
+17 Mar 2018,Valencia,Alaves,1.46,4.45,7.61
+17 Mar 2018,Dep. La Coruna,Las Palmas,1.71,3.84,5.01
+16 Mar 2018,Levante,Eibar,3.31,3.24,2.31
+12 Mar 2018,Alaves,Betis,2.20,3.41,3.38
+11 Mar 2018,Ath Bilbao,Leganes,1.85,3.21,5.24
+11 Mar 2018,Las Palmas,Villarreal,3.44,3.54,2.13
+11 Mar 2018,Atl. Madrid,Celta Vigo,1.33,5.11,10.65
+11 Mar 2018,Espanyol,Real Sociedad,2.95,3.21,2.56
+10 Mar 2018,Malaga,Barcelona,9.73,4.92,1.36
+10 Mar 2018,Getafe,Levante,1.66,3.72,5.83
+10 Mar 2018,Sevilla,Valencia,2.03,3.64,3.66
+10 Mar 2018,Eibar,Real Madrid,6.49,4.85,1.47
+09 Mar 2018,Girona,Dep. La Coruna,1.65,3.92,5.48
+05 Mar 2018,Celta Vigo,Las Palmas,1.37,5.13,8.76
+04 Mar 2018,Valencia,Betis,1.51,4.67,6.18
+04 Mar 2018,Real Sociedad,Alaves,1.59,4.05,6.01
+04 Mar 2018,Barcelona,Atl. Madrid,1.63,3.97,5.59
+04 Mar 2018,Levante,Espanyol,3.18,3.01,2.53
+03 Mar 2018,Real Madrid,Getafe,1.21,7.12,13.20
+03 Mar 2018,Dep. La Coruna,Eibar,3.08,3.33,2.40
+03 Mar 2018,Leganes,Malaga,2.22,2.99,3.91
+03 Mar 2018,Sevilla,Ath Bilbao,1.60,3.99,5.93
+03 Mar 2018,Villarreal,Girona,1.66,3.85,5.53
+01 Mar 2018,Alaves,Levante,1.89,3.35,4.66
+01 Mar 2018,Las Palmas,Barcelona,17.46,8.63,1.15
+01 Mar 2018,Betis,Real Sociedad,2.72,3.62,2.51
+28 Feb 2018,Atl. Madrid,Leganes,1.24,5.59,17.79
+28 Feb 2018,Eibar,Villarreal,2.17,3.26,3.66
+28 Feb 2018,Ath Bilbao,Valencia,2.49,3.22,3.00
+28 Feb 2018,Getafe,Dep. La Coruna,1.82,3.45,4.93
+28 Feb 2018,Malaga,Sevilla,3.38,3.39,2.21
+27 Feb 2018,Girona,Celta Vigo,2.37,3.43,3.04
+27 Feb 2018,Espanyol,Real Madrid,5.30,4.13,1.64
+26 Feb 2018,Levante,Betis,2.39,3.54,2.92
+25 Feb 2018,Sevilla,Atl. Madrid,3.28,3.24,2.33
+25 Feb 2018,Valencia,Real Sociedad,1.73,4.05,4.62
+25 Feb 2018,Ath Bilbao,Malaga,1.64,3.58,6.24
+25 Feb 2018,Villarreal,Getafe,1.81,3.54,4.87
+24 Feb 2018,Barcelona,Girona,1.16,8.21,18.28
+24 Feb 2018,Leganes,Las Palmas,1.72,3.61,5.39
+24 Feb 2018,Real Madrid,Alaves,1.17,8.07,15.56
+24 Feb 2018,Celta Vigo,Eibar,2.00,3.51,3.88
+23 Feb 2018,Dep. La Coruna,Espanyol,2.58,3.20,2.90
+21 Feb 2018,Leganes,Real Madrid,7.68,4.81,1.42
+19 Feb 2018,Getafe,Celta Vigo,2.72,3.23,2.75
+18 Feb 2018,Betis,Real Madrid,8.06,6.05,1.33
+18 Feb 2018,Espanyol,Villarreal,2.35,3.29,3.19
+18 Feb 2018,Atl. Madrid,Ath Bilbao,1.38,4.44,10.80
+18 Feb 2018,Real Sociedad,Levante,1.50,4.47,6.36
+17 Feb 2018,Malaga,Valencia,3.86,3.49,2.01
+17 Feb 2018,Alaves,Dep. La Coruna,1.93,3.55,4.16
+17 Feb 2018,Eibar,Barcelona,7.84,4.94,1.41
+17 Feb 2018,Las Palmas,Sevilla,3.52,3.67,2.06
+16 Feb 2018,Girona,Leganes,1.77,3.41,5.43
+12 Feb 2018,Dep. La Coruna,Betis,2.16,3.65,3.19
+11 Feb 2018,Valencia,Levante,1.51,4.27,6.44
+11 Feb 2018,Celta Vigo,Espanyol,1.85,3.49,4.48
+11 Feb 2018,Barcelona,Getafe,1.12,9.01,21.15
+11 Feb 2018,Sevilla,Girona,1.58,4.00,5.74
+10 Feb 2018,Real Madrid,Real Sociedad,1.28,6.49,8.97
+10 Feb 2018,Leganes,Eibar,2.95,3.01,2.65
+10 Feb 2018,Malaga,Atl. Madrid,6.56,3.65,1.60
+10 Feb 2018,Villarreal,Alaves,1.70,3.62,5.45
+09 Feb 2018,Ath Bilbao,Las Palmas,1.43,4.66,7.17
+05 Feb 2018,Las Palmas,Malaga,2.16,3.56,3.27
+04 Feb 2018,Atl. Madrid,Valencia,1.48,4.13,7.59
+04 Feb 2018,Girona,Ath Bilbao,2.32,3.23,3.25
+04 Feb 2018,Espanyol,Barcelona,7.88,4.47,1.43
+04 Feb 2018,Getafe,Leganes,1.94,3.20,4.52
+03 Feb 2018,Levante,Real Madrid,12.51,7.08,1.21
+03 Feb 2018,Alaves,Celta Vigo,2.56,3.19,2.90
+03 Feb 2018,Betis,Villarreal,3.00,3.58,2.28
+03 Feb 2018,Eibar,Sevilla,2.80,3.28,2.58
+02 Feb 2018,Real Sociedad,Dep. La Coruna,1.45,4.80,6.49
+29 Jan 2018,Celta Vigo,Betis,1.71,4.06,4.56
+28 Jan 2018,Barcelona,Alaves,1.09,10.70,24.02
+28 Jan 2018,Sevilla,Getafe,1.50,4.09,7.12
+28 Jan 2018,Atl. Madrid,Las Palmas,1.19,7.04,15.67
+28 Jan 2018,Leganes,Espanyol,2.76,2.86,2.95
+27 Jan 2018,Villarreal,Real Sociedad,2.09,3.54,3.45
+27 Jan 2018,Malaga,Girona,2.69,3.10,2.82
+27 Jan 2018,Valencia,Real Madrid,4.62,4.60,1.62
+27 Jan 2018,Dep. La Coruna,Levante,1.89,3.55,4.16
+26 Jan 2018,Ath Bilbao,Eibar,1.90,3.46,4.26
+22 Jan 2018,Eibar,Malaga,1.75,3.46,5.15
+21 Jan 2018,Betis,Barcelona,9.22,6.24,1.28
+21 Jan 2018,Real Sociedad,Celta Vigo,1.84,3.75,4.14
+21 Jan 2018,Real Madrid,Dep. La Coruna,1.11,9.93,20.89
+21 Jan 2018,Alaves,Leganes,2.25,2.99,3.66
+20 Jan 2018,Las Palmas,Valencia,4.06,3.96,1.81
+20 Jan 2018,Villarreal,Levante,1.62,3.79,5.86
+20 Jan 2018,Atl. Madrid,Girona,1.33,4.80,10.76
+20 Jan 2018,Espanyol,Sevilla,2.94,3.26,2.47
+19 Jan 2018,Getafe,Ath Bilbao,2.74,3.06,2.78
+15 Jan 2018,Betis,Leganes,1.97,3.38,4.04
+14 Jan 2018,Real Sociedad,Barcelona,6.70,5.06,1.42
+14 Jan 2018,Espanyol,Ath Bilbao,2.86,3.12,2.62
+14 Jan 2018,Alaves,Sevilla,3.42,3.31,2.19
+14 Jan 2018,Levante,Celta Vigo,3.45,3.41,2.13
+13 Jan 2018,Dep. La Coruna,Valencia,3.34,3.63,2.10
+13 Jan 2018,Eibar,Atl. Madrid,4.14,3.18,2.02
+13 Jan 2018,Real Madrid,Villarreal,1.20,7.49,12.37
+13 Jan 2018,Girona,Las Palmas,1.63,4.13,5.10
+12 Jan 2018,Getafe,Malaga,1.86,3.28,4.77
+08 Jan 2018,Malaga,Espanyol,2.99,3.04,2.59
+07 Jan 2018,Celta Vigo,Real Madrid,5.96,4.74,1.48
+07 Jan 2018,Ath Bilbao,Alaves,1.78,3.44,5.03
+07 Jan 2018,Villarreal,Dep. La Coruna,1.54,4.17,6.31
+07 Jan 2018,Barcelona,Levante,1.05,15.62,37.95
+07 Jan 2018,Leganes,Real Sociedad,3.27,3.10,2.37
+06 Jan 2018,Sevilla,Betis,1.60,4.31,5.20
+06 Jan 2018,Las Palmas,Eibar,2.66,3.48,2.58
+06 Jan 2018,Valencia,Girona,1.50,4.33,6.51
+06 Jan 2018,Atl. Madrid,Getafe,1.35,4.59,11.17
+23 Dec 2017,Dep. La Coruna,Celta Vigo,2.79,3.32,2.56
+23 Dec 2017,Valencia,Villarreal,2.07,3.58,3.47
+23 Dec 2017,Real Madrid,Barcelona,2.15,3.77,3.14
+22 Dec 2017,Espanyol,Atl. Madrid,5.06,3.38,1.80
+22 Dec 2017,Betis,Ath Bilbao,2.68,3.28,2.68
+21 Dec 2017,Alaves,Malaga,2.00,3.23,4.16
+21 Dec 2017,Eibar,Girona,2.04,3.28,3.92
+20 Dec 2017,Real Sociedad,Sevilla,2.13,3.73,3.32
+20 Dec 2017,Getafe,Las Palmas,1.72,3.94,4.84
+19 Dec 2017,Levante,Leganes,2.70,3.02,2.92
+18 Dec 2017,Malaga,Betis,2.20,3.34,3.52
+17 Dec 2017,Barcelona,Dep. La Coruna,1.11,10.67,21.96
+17 Dec 2017,Las Palmas,Espanyol,2.46,3.35,3.01
+17 Dec 2017,Celta Vigo,Villarreal,2.50,3.46,2.85
+17 Dec 2017,Girona,Getafe,2.22,3.29,3.52
+16 Dec 2017,Atl. Madrid,Alaves,1.25,5.93,14.97
+16 Dec 2017,Eibar,Valencia,2.68,3.38,2.70
+16 Dec 2017,Ath Bilbao,Real Sociedad,2.31,3.43,3.18
+15 Dec 2017,Sevilla,Levante,1.30,5.80,10.49
+11 Dec 2017,Espanyol,Girona,1.87,3.52,4.50
+10 Dec 2017,Villarreal,Barcelona,5.67,4.44,1.57
+10 Dec 2017,Levante,Ath Bilbao,3.96,3.40,2.03
+10 Dec 2017,Betis,Atl. Madrid,5.57,4.10,1.62
+10 Dec 2017,Real Sociedad,Malaga,1.51,4.49,6.55
+09 Dec 2017,Valencia,Celta Vigo,1.77,4.01,4.45
+09 Dec 2017,Dep. La Coruna,Leganes,2.36,3.24,3.28
+09 Dec 2017,Real Madrid,Sevilla,1.34,6.01,8.03
+09 Dec 2017,Getafe,Eibar,2.05,3.40,3.89
+08 Dec 2017,Alaves,Las Palmas,2.29,3.37,3.29
+04 Dec 2017,Girona,Alaves,1.59,4.08,6.07
+03 Dec 2017,Las Palmas,Betis,2.28,3.71,3.02
+03 Dec 2017,Eibar,Espanyol,2.30,3.21,3.42
+03 Dec 2017,Getafe,Valencia,3.23,3.55,2.24
+03 Dec 2017,Leganes,Villarreal,2.86,3.20,2.66
+02 Dec 2017,Ath Bilbao,Real Madrid,6.77,5.05,1.45
+02 Dec 2017,Sevilla,Dep. La Coruna,1.41,5.21,7.28
+02 Dec 2017,Atl. Madrid,Real Sociedad,1.45,4.55,7.83
+02 Dec 2017,Barcelona,Celta Vigo,1.13,9.70,20.77
+01 Dec 2017,Malaga,Levante,1.82,3.66,4.59
+27 Nov 2017,Espanyol,Getafe,2.21,3.25,3.59
+26 Nov 2017,Valencia,Barcelona,4.62,4.56,1.66
+26 Nov 2017,Villarreal,Sevilla,2.12,3.55,3.43
+26 Nov 2017,Real Sociedad,Las Palmas,1.41,5.25,7.21
+26 Nov 2017,Dep. La Coruna,Ath Bilbao,2.83,3.26,2.64
+25 Nov 2017,Levante,Atl. Madrid,7.04,3.83,1.57
+25 Nov 2017,Betis,Girona,1.99,3.76,3.69
+25 Nov 2017,Real Madrid,Malaga,1.09,12.03,24.95
+25 Nov 2017,Alaves,Eibar,2.93,2.96,2.80
+24 Nov 2017,Celta Vigo,Leganes,1.93,3.40,4.40
+20 Nov 2017,Eibar,Betis,2.20,3.49,3.37
+19 Nov 2017,Ath Bilbao,Villarreal,2.17,3.37,3.53
+19 Nov 2017,Las Palmas,Levante,1.70,4.02,4.89
+19 Nov 2017,Espanyol,Valencia,2.63,3.39,2.74
+19 Nov 2017,Malaga,Dep. La Coruna,2.37,3.33,3.16
+18 Nov 2017,Atl. Madrid,Real Madrid,3.14,3.35,2.38
+18 Nov 2017,Sevilla,Celta Vigo,1.63,4.25,5.24
+18 Nov 2017,Leganes,Barcelona,8.77,4.96,1.38
+18 Nov 2017,Getafe,Alaves,1.79,3.42,5.34
+17 Nov 2017,Girona,Real Sociedad,2.91,3.50,2.41
+05 Nov 2017,Real Madrid,Las Palmas,1.08,13.29,26.94
+05 Nov 2017,Real Sociedad,Eibar,1.50,4.39,6.69
+05 Nov 2017,Villarreal,Malaga,1.65,3.95,5.60
+05 Nov 2017,Celta Vigo,Ath Bilbao,2.14,3.40,3.54
+05 Nov 2017,Levante,Girona,2.64,3.24,2.85
+04 Nov 2017,Barcelona,Sevilla,1.23,7.18,11.61
+04 Nov 2017,Alaves,Espanyol,2.81,3.02,2.83
+04 Nov 2017,Dep. La Coruna,Atl. Madrid,5.12,3.57,1.78
+04 Nov 2017,Valencia,Leganes,1.53,4.24,6.81
+03 Nov 2017,Betis,Getafe,2.04,3.57,3.69
+30 Oct 2017,Espanyol,Betis,2.01,3.64,3.75
+30 Oct 2017,Las Palmas,Dep. La Coruna,2.02,3.77,3.59
+29 Oct 2017,Malaga,Celta Vigo,3.21,3.50,2.27
+29 Oct 2017,Eibar,Levante,1.98,3.30,4.34
+29 Oct 2017,Girona,Real Madrid,12.59,7.14,1.22
+29 Oct 2017,Getafe,Real Sociedad,2.43,3.33,3.05
+28 Oct 2017,Sevilla,Leganes,1.65,3.87,5.68
+28 Oct 2017,Ath Bilbao,Barcelona,7.27,4.77,1.45
+28 Oct 2017,Atl. Madrid,Villarreal,1.63,3.83,6.13
+28 Oct 2017,Alaves,Valencia,5.29,3.94,1.68
+23 Oct 2017,Dep. La Coruna,Girona,2.05,3.56,3.67
+23 Oct 2017,Real Sociedad,Espanyol,1.69,3.99,5.07
+22 Oct 2017,Real Madrid,Eibar,1.09,11.95,25.87
+22 Oct 2017,Leganes,Ath Bilbao,2.67,2.99,3.02
+22 Oct 2017,Celta Vigo,Atl. Madrid,3.74,3.33,2.12
+22 Oct 2017,Villarreal,Las Palmas,1.57,4.31,5.81
+21 Oct 2017,Barcelona,Malaga,1.06,14.74,33.79
+21 Oct 2017,Valencia,Sevilla,2.17,3.75,3.22
+21 Oct 2017,Betis,Alaves,1.62,4.00,5.85
+21 Oct 2017,Levante,Getafe,2.60,3.10,3.01
+16 Oct 2017,Las Palmas,Celta Vigo,2.65,3.48,2.68
+15 Oct 2017,Betis,Valencia,2.72,3.61,2.54
+15 Oct 2017,Malaga,Leganes,2.45,3.12,3.25
+15 Oct 2017,Girona,Villarreal,2.67,3.31,2.76
+15 Oct 2017,Eibar,Dep. La Coruna,1.90,3.59,4.26
+14 Oct 2017,Atl. Madrid,Barcelona,3.01,3.36,2.45
+14 Oct 2017,Alaves,Real Sociedad,3.50,3.39,2.17
+14 Oct 2017,Getafe,Real Madrid,9.29,5.85,1.32
+14 Oct 2017,Ath Bilbao,Sevilla,2.50,3.33,2.94
+13 Oct 2017,Espanyol,Levante,1.74,3.68,5.27
+01 Oct 2017,Real Madrid,Espanyol,1.12,10.40,20.49
+01 Oct 2017,Valencia,Ath Bilbao,1.79,3.76,4.68
+01 Oct 2017,Villarreal,Eibar,1.75,3.74,5.03
+01 Oct 2017,Barcelona,Las Palmas,1.08,12.66,26.56
+01 Oct 2017,Real Sociedad,Betis,1.89,3.75,4.13
+30 Sep 2017,Leganes,Atl. Madrid,5.90,3.46,1.71
+30 Sep 2017,Levante,Alaves,1.85,3.48,4.69
+30 Sep 2017,Sevilla,Malaga,1.43,4.76,7.85
+30 Sep 2017,Dep. La Coruna,Getafe,2.32,3.37,3.22
+29 Sep 2017,Celta Vigo,Girona,1.73,3.76,5.13
+25 Sep 2017,Betis,Levante,1.83,3.64,4.54
+24 Sep 2017,Real Sociedad,Valencia,2.43,3.66,2.82
+24 Sep 2017,Eibar,Celta Vigo,2.22,3.39,3.39
+24 Sep 2017,Las Palmas,Leganes,2.40,3.14,3.28
+24 Sep 2017,Getafe,Villarreal,2.48,3.16,3.12
+24 Sep 2017,Espanyol,Dep. La Coruna,1.96,3.54,4.05
+23 Sep 2017,Girona,Barcelona,12.69,6.57,1.23
+23 Sep 2017,Malaga,Ath Bilbao,3.26,3.25,2.35
+23 Sep 2017,Alaves,Real Madrid,16.50,8.13,1.17
+23 Sep 2017,Atl. Madrid,Sevilla,1.61,3.91,6.19
+21 Sep 2017,Levante,Real Sociedad,2.89,3.41,2.52
+21 Sep 2017,Celta Vigo,Getafe,1.80,3.64,4.83
+21 Sep 2017,Villarreal,Espanyol,1.67,3.84,5.54
+20 Sep 2017,Real Madrid,Betis,1.08,12.72,27.19
+20 Sep 2017,Sevilla,Las Palmas,1.38,5.10,8.28
+20 Sep 2017,Dep. La Coruna,Alaves,1.75,3.71,5.02
+20 Sep 2017,Ath Bilbao,Atl. Madrid,3.95,3.30,2.06
+20 Sep 2017,Leganes,Girona,2.03,3.22,4.23
+19 Sep 2017,Barcelona,Eibar,1.13,9.61,19.95
+19 Sep 2017,Valencia,Malaga,1.47,4.55,7.11
+18 Sep 2017,Espanyol,Celta Vigo,2.58,3.33,2.86
+17 Sep 2017,Real Sociedad,Real Madrid,4.88,4.61,1.63
+17 Sep 2017,Las Palmas,Ath Bilbao,2.64,3.38,2.75
+17 Sep 2017,Girona,Sevilla,3.00,3.40,2.40
+17 Sep 2017,Alaves,Villarreal,2.98,3.21,2.56
+16 Sep 2017,Atl. Madrid,Malaga,1.22,6.34,15.41
+16 Sep 2017,Betis,Dep. La Coruna,1.83,3.71,4.50
+16 Sep 2017,Getafe,Barcelona,11.46,6.54,1.25
+16 Sep 2017,Levante,Valencia,3.29,3.30,2.31
+15 Sep 2017,Eibar,Leganes,2.08,3.27,3.99
+11 Sep 2017,Malaga,Las Palmas,2.01,3.54,3.87
+10 Sep 2017,Villarreal,Betis,1.94,3.53,4.16
+10 Sep 2017,Celta Vigo,Alaves,1.65,3.88,5.59
+10 Sep 2017,Ath Bilbao,Girona,1.62,3.91,6.00
+10 Sep 2017,Dep. La Coruna,Real Sociedad,3.06,3.44,2.38
+09 Sep 2017,Barcelona,Espanyol,1.14,9.09,19.34
+09 Sep 2017,Sevilla,Eibar,1.56,4.25,6.15
+09 Sep 2017,Valencia,Atl. Madrid,3.15,3.22,2.44
+09 Sep 2017,Real Madrid,Levante,1.09,11.89,26.28
+08 Sep 2017,Leganes,Getafe,2.09,3.21,4.03
+27 Aug 2017,Real Madrid,Valencia,1.16,9.00,15.08
+27 Aug 2017,Getafe,Sevilla,3.48,3.48,2.16
+27 Aug 2017,Eibar,Ath Bilbao,2.52,3.23,3.02
+27 Aug 2017,Espanyol,Leganes,2.02,3.21,4.30
+26 Aug 2017,Las Palmas,Atl. Madrid,5.45,3.76,1.70
+26 Aug 2017,Girona,Malaga,1.98,3.34,4.28
+26 Aug 2017,Levante,Dep. La Coruna,2.20,3.32,3.55
+26 Aug 2017,Alaves,Barcelona,10.05,5.59,1.32
+25 Aug 2017,Betis,Celta Vigo,2.30,3.38,3.26
+25 Aug 2017,Real Sociedad,Villarreal,2.02,3.48,3.91
+21 Aug 2017,Malaga,Eibar,2.18,3.27,3.62
+21 Aug 2017,Levante,Villarreal,3.33,3.20,2.33
+20 Aug 2017,Dep. La Coruna,Real Madrid,11.27,6.51,1.25
+20 Aug 2017,Barcelona,Betis,1.19,7.47,13.97
+20 Aug 2017,Ath Bilbao,Getafe,1.52,4.28,6.62
+19 Aug 2017,Sevilla,Espanyol,1.62,4.08,5.68
+19 Aug 2017,Girona,Atl. Madrid,6.62,3.89,1.58
+19 Aug 2017,Celta Vigo,Real Sociedad,2.07,3.46,3.69
+18 Aug 2017,Valencia,Las Palmas,1.76,3.99,4.47
+18 Aug 2017,Leganes,Alaves,2.00,3.19,4.41

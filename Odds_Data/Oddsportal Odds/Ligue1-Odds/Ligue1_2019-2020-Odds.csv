@@ -1,0 +1,301 @@
+Date,HomeTeam,AwayTeam,HomeBet,DrawBet,AwayBet
+22 Mar 2020,Marseille,PSG,0,0,0
+22 Mar 2020,Reims,Nantes,0,0,0
+22 Mar 2020,St Etienne,Strasbourg,0,0,0
+21 Mar 2020,Angers,Toulouse,0,0,0
+21 Mar 2020,Dijon,Amiens,0,0,0
+21 Mar 2020,Metz,Brest,0,0,0
+21 Mar 2020,Nice,Montpellier,0,0,0
+21 Mar 2020,Nimes,Bordeaux,0,0,0
+21 Mar 2020,Rennes,Lyon,0,0,0
+20 Mar 2020,Lille,Monaco,0,0,0
+18 Mar 2020,Strasbourg,PSG,0,0,0
+15 Mar 2020,PSG,Nice,0,0,0
+15 Mar 2020,Monaco,St Etienne,0,0,0
+15 Mar 2020,Bordeaux,Rennes,0,0,0
+14 Mar 2020,Amiens,Angers,0,0,0
+14 Mar 2020,Brest,Lille,0,0,0
+14 Mar 2020,Nantes,Nimes,0,0,0
+14 Mar 2020,Strasbourg,Dijon,0,0,0
+14 Mar 2020,Toulouse,Metz,0,0,0
+14 Mar 2020,Montpellier,Marseille,0,0,0
+13 Mar 2020,Lyon,Reims,0,0,0
+08 Mar 2020,Lille,Lyon,2.20,3.25,3.45
+08 Mar 2020,Rennes,Montpellier,2.20,3.13,3.64
+08 Mar 2020,St Etienne,Bordeaux,2.23,3.23,3.40
+07 Mar 2020,Angers,Nantes,2.59,2.98,3.04
+07 Mar 2020,Dijon,Toulouse,1.81,3.61,4.53
+07 Mar 2020,Metz,Nimes,2.35,3.09,3.31
+07 Mar 2020,Nice,Monaco,3.25,3.75,2.11
+07 Mar 2020,Reims,Brest,2.01,3.29,4.03
+06 Mar 2020,Marseille,Amiens,1.56,4.00,6.25
+01 Mar 2020,Lyon,St Etienne,1.66,3.68,5.59
+01 Mar 2020,Bordeaux,Nice,1.92,3.56,4.01
+01 Mar 2020,Nantes,Lille,2.91,2.98,2.68
+29 Feb 2020,Amiens,Metz,2.07,3.10,4.09
+29 Feb 2020,Brest,Angers,2.54,3.19,2.91
+29 Feb 2020,Monaco,Reims,1.83,3.53,4.47
+29 Feb 2020,Montpellier,Strasbourg,2.47,3.04,3.14
+29 Feb 2020,Toulouse,Rennes,3.67,3.44,2.05
+29 Feb 2020,PSG,Dijon,1.10,11.17,18.72
+28 Feb 2020,Nimes,Marseille,3.43,3.32,2.18
+23 Feb 2020,PSG,Bordeaux,1.12,9.45,19.23
+23 Feb 2020,Rennes,Nimes,1.59,3.68,6.76
+23 Feb 2020,St Etienne,Reims,2.37,3.02,3.34
+22 Feb 2020,Angers,Montpellier,2.55,3.03,3.03
+22 Feb 2020,Dijon,Monaco,3.72,3.75,1.94
+22 Feb 2020,Lille,Toulouse,1.32,5.02,10.47
+22 Feb 2020,Strasbourg,Amiens,1.79,3.53,4.76
+22 Feb 2020,Marseille,Nantes,1.84,3.44,4.65
+21 Feb 2020,Metz,Lyon,4.36,3.50,1.86
+21 Feb 2020,Nice,Brest,1.97,3.74,3.58
+16 Feb 2020,Lille,Marseille,2.12,3.04,3.98
+16 Feb 2020,Brest,St Etienne,2.67,3.12,2.81
+16 Feb 2020,Reims,Rennes,2.77,2.79,3.02
+16 Feb 2020,Lyon,Strasbourg,1.67,3.64,5.60
+15 Feb 2020,Bordeaux,Dijon,1.78,3.53,4.86
+15 Feb 2020,Nantes,Metz,1.83,3.22,5.15
+15 Feb 2020,Nimes,Angers,2.79,3.21,2.62
+15 Feb 2020,Toulouse,Nice,2.28,3.48,3.09
+15 Feb 2020,Amiens,PSG,6.30,4.56,1.49
+14 Feb 2020,Monaco,Montpellier,1.71,3.83,4.77
+09 Feb 2020,PSG,Lyon,1.34,5.62,7.94
+09 Feb 2020,Strasbourg,Reims,2.08,2.98,4.25
+09 Feb 2020,Montpellier,St Etienne,2.02,3.24,4.10
+08 Feb 2020,Amiens,Monaco,3.18,3.49,2.22
+08 Feb 2020,Dijon,Nantes,2.62,3.14,2.86
+08 Feb 2020,Metz,Bordeaux,2.75,3.00,2.82
+08 Feb 2020,Nice,Nimes,1.93,3.64,3.87
+08 Feb 2020,Rennes,Brest,1.56,3.98,6.28
+08 Feb 2020,Marseille,Toulouse,1.38,4.74,8.49
+07 Feb 2020,Angers,Lille,2.88,3.08,2.64
+05 Feb 2020,St Etienne,Marseille,2.83,3.22,2.58
+05 Feb 2020,Brest,Bordeaux,2.72,3.25,2.64
+05 Feb 2020,Lyon,Amiens,1.43,4.53,7.71
+05 Feb 2020,Montpellier,Metz,1.65,3.49,6.25
+05 Feb 2020,Nimes,Dijon,2.21,3.25,3.46
+05 Feb 2020,Reims,Nice,1.86,3.35,4.62
+05 Feb 2020,Toulouse,Strasbourg,3.46,3.17,2.25
+04 Feb 2020,Nantes,PSG,9.49,5.64,1.30
+04 Feb 2020,Lille,Rennes,1.97,3.32,4.16
+04 Feb 2020,Monaco,Angers,1.63,4.02,5.28
+02 Feb 2020,Bordeaux,Marseille,3.60,3.09,2.23
+02 Feb 2020,Metz,St Etienne,3.04,2.98,2.58
+02 Feb 2020,Nice,Lyon,3.86,3.67,1.92
+01 Feb 2020,Amiens,Toulouse,2.04,3.29,3.89
+01 Feb 2020,Angers,Reims,1.99,3.07,4.52
+01 Feb 2020,Dijon,Brest,2.05,3.46,3.62
+01 Feb 2020,Nimes,Monaco,4.08,4.00,1.81
+01 Feb 2020,Strasbourg,Lille,2.63,2.97,3.00
+01 Feb 2020,PSG,Montpellier,1.11,9.22,22.23
+31 Jan 2020,Rennes,Nantes,1.92,3.26,4.45
+26 Jan 2020,Lille,PSG,6.35,4.69,1.47
+26 Jan 2020,Nantes,Bordeaux,2.00,3.20,4.23
+26 Jan 2020,Lyon,Toulouse,1.23,6.46,12.29
+25 Jan 2020,Brest,Amiens,2.02,3.57,3.60
+25 Jan 2020,Monaco,Strasbourg,1.59,4.01,5.80
+25 Jan 2020,Montpellier,Dijon,1.62,3.75,5.90
+25 Jan 2020,Reims,Metz,1.97,2.98,4.83
+25 Jan 2020,St Etienne,Nimes,1.72,3.65,5.08
+25 Jan 2020,Marseille,Angers,1.99,3.37,3.98
+24 Jan 2020,Nice,Rennes,2.74,3.10,2.75
+15 Jan 2020,Monaco,PSG,4.51,4.70,1.62
+15 Jan 2020,Amiens,Reims,2.68,2.89,3.01
+15 Jan 2020,Nimes,Rennes,3.56,3.20,2.19
+12 Jan 2020,PSG,Monaco,1.14,8.83,15.37
+12 Jan 2020,Dijon,Lille,3.85,3.28,2.05
+12 Jan 2020,St Etienne,Nantes,2.44,3.02,3.21
+11 Jan 2020,Amiens,Montpellier,3.06,3.08,2.51
+11 Jan 2020,Angers,Nice,1.76,3.63,4.76
+11 Jan 2020,Metz,Strasbourg,2.88,2.89,2.80
+11 Jan 2020,Nimes,Reims,2.78,2.98,2.83
+11 Jan 2020,Toulouse,Brest,2.29,3.35,3.17
+11 Jan 2020,Bordeaux,Lyon,3.73,3.29,2.09
+10 Jan 2020,Rennes,Marseille,2.57,3.13,2.92
+21 Dec 2019,Dijon,Metz,2.17,3.18,3.63
+21 Dec 2019,Marseille,Nimes,1.40,4.87,7.61
+21 Dec 2019,Monaco,Lille,2.20,3.48,3.24
+21 Dec 2019,Montpellier,Brest,1.54,4.01,6.59
+21 Dec 2019,Nantes,Angers,2.14,3.09,3.84
+21 Dec 2019,Nice,Toulouse,1.81,3.79,4.25
+21 Dec 2019,PSG,Amiens,1.05,14.13,37.79
+21 Dec 2019,Reims,Lyon,2.86,3.05,2.69
+21 Dec 2019,Rennes,Bordeaux,1.95,3.34,4.19
+21 Dec 2019,Strasbourg,St Etienne,2.03,3.32,3.89
+15 Dec 2019,St Etienne,PSG,10.95,6.12,1.25
+15 Dec 2019,Lyon,Rennes,1.64,3.94,5.29
+15 Dec 2019,Bordeaux,Strasbourg,2.23,3.14,3.51
+14 Dec 2019,Amiens,Dijon,2.10,3.34,3.66
+14 Dec 2019,Angers,Monaco,2.95,3.46,2.37
+14 Dec 2019,Brest,Nice,2.50,3.39,2.80
+14 Dec 2019,Nimes,Nantes,3.78,3.23,2.10
+14 Dec 2019,Toulouse,Reims,3.36,3.24,2.25
+14 Dec 2019,Metz,Marseille,4.49,3.52,1.83
+13 Dec 2019,Lille,Montpellier,1.80,3.46,4.94
+08 Dec 2019,Marseille,Bordeaux,1.63,3.81,5.68
+08 Dec 2019,Nantes,Dijon,1.61,3.85,5.91
+08 Dec 2019,Reims,St Etienne,2.19,3.07,3.74
+07 Dec 2019,Monaco,Amiens,1.42,4.72,7.34
+07 Dec 2019,Nice,Metz,1.79,3.49,4.85
+07 Dec 2019,Rennes,Angers,2.11,3.18,3.83
+07 Dec 2019,Strasbourg,Toulouse,1.71,3.77,4.96
+07 Dec 2019,Montpellier,PSG,6.44,4.92,1.44
+06 Dec 2019,Nimes,Lyon,5.14,3.93,1.66
+06 Dec 2019,Lille,Brest,1.35,5.09,8.85
+04 Dec 2019,PSG,Nantes,1.13,8.79,19.75
+04 Dec 2019,Dijon,Montpellier,2.91,3.02,2.67
+04 Dec 2019,Metz,Rennes,3.03,3.05,2.56
+04 Dec 2019,St Etienne,Nice,2.06,3.37,3.73
+04 Dec 2019,Toulouse,Monaco,3.99,3.70,1.88
+03 Dec 2019,Lyon,Lille,2.01,3.42,3.82
+03 Dec 2019,Brest,Strasbourg,3.32,3.25,2.26
+03 Dec 2019,Angers,Marseille,3.09,3.23,2.38
+03 Dec 2019,Bordeaux,Nimes,1.96,3.28,4.21
+01 Dec 2019,Rennes,St Etienne,1.95,3.33,4.23
+01 Dec 2019,Nantes,Toulouse,1.72,3.58,5.17
+30 Nov 2019,Lille,Dijon,1.43,4.42,7.81
+30 Nov 2019,Montpellier,Amiens,1.68,3.57,5.62
+30 Nov 2019,Nice,Angers,2.21,3.20,3.48
+30 Nov 2019,Nimes,Metz,2.07,3.25,3.86
+30 Nov 2019,Reims,Bordeaux,2.18,3.05,3.78
+30 Nov 2019,Strasbourg,Lyon,2.47,3.28,2.97
+29 Nov 2019,Marseille,Brest,1.40,4.65,8.24
+24 Nov 2019,Toulouse,Marseille,3.47,3.51,2.08
+24 Nov 2019,St Etienne,Montpellier,2.60,3.12,2.90
+24 Nov 2019,Bordeaux,Monaco,3.46,3.55,2.08
+23 Nov 2019,Amiens,Strasbourg,2.35,3.09,3.30
+23 Nov 2019,Angers,Nimes,1.79,3.58,4.71
+23 Nov 2019,Brest,Nantes,2.63,3.18,2.80
+23 Nov 2019,Dijon,Rennes,2.90,3.19,2.56
+23 Nov 2019,Metz,Reims,3.11,2.89,2.63
+23 Nov 2019,Lyon,Nice,1.54,4.20,6.08
+22 Nov 2019,PSG,Lille,1.29,5.63,10.00
+10 Nov 2019,Marseille,Lyon,2.41,3.44,2.91
+10 Nov 2019,Montpellier,Toulouse,1.79,3.53,4.72
+10 Nov 2019,Nantes,St Etienne,1.86,3.41,4.46
+10 Nov 2019,Rennes,Amiens,2.05,3.31,3.84
+09 Nov 2019,Lille,Metz,1.53,3.83,7.39
+09 Nov 2019,Monaco,Dijon,1.41,4.79,7.51
+09 Nov 2019,Reims,Angers,2.56,2.99,3.08
+09 Nov 2019,Strasbourg,Nimes,1.83,3.47,4.68
+09 Nov 2019,Brest,PSG,11.50,6.42,1.24
+08 Nov 2019,Nice,Bordeaux,2.17,3.13,3.70
+03 Nov 2019,St Etienne,Monaco,2.98,3.45,2.35
+03 Nov 2019,Nice,Reims,2.78,3.05,2.77
+03 Nov 2019,Bordeaux,Nantes,2.46,2.94,3.29
+02 Nov 2019,Amiens,Brest,1.62,3.85,5.83
+02 Nov 2019,Angers,Strasbourg,2.11,3.10,3.99
+02 Nov 2019,Metz,Montpellier,3.17,2.99,2.50
+02 Nov 2019,Toulouse,Lyon,4.74,3.91,1.71
+02 Nov 2019,Marseille,Lille,2.11,3.28,3.77
+01 Nov 2019,Dijon,PSG,11.53,6.44,1.23
+27 Oct 2019,PSG,Marseille,1.19,7.25,13.31
+27 Oct 2019,St Etienne,Amiens,2.24,3.22,3.40
+27 Oct 2019,Rennes,Toulouse,1.83,3.54,4.56
+26 Oct 2019,Brest,Dijon,2.34,3.26,3.16
+26 Oct 2019,Lyon,Metz,1.42,4.51,7.87
+26 Oct 2019,Montpellier,Angers,2.20,3.16,3.57
+26 Oct 2019,Reims,Nimes,1.65,3.63,5.88
+26 Oct 2019,Strasbourg,Nice,1.90,3.35,4.44
+26 Oct 2019,Lille,Bordeaux,1.86,3.49,4.43
+25 Oct 2019,Nantes,Monaco,3.02,3.32,2.39
+20 Oct 2019,Marseille,Strasbourg,1.78,3.49,4.96
+20 Oct 2019,Monaco,Rennes,1.68,3.91,4.99
+20 Oct 2019,Bordeaux,St Etienne,2.44,3.10,3.13
+19 Oct 2019,Angers,Brest,1.60,3.75,6.21
+19 Oct 2019,Metz,Nantes,2.48,3.03,3.14
+19 Oct 2019,Nimes,Amiens,2.27,3.35,3.22
+19 Oct 2019,Reims,Montpellier,2.25,2.89,3.81
+19 Oct 2019,Toulouse,Lille,3.29,3.26,2.27
+19 Oct 2019,Lyon,Dijon,1.37,5.03,8.30
+18 Oct 2019,Nice,PSG,8.66,4.93,1.37
+06 Oct 2019,St Etienne,Lyon,3.93,3.52,1.94
+06 Oct 2019,Rennes,Reims,2.43,3.05,3.24
+06 Oct 2019,Lille,Nimes,1.59,3.82,6.20
+05 Oct 2019,Brest,Metz,2.63,3.20,2.79
+05 Oct 2019,Dijon,Strasbourg,3.01,2.96,2.62
+05 Oct 2019,Montpellier,Monaco,3.15,3.34,2.29
+05 Oct 2019,Nantes,Nice,2.07,3.28,3.76
+05 Oct 2019,Toulouse,Bordeaux,2.45,3.10,3.14
+05 Oct 2019,PSG,Angers,1.19,7.35,13.92
+04 Oct 2019,Amiens,Marseille,3.15,3.36,2.31
+29 Sep 2019,Marseille,Rennes,1.98,3.50,3.90
+29 Sep 2019,Nimes,St Etienne,2.47,3.26,2.97
+29 Sep 2019,Strasbourg,Montpellier,2.28,3.09,3.44
+28 Sep 2019,Angers,Amiens,1.66,3.52,6.01
+28 Sep 2019,Metz,Toulouse,2.13,3.24,3.71
+28 Sep 2019,Monaco,Brest,1.41,4.66,8.10
+28 Sep 2019,Nice,Lille,3.07,3.17,2.45
+28 Sep 2019,Reims,Dijon,1.70,3.50,5.62
+28 Sep 2019,Bordeaux,PSG,7.12,4.97,1.40
+28 Sep 2019,Lyon,Nantes,1.54,4.00,6.65
+25 Sep 2019,PSG,Reims,1.29,5.55,10.46
+25 Sep 2019,Amiens,Bordeaux,2.68,2.98,2.94
+25 Sep 2019,Brest,Lyon,4.53,3.85,1.75
+25 Sep 2019,Lille,Strasbourg,1.76,3.46,5.13
+25 Sep 2019,Montpellier,Nimes,2.02,3.34,3.91
+25 Sep 2019,Nantes,Rennes,2.48,3.01,3.16
+25 Sep 2019,St Etienne,Metz,1.94,3.36,4.20
+25 Sep 2019,Toulouse,Angers,2.67,3.16,2.79
+24 Sep 2019,Monaco,Nice,1.83,3.63,4.38
+24 Sep 2019,Dijon,Marseille,3.49,3.37,2.15
+22 Sep 2019,Lyon,PSG,3.69,4.06,1.87
+22 Sep 2019,Angers,St Etienne,2.06,3.28,3.80
+22 Sep 2019,Rennes,Lille,2.91,3.05,2.61
+21 Sep 2019,Bordeaux,Brest,1.76,3.43,5.19
+21 Sep 2019,Metz,Amiens,2.21,3.04,3.72
+21 Sep 2019,Nice,Dijon,1.75,3.43,5.26
+21 Sep 2019,Nimes,Toulouse,2.05,3.48,3.62
+21 Sep 2019,Reims,Monaco,2.54,3.25,2.87
+21 Sep 2019,Marseille,Montpellier,2.02,3.24,4.07
+20 Sep 2019,Strasbourg,Nantes,2.27,3.03,3.54
+15 Sep 2019,Monaco,Marseille,2.03,3.62,3.56
+15 Sep 2019,St Etienne,Toulouse,1.60,4.08,5.48
+15 Sep 2019,Nantes,Reims,2.19,3.08,3.72
+14 Sep 2019,Bordeaux,Metz,1.97,3.17,4.43
+14 Sep 2019,Brest,Rennes,3.16,3.18,2.38
+14 Sep 2019,Dijon,Nimes,2.81,3.32,2.53
+14 Sep 2019,Montpellier,Nice,1.93,3.39,4.21
+14 Sep 2019,PSG,Strasbourg,1.18,7.53,13.94
+13 Sep 2019,Amiens,Lyon,4.10,3.50,1.92
+13 Sep 2019,Lille,Angers,1.92,3.37,4.28
+01 Sep 2019,Marseille,St Etienne,1.81,3.60,4.62
+01 Sep 2019,Strasbourg,Monaco,2.50,3.21,2.95
+01 Sep 2019,Reims,Lille,2.98,2.91,2.69
+01 Sep 2019,Rennes,Nice,1.74,3.51,5.17
+31 Aug 2019,Angers,Dijon,1.67,3.75,5.36
+31 Aug 2019,Nantes,Montpellier,2.52,3.05,3.10
+31 Aug 2019,Nimes,Brest,2.03,3.30,3.93
+31 Aug 2019,Toulouse,Amiens,2.29,3.08,3.45
+31 Aug 2019,Lyon,Bordeaux,1.53,4.07,6.46
+30 Aug 2019,Metz,PSG,6.36,4.41,1.49
+28 Aug 2019,Nice,Marseille,3.46,3.18,2.23
+28 Aug 2019,Lille,St Etienne,2.09,3.38,3.62
+27 Aug 2019,Montpellier,Lyon,4.05,3.57,1.89
+25 Aug 2019,PSG,Toulouse,1.09,10.61,24.89
+25 Aug 2019,Strasbourg,Rennes,2.86,3.03,2.70
+25 Aug 2019,Monaco,Nimes,1.63,3.83,5.68
+24 Aug 2019,Amiens,Nantes,2.77,3.04,2.77
+24 Aug 2019,Angers,Metz,2.12,3.16,3.79
+24 Aug 2019,Brest,Reims,2.63,3.04,2.93
+24 Aug 2019,Dijon,Bordeaux,2.94,3.08,2.61
+18 Aug 2019,Rennes,PSG,8.07,5.16,1.37
+18 Aug 2019,Reims,Strasbourg,2.07,3.16,3.98
+18 Aug 2019,St Etienne,Brest,1.60,3.82,6.04
+17 Aug 2019,Amiens,Lille,3.27,3.10,2.37
+17 Aug 2019,Bordeaux,Montpellier,2.59,2.95,3.06
+17 Aug 2019,Metz,Monaco,3.08,3.17,2.44
+17 Aug 2019,Nimes,Nice,2.06,3.38,3.72
+17 Aug 2019,Toulouse,Dijon,1.96,3.44,3.99
+17 Aug 2019,Nantes,Marseille,2.46,3.14,3.05
+16 Aug 2019,Lyon,Angers,1.47,4.43,6.83
+11 Aug 2019,PSG,Nimes,1.07,11.27,26.87
+11 Aug 2019,Strasbourg,Metz,2.21,3.06,3.68
+11 Aug 2019,Lille,Nantes,2.31,3.05,3.42
+10 Aug 2019,Angers,Bordeaux,2.06,3.18,3.93
+10 Aug 2019,Brest,Toulouse,2.06,3.34,3.74
+10 Aug 2019,Dijon,St Etienne,3.76,3.39,2.04
+10 Aug 2019,Montpellier,Rennes,2.21,3.21,3.49
+10 Aug 2019,Nice,Amiens,2.28,2.97,3.63
+10 Aug 2019,Marseille,Reims,1.72,3.44,5.58
+09 Aug 2019,Monaco,Lyon,3.33,3.48,2.18

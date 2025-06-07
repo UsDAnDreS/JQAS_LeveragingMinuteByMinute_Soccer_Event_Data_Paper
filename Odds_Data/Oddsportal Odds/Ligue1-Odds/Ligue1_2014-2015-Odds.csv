@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,HomeBet,DrawBet,AwayBet
+23 May 2015,Bordeaux,Montpellier,1.84,3.67,4.27
+23 May 2015,Caen,Thonon-Evian,1.59,4.32,5.38
+23 May 2015,Lens,Nantes,3.27,3.31,2.27
+23 May 2015,Lorient,Monaco,6.02,4.12,1.56
+23 May 2015,Marseille,Bastia,1.21,6.81,13.23
+23 May 2015,Metz,Lille,3.11,3.31,2.35
+23 May 2015,PSG,Reims,1.13,8.80,19.19
+23 May 2015,Rennes,Lyon,2.88,3.40,2.45
+23 May 2015,St Etienne,Guingamp,1.29,5.47,11.37
+23 May 2015,Toulouse,Nice,1.76,3.82,4.58
+16 May 2015,Bastia,Caen,2.39,3.23,3.13
+16 May 2015,Guingamp,Toulouse,2.90,3.19,2.57
+16 May 2015,Lille,Marseille,3.44,3.46,2.14
+16 May 2015,Lyon,Bordeaux,1.72,3.81,4.88
+16 May 2015,Monaco,Metz,1.18,6.69,19.18
+16 May 2015,Montpellier,PSG,6.05,4.08,1.57
+16 May 2015,Nantes,Lorient,2.98,3.10,2.55
+16 May 2015,Nice,Lens,1.52,4.14,6.54
+16 May 2015,Reims,Rennes,2.04,3.37,3.83
+16 May 2015,Thonon-Evian,St Etienne,4.63,3.65,1.79
+10 May 2015,Marseille,Monaco,2.37,3.22,3.14
+10 May 2015,St Etienne,Nice,1.61,3.85,6.07
+10 May 2015,Lens,Montpellier,4.14,3.47,1.92
+09 May 2015,Bordeaux,Nantes,1.54,3.81,7.32
+09 May 2015,Metz,Lorient,2.63,3.24,2.78
+09 May 2015,Rennes,Bastia,1.96,3.32,4.23
+09 May 2015,Thonon-Evian,Reims,2.34,3.19,3.23
+09 May 2015,Toulouse,Lille,2.58,3.07,2.96
+09 May 2015,Caen,Lyon,4.64,3.86,1.76
+08 May 2015,PSG,Guingamp,1.13,8.82,21.90
+03 May 2015,Nantes,PSG,11.01,5.23,1.31
+03 May 2015,Monaco,Toulouse,1.48,4.11,7.73
+03 May 2015,Lille,Lens,1.47,4.16,7.95
+02 May 2015,Bastia,St Etienne,3.14,3.13,2.45
+02 May 2015,Guingamp,Reims,2.04,3.46,3.74
+02 May 2015,Lorient,Bordeaux,2.57,3.23,2.88
+02 May 2015,Montpellier,Rennes,1.87,3.48,4.41
+02 May 2015,Nice,Caen,1.85,3.40,4.67
+02 May 2015,Lyon,Thonon-Evian,1.30,5.61,10.77
+01 May 2015,Metz,Marseille,4.80,3.88,1.72
+28 Apr 2015,PSG,Metz,1.14,8.58,18.53
+26 Apr 2015,Reims,Lyon,5.52,3.94,1.64
+26 Apr 2015,Lens,Monaco,5.87,3.62,1.67
+26 Apr 2015,St Etienne,Montpellier,1.79,3.49,4.90
+25 Apr 2015,Bordeaux,Metz,1.58,4.05,6.02
+25 Apr 2015,Caen,Guingamp,2.26,3.23,3.39
+25 Apr 2015,Rennes,Nice,1.94,3.33,4.31
+25 Apr 2015,Thonon-Evian,Bastia,2.41,3.07,3.25
+25 Apr 2015,Toulouse,Nantes,2.08,3.15,3.97
+25 Apr 2015,PSG,Lille,1.38,4.64,9.46
+24 Apr 2015,Marseille,Lorient,1.34,5.04,9.22
+19 Apr 2015,Lyon,St Etienne,1.90,3.40,4.42
+19 Apr 2015,Montpellier,Caen,1.87,3.58,4.26
+19 Apr 2015,Lille,Bordeaux,2.16,3.11,3.81
+18 Apr 2015,Bastia,Reims,2.19,3.23,3.53
+18 Apr 2015,Guingamp,Thonon-Evian,1.96,3.35,4.24
+18 Apr 2015,Lorient,Toulouse,2.08,3.35,3.70
+18 Apr 2015,Metz,Lens,2.11,3.31,3.70
+18 Apr 2015,Monaco,Rennes,1.66,3.64,5.86
+18 Apr 2015,Nice,PSG,6.73,3.95,1.55
+17 Apr 2015,Nantes,Marseille,4.40,3.39,1.91
+15 Apr 2015,Lyon,Bastia,1.34,4.99,10.42
+12 Apr 2015,Bordeaux,Marseille,2.62,3.35,2.72
+12 Apr 2015,Lens,Lorient,2.50,3.26,2.93
+12 Apr 2015,Reims,Nice,2.19,3.22,3.57
+12 Apr 2015,Rennes,Guingamp,2.13,3.19,3.78
+12 Apr 2015,Thonon-Evian,Lille,3.62,3.06,2.25
+12 Apr 2015,Toulouse,Montpellier,2.37,3.24,3.16
+12 Apr 2015,St Etienne,Nantes,1.55,3.78,7.29
+10 Apr 2015,Caen,Monaco,3.54,3.26,2.18
+07 Apr 2015,Monaco,Montpellier,1.62,3.72,6.37
+05 Apr 2015,Marseille,PSG,3.83,3.44,2.04
+05 Apr 2015,Nantes,Caen,2.23,3.14,3.55
+05 Apr 2015,Bordeaux,Lens,1.65,3.79,5.76
+04 Apr 2015,Lille,Reims,1.75,3.47,5.36
+04 Apr 2015,Lorient,Rennes,2.04,3.30,3.90
+04 Apr 2015,Metz,Toulouse,2.80,3.16,2.68
+04 Apr 2015,Montpellier,Bastia,1.83,3.49,4.69
+04 Apr 2015,Nice,Thonon-Evian,2.06,3.17,4.07
+04 Apr 2015,Guingamp,Lyon,3.55,3.30,2.15
+03 Apr 2015,Monaco,St Etienne,1.88,3.22,4.92
+22 Mar 2015,Lens,Marseille,5.49,3.96,1.64
+22 Mar 2015,Reims,Monaco,4.03,3.23,2.05
+22 Mar 2015,St Etienne,Lille,2.06,3.11,4.17
+21 Mar 2015,Bastia,Guingamp,3.32,3.11,2.36
+21 Mar 2015,Caen,Metz,2.08,3.39,3.69
+21 Mar 2015,Rennes,Nantes,2.19,3.03,3.85
+21 Mar 2015,Thonon-Evian,Montpellier,3.07,3.13,2.49
+21 Mar 2015,Toulouse,Bordeaux,2.88,3.11,2.64
+21 Mar 2015,Lyon,Nice,1.53,4.02,6.85
+20 Mar 2015,PSG,Lorient,1.22,6.38,14.51
+15 Mar 2015,Marseille,Lyon,2.26,3.33,3.29
+15 Mar 2015,Bordeaux,PSG,5.62,3.55,1.70
+15 Mar 2015,Lille,Rennes,2.12,2.99,4.16
+14 Mar 2015,Lens,Toulouse,2.67,3.11,2.86
+14 Mar 2015,Lorient,Caen,1.83,3.58,4.51
+14 Mar 2015,Montpellier,Reims,1.80,3.56,4.72
+14 Mar 2015,Nantes,Thonon-Evian,2.17,3.03,3.89
+14 Mar 2015,Metz,St Etienne,3.82,3.18,2.13
+13 Mar 2015,Monaco,Bastia,1.66,3.61,6.04
+13 Mar 2015,Nice,Guingamp,2.30,3.10,3.45
+08 Mar 2015,Montpellier,Lyon,2.95,3.19,2.53
+08 Mar 2015,Guingamp,Lille,2.50,3.02,3.14
+08 Mar 2015,St Etienne,Lorient,1.86,3.47,4.54
+07 Mar 2015,Bastia,Nice,2.32,3.05,3.45
+07 Mar 2015,Caen,Bordeaux,2.78,3.20,2.68
+07 Mar 2015,Reims,Nantes,2.51,3.06,3.10
+07 Mar 2015,Rennes,Metz,1.81,3.42,4.94
+07 Mar 2015,Thonon-Evian,Monaco,4.38,3.15,1.99
+07 Mar 2015,PSG,Lens,1.21,6.43,15.54
+06 Mar 2015,Toulouse,Marseille,3.14,3.31,2.35
+04 Mar 2015,Thonon-Evian,Lorient,2.77,3.07,2.78
+01 Mar 2015,Monaco,PSG,3.27,3.05,2.42
+01 Mar 2015,Montpellier,Nice,2.06,3.12,4.15
+01 Mar 2015,Nantes,Guingamp,2.24,3.07,3.61
+28 Feb 2015,Bordeaux,Reims,1.66,3.71,5.74
+28 Feb 2015,Lens,Rennes,2.36,3.17,3.24
+28 Feb 2015,Lorient,Bastia,1.94,3.38,4.27
+28 Feb 2015,Metz,Thonon-Evian,2.22,3.09,3.69
+28 Feb 2015,Toulouse,St Etienne,2.80,3.08,2.74
+28 Feb 2015,Lille,Lyon,2.81,3.10,2.71
+27 Feb 2015,Marseille,Caen,1.44,4.57,7.53
+22 Feb 2015,St Etienne,Marseille,2.36,3.16,3.26
+22 Feb 2015,Lyon,Nantes,1.53,4.00,7.17
+22 Feb 2015,Reims,Metz,2.06,3.26,3.94
+22 Feb 2015,Guingamp,Montpellier,2.08,3.25,3.85
+21 Feb 2015,Bastia,Lille,2.73,2.92,2.94
+21 Feb 2015,Caen,Lens,2.08,3.35,3.75
+21 Feb 2015,Rennes,Bordeaux,2.54,3.12,3.01
+21 Feb 2015,PSG,Toulouse,1.31,5.20,11.26
+20 Feb 2015,Nice,Monaco,3.67,3.01,2.26
+15 Feb 2015,Lorient,Lyon,2.79,3.24,2.64
+15 Feb 2015,Metz,Guingamp,2.72,3.08,2.81
+15 Feb 2015,Bordeaux,St Etienne,2.55,3.01,3.10
+14 Feb 2015,Lens,Thonon-Evian,1.90,3.32,4.57
+14 Feb 2015,Lille,Nice,1.82,3.25,5.22
+14 Feb 2015,Nantes,Bastia,2.05,3.14,4.15
+14 Feb 2015,Toulouse,Rennes,2.06,3.21,4.03
+14 Feb 2015,PSG,Caen,1.24,6.24,13.46
+13 Feb 2015,Marseille,Reims,1.34,5.17,9.60
+08 Feb 2015,Lyon,PSG,3.84,3.24,2.10
+08 Feb 2015,Nice,Nantes,2.25,3.07,3.60
+08 Feb 2015,Guingamp,Monaco,3.16,3.01,2.52
+07 Feb 2015,Bastia,Metz,2.19,3.04,3.80
+07 Feb 2015,Caen,Toulouse,2.35,3.30,3.12
+07 Feb 2015,Montpellier,Lille,2.61,2.94,3.11
+07 Feb 2015,Reims,Lorient,2.40,3.21,3.14
+07 Feb 2015,Thonon-Evian,Bordeaux,2.88,3.12,2.64
+07 Feb 2015,Rennes,Marseille,3.52,3.18,2.23
+06 Feb 2015,St Etienne,Lens,1.55,3.96,6.79
+01 Feb 2015,Monaco,Lyon,1.97,3.26,4.30
+01 Feb 2015,Bordeaux,Guingamp,2.05,3.26,4.01
+01 Feb 2015,Caen,St Etienne,3.35,3.23,2.29
+31 Jan 2015,Lens,Bastia,2.03,3.26,4.12
+31 Jan 2015,Lorient,Montpellier,2.30,3.25,3.31
+31 Jan 2015,Metz,Nice,2.60,3.17,2.92
+31 Jan 2015,Nantes,Lille,2.27,3.07,3.58
+31 Jan 2015,Toulouse,Reims,1.75,3.52,5.36
+31 Jan 2015,Marseille,Thonon-Evian,1.35,4.97,10.14
+30 Jan 2015,PSG,Rennes,1.26,5.89,13.06
+25 Jan 2015,St Etienne,PSG,3.94,3.24,2.06
+25 Jan 2015,Reims,Lens,2.34,3.22,3.26
+25 Jan 2015,Rennes,Caen,1.93,3.37,4.31
+25 Jan 2015,Lyon,Metz,1.41,4.65,8.50
+25 Jan 2015,Thonon-Evian,Toulouse,2.56,3.14,2.98
+24 Jan 2015,Bastia,Bordeaux,2.67,3.14,2.84
+24 Jan 2015,Guingamp,Lorient,2.04,3.29,3.97
+24 Jan 2015,Montpellier,Nantes,2.09,3.19,3.95
+24 Jan 2015,Lille,Monaco,3.12,2.99,2.52
+23 Jan 2015,Nice,Marseille,3.43,3.26,2.24
+18 Jan 2015,Marseille,Guingamp,1.45,4.41,7.76
+18 Jan 2015,Rennes,St Etienne,3.21,3.09,2.46
+18 Jan 2015,PSG,Thonon-Evian,1.17,7.68,18.95
+17 Jan 2015,Caen,Reims,2.14,3.36,3.57
+17 Jan 2015,Lorient,Lille,2.62,3.07,2.97
+17 Jan 2015,Metz,Montpellier,2.45,3.12,3.16
+17 Jan 2015,Monaco,Nantes,1.67,3.59,6.00
+17 Jan 2015,Toulouse,Bastia,1.86,3.25,5.02
+17 Jan 2015,Lens,Lyon,4.42,3.51,1.88
+16 Jan 2015,Bordeaux,Nice,1.96,3.34,4.25
+11 Jan 2015,Monaco,Bordeaux,1.71,3.56,5.60
+11 Jan 2015,Lyon,Toulouse,1.51,4.30,6.75
+11 Jan 2015,Nantes,Metz,2.07,3.13,4.17
+10 Jan 2015,Guingamp,Lens,2.22,3.17,3.59
+10 Jan 2015,Lille,Caen,1.67,3.58,5.98
+10 Jan 2015,Nice,Lorient,2.11,3.24,3.80
+10 Jan 2015,Reims,St Etienne,3.71,3.17,2.18
+10 Jan 2015,Thonon-Evian,Rennes,2.75,3.05,2.84
+10 Jan 2015,Bastia,PSG,8.00,4.20,1.46
+09 Jan 2015,Montpellier,Marseille,4.11,3.32,2.00
+07 Jan 2015,Lille,Thonon-Evian,1.75,3.45,5.49
+21 Dec 2014,Bordeaux,Lyon,2.64,3.19,2.81
+21 Dec 2014,St Etienne,Thonon-Evian,1.47,4.05,8.13
+21 Dec 2014,Marseille,Lille,1.66,3.70,5.93
+20 Dec 2014,Caen,Bastia,2.27,3.29,3.34
+20 Dec 2014,Lorient,Nantes,2.31,3.13,3.43
+20 Dec 2014,Metz,Monaco,4.06,3.35,2.01
+20 Dec 2014,Rennes,Reims,1.77,3.60,4.98
+20 Dec 2014,Toulouse,Guingamp,2.00,3.23,4.30
+20 Dec 2014,PSG,Montpellier,1.20,6.87,15.63
+19 Dec 2014,Lens,Nice,2.33,3.22,3.27
+14 Dec 2014,Monaco,Marseille,2.43,3.21,3.09
+14 Dec 2014,Guingamp,PSG,8.20,4.43,1.44
+14 Dec 2014,Lille,Toulouse,2.11,3.21,3.83
+14 Dec 2014,Nice,St Etienne,3.12,3.11,2.49
+13 Dec 2014,Bastia,Rennes,2.62,3.15,2.90
+13 Dec 2014,Lorient,Metz,1.90,3.45,4.42
+13 Dec 2014,Montpellier,Lens,1.74,3.56,5.20
+13 Dec 2014,Reims,Thonon-Evian,2.02,3.25,4.10
+13 Dec 2014,Nantes,Bordeaux,2.37,3.14,3.28
+12 Dec 2014,Lyon,Caen,1.54,4.23,6.21
+07 Dec 2014,Marseille,Metz,1.34,5.05,9.80
+07 Dec 2014,Lens,Lille,3.96,3.20,2.08
+07 Dec 2014,Reims,Guingamp,2.43,3.08,3.23
+07 Dec 2014,Thonon-Evian,Lyon,4.01,3.29,2.03
+06 Dec 2014,Bordeaux,Lorient,1.85,3.42,4.71
+06 Dec 2014,Caen,Nice,2.12,3.33,3.65
+06 Dec 2014,Rennes,Montpellier,1.87,3.45,4.57
+06 Dec 2014,St Etienne,Bastia,1.45,4.27,8.42
+06 Dec 2014,PSG,Nantes,1.34,5.03,10.50
+05 Dec 2014,Toulouse,Monaco,2.70,3.17,2.79
+04 Dec 2014,Lyon,Reims,1.45,4.47,7.80
+03 Dec 2014,Lille,PSG,4.92,3.48,1.81
+03 Dec 2014,Bastia,Thonon-Evian,2.46,3.10,3.16
+03 Dec 2014,Guingamp,Caen,2.38,3.22,3.19
+03 Dec 2014,Metz,Bordeaux,2.97,3.17,2.55
+03 Dec 2014,Montpellier,St Etienne,2.95,3.12,2.60
+03 Dec 2014,Nice,Rennes,2.77,3.11,2.77
+02 Dec 2014,Monaco,Lens,1.42,4.45,8.71
+02 Dec 2014,Lorient,Marseille,3.59,3.29,2.16
+02 Dec 2014,Nantes,Toulouse,2.04,3.28,3.96
+30 Nov 2014,St Etienne,Lyon,2.20,3.20,3.55
+30 Nov 2014,Thonon-Evian,Guingamp,2.23,3.11,3.60
+30 Nov 2014,Bordeaux,Lille,2.12,3.17,3.88
+29 Nov 2014,Caen,Montpellier,2.20,3.26,3.53
+29 Nov 2014,Lens,Metz,2.79,3.10,2.77
+29 Nov 2014,Reims,Bastia,2.03,3.28,4.07
+29 Nov 2014,Rennes,Monaco,2.77,3.16,2.71
+29 Nov 2014,Toulouse,Lorient,1.79,3.53,5.00
+29 Nov 2014,PSG,Nice,1.19,7.08,16.86
+28 Nov 2014,Marseille,Nantes,1.58,3.83,6.66
+23 Nov 2014,Marseille,Bordeaux,1.72,3.69,5.08
+23 Nov 2014,Montpellier,Toulouse,2.70,3.14,2.79
+23 Nov 2014,Nantes,St Etienne,3.00,2.96,2.66
+22 Nov 2014,Guingamp,Rennes,2.70,3.09,2.84
+22 Nov 2014,Lorient,Lens,1.89,3.35,4.57
+22 Nov 2014,Monaco,Caen,1.60,3.83,6.17
+22 Nov 2014,Nice,Reims,2.07,3.27,3.86
+22 Nov 2014,Bastia,Lyon,3.76,3.33,2.08
+21 Nov 2014,Metz,PSG,7.16,4.26,1.49
+09 Nov 2014,PSG,Marseille,1.62,3.99,5.50
+09 Nov 2014,Reims,Lille,3.47,3.15,2.26
+09 Nov 2014,St Etienne,Monaco,2.47,3.10,3.12
+09 Nov 2014,Lyon,Guingamp,1.50,4.12,7.40
+08 Nov 2014,Bastia,Montpellier,2.96,3.06,2.62
+08 Nov 2014,Caen,Nantes,2.59,3.15,2.91
+08 Nov 2014,Thonon-Evian,Nice,2.31,3.16,3.36
+08 Nov 2014,Toulouse,Metz,1.72,3.72,5.08
+08 Nov 2014,Lens,Bordeaux,3.20,3.20,2.36
+07 Nov 2014,Rennes,Lorient,1.94,3.22,4.51
+02 Nov 2014,Marseille,Lens,1.26,5.73,12.80
+02 Nov 2014,Bordeaux,Toulouse,2.62,3.15,2.87
+02 Nov 2014,Nantes,Rennes,2.27,3.07,3.57
+01 Nov 2014,Guingamp,Bastia,2.05,3.21,4.06
+01 Nov 2014,Lille,St Etienne,2.67,2.99,2.98
+01 Nov 2014,Metz,Caen,2.45,3.16,3.10
+01 Nov 2014,Montpellier,Thonon-Evian,1.90,3.30,4.61
+01 Nov 2014,Nice,Lyon,3.37,3.21,2.27
+01 Nov 2014,Lorient,PSG,6.36,3.94,1.57
+31 Oct 2014,Monaco,Reims,1.40,4.62,8.85
+26 Oct 2014,Lyon,Marseille,2.62,3.27,2.79
+26 Oct 2014,Guingamp,Nice,2.16,3.14,3.75
+26 Oct 2014,St Etienne,Metz,1.52,3.90,7.19
+26 Oct 2014,Rennes,Lille,2.61,3.02,2.99
+25 Oct 2014,Bastia,Monaco,3.69,3.27,2.13
+25 Oct 2014,Caen,Lorient,2.04,3.30,3.97
+25 Oct 2014,Reims,Montpellier,2.90,3.13,2.61
+25 Oct 2014,Thonon-Evian,Nantes,2.63,3.04,2.96
+25 Oct 2014,PSG,Bordeaux,1.42,4.47,8.46
+24 Oct 2014,Toulouse,Lens,1.46,4.18,8.16
+19 Oct 2014,Lyon,Montpellier,1.73,3.71,5.09
+19 Oct 2014,Bordeaux,Caen,1.91,3.36,4.43
+19 Oct 2014,Marseille,Toulouse,1.61,3.90,5.95
+18 Oct 2014,Lille,Guingamp,1.75,3.37,5.61
+18 Oct 2014,Metz,Rennes,2.53,3.14,2.99
+18 Oct 2014,Monaco,Thonon-Evian,1.56,3.92,6.52
+18 Oct 2014,Nantes,Reims,1.63,3.69,6.19
+18 Oct 2014,Nice,Bastia,2.02,3.25,4.12
+18 Oct 2014,Lorient,St Etienne,3.12,3.09,2.48
+17 Oct 2014,Lens,PSG,9.35,4.94,1.36
+05 Oct 2014,PSG,Monaco,1.51,4.17,7.05
+05 Oct 2014,Guingamp,Nantes,2.68,2.96,2.95
+05 Oct 2014,Lyon,Lille,2.05,3.23,3.94
+05 Oct 2014,St Etienne,Toulouse,2.03,3.28,4.02
+04 Oct 2014,Bastia,Lorient,2.25,3.21,3.41
+04 Oct 2014,Nice,Montpellier,2.43,3.11,3.14
+04 Oct 2014,Rennes,Lens,1.82,3.48,4.67
+04 Oct 2014,Thonon-Evian,Metz,2.39,3.13,3.22
+04 Oct 2014,Caen,Marseille,3.60,3.34,2.13
+03 Oct 2014,Reims,Bordeaux,3.74,3.25,2.11
+28 Sep 2014,Marseille,St Etienne,1.86,3.40,4.57
+28 Sep 2014,Lens,Caen,2.76,3.16,2.72
+28 Sep 2014,Nantes,Lyon,2.56,3.14,2.95
+28 Sep 2014,Bordeaux,Rennes,1.90,3.41,4.40
+27 Sep 2014,Lille,Bastia,1.65,3.55,6.30
+27 Sep 2014,Lorient,Thonon-Evian,2.07,3.27,3.87
+27 Sep 2014,Metz,Reims,1.98,3.28,4.24
+27 Sep 2014,Montpellier,Guingamp,2.01,3.15,4.32
+27 Sep 2014,Toulouse,PSG,4.54,3.57,1.83
+27 Sep 2014,Monaco,Nice,1.56,3.94,6.69
+25 Sep 2014,St Etienne,Bordeaux,1.85,3.33,4.64
+24 Sep 2014,Caen,PSG,5.67,3.84,1.64
+24 Sep 2014,Bastia,Nantes,2.52,3.17,2.99
+24 Sep 2014,Guingamp,Metz,2.20,3.13,3.67
+24 Sep 2014,Lyon,Lorient,1.62,3.77,6.08
+24 Sep 2014,Montpellier,Monaco,3.22,3.21,2.36
+24 Sep 2014,Nice,Lille,3.56,3.07,2.27
+24 Sep 2014,Thonon-Evian,Lens,1.99,3.32,4.10
+23 Sep 2014,Rennes,Toulouse,2.54,3.26,2.91
+23 Sep 2014,Reims,Marseille,4.22,3.35,1.96
+21 Sep 2014,PSG,Lyon,1.31,5.43,10.26
+21 Sep 2014,Lens,St Etienne,3.34,3.17,2.31
+21 Sep 2014,Monaco,Guingamp,1.56,3.87,6.88
+21 Sep 2014,Lille,Montpellier,1.91,3.19,4.78
+20 Sep 2014,Lorient,Reims,1.80,3.55,4.76
+20 Sep 2014,Metz,Bastia,2.35,3.15,3.31
+20 Sep 2014,Nantes,Nice,1.86,3.33,4.81
+20 Sep 2014,Toulouse,Caen,2.08,3.23,3.90
+20 Sep 2014,Marseille,Rennes,1.56,3.90,6.87
+19 Sep 2014,Bordeaux,Thonon-Evian,1.52,3.97,7.06
+14 Sep 2014,Thonon-Evian,Marseille,4.40,3.34,1.92
+14 Sep 2014,Guingamp,Bordeaux,2.88,3.14,2.64
+14 Sep 2014,Lille,Nantes,1.77,3.32,5.46
+13 Sep 2014,Bastia,Lens,2.06,3.29,3.85
+13 Sep 2014,Montpellier,Lorient,2.04,3.24,4.06
+13 Sep 2014,Nice,Metz,2.06,3.12,3.80
+13 Sep 2014,Reims,Toulouse,2.67,3.16,2.80
+13 Sep 2014,St Etienne,Caen,1.78,3.53,4.98
+13 Sep 2014,Rennes,PSG,7.21,4.24,1.49
+12 Sep 2014,Lyon,Monaco,2.61,3.16,2.88
+31 Aug 2014,PSG,St Etienne,1.42,4.40,8.15
+31 Aug 2014,Metz,Lyon,2.84,3.13,2.61
+31 Aug 2014,Bordeaux,Bastia,1.68,3.60,5.46
+30 Aug 2014,Caen,Rennes,2.38,3.14,3.14
+30 Aug 2014,Lens,Reims,2.26,3.21,3.31
+30 Aug 2014,Lorient,Guingamp,2.40,3.07,3.22
+30 Aug 2014,Nantes,Montpellier,2.30,3.10,3.36
+30 Aug 2014,Toulouse,Thonon-Evian,1.86,3.39,4.53
+30 Aug 2014,Monaco,Lille,1.99,3.22,4.14
+29 Aug 2014,Marseille,Nice,1.51,3.93,7.40
+24 Aug 2014,Nantes,Monaco,3.54,3.13,2.20
+24 Aug 2014,St Etienne,Rennes,1.59,3.75,6.16
+24 Aug 2014,Lyon,Lens,1.55,3.89,6.49
+23 Aug 2014,Bastia,Toulouse,2.54,3.29,2.82
+23 Aug 2014,Lille,Lorient,1.77,3.40,5.10
+23 Aug 2014,Montpellier,Metz,1.91,3.33,4.45
+23 Aug 2014,Nice,Bordeaux,3.09,3.13,2.42
+23 Aug 2014,Reims,Caen,2.66,3.20,2.74
+23 Aug 2014,Guingamp,Marseille,2.78,3.10,2.67
+22 Aug 2014,Thonon-Evian,PSG,7.83,4.54,1.42
+17 Aug 2014,Bordeaux,Monaco,2.83,3.17,2.60
+17 Aug 2014,Marseille,Montpellier,1.61,3.77,6.01
+17 Aug 2014,St Etienne,Reims,1.47,4.11,7.71
+16 Aug 2014,Lens,Guingamp,3.10,3.05,2.48
+16 Aug 2014,Lorient,Nice,1.76,3.49,5.00
+16 Aug 2014,Metz,Nantes,2.37,3.01,3.31
+16 Aug 2014,Rennes,Thonon-Evian,1.94,3.33,4.20
+16 Aug 2014,Toulouse,Lyon,2.29,3.25,3.21
+16 Aug 2014,PSG,Bastia,1.14,8.43,19.19
+15 Aug 2014,Caen,Lille,4.14,3.28,1.96
+10 Aug 2014,Monaco,Lorient,1.40,4.33,9.04
+10 Aug 2014,Lyon,Rennes,2.01,3.23,3.99
+09 Aug 2014,Bastia,Marseille,3.78,3.31,2.03
+09 Aug 2014,Guingamp,St Etienne,2.96,3.03,2.58
+09 Aug 2014,Lille,Metz,1.50,4.03,7.15
+09 Aug 2014,Montpellier,Bordeaux,2.67,3.05,2.83
+09 Aug 2014,Nantes,Lens,1.84,3.40,4.59
+09 Aug 2014,Nice,Toulouse,2.90,3.12,2.54
+09 Aug 2014,Thonon-Evian,Caen,2.44,3.10,3.10
+08 Aug 2014,Reims,PSG,9.89,4.79,1.34

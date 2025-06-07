@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,HomeBet,DrawBet,AwayBet
+31 May 2009,AS Roma,Torino,1.66,4.04,4.73
+31 May 2009,Bologna,Catania,1.31,4.88,11.37
+31 May 2009,Fiorentina,AC Milan,2.68,3.18,2.67
+31 May 2009,Genoa,Lecce,1.38,4.02,10.41
+31 May 2009,Inter,Atalanta,1.44,4.03,8.16
+31 May 2009,Juventus,Lazio,1.36,4.53,9.59
+31 May 2009,Napoli,Chievo,1.60,3.73,5.85
+31 May 2009,Palermo,Sampdoria,1.94,3.25,4.18
+31 May 2009,Reggio Calabria,Siena,2.32,3.18,3.16
+31 May 2009,Udinese,Cagliari,1.77,3.50,4.68
+24 May 2009,AC Milan,AS Roma,1.72,3.50,5.19
+24 May 2009,Atalanta,Palermo,3.04,3.34,2.31
+24 May 2009,Cagliari,Inter,3.10,3.19,2.37
+24 May 2009,Catania,Napoli,2.45,3.05,3.07
+24 May 2009,Chievo,Bologna,2.97,1.63,7.33
+24 May 2009,Lecce,Fiorentina,5.22,4.39,1.56
+24 May 2009,Sampdoria,Udinese,3.01,3.36,2.31
+24 May 2009,Siena,Juventus,8.09,4.22,1.42
+24 May 2009,Torino,Genoa,1.58,3.99,5.57
+20 May 2009,Lazio,Reggio Calabria,2.53,3.85,2.47
+17 May 2009,Inter,Siena,1.39,4.34,9.70
+17 May 2009,Bologna,Lecce,2.00,3.26,3.90
+17 May 2009,Fiorentina,Sampdoria,1.32,4.93,10.12
+17 May 2009,Genoa,Chievo,1.64,3.58,5.87
+17 May 2009,Juventus,Atalanta,1.33,4.73,9.81
+17 May 2009,Napoli,Torino,2.73,3.14,2.68
+17 May 2009,Palermo,Lazio,1.59,3.65,6.32
+17 May 2009,Reggio Calabria,Cagliari,1.93,3.49,4.04
+16 May 2009,Udinese,AC Milan,3.80,3.24,2.05
+16 May 2009,AS Roma,Catania,1.27,5.42,12.22
+10 May 2009,AC Milan,Juventus,1.75,3.44,5.13
+10 May 2009,Atalanta,Genoa,3.71,3.20,2.09
+10 May 2009,Cagliari,AS Roma,2.91,3.18,2.50
+10 May 2009,Catania,Fiorentina,5.37,3.52,1.70
+10 May 2009,Chievo,Inter,4.19,3.14,1.99
+10 May 2009,Lecce,Napoli,1.66,3.75,5.45
+10 May 2009,Siena,Palermo,3.06,3.11,2.44
+10 May 2009,Torino,Bologna,1.94,3.19,4.28
+09 May 2009,Lazio,Udinese,2.86,3.04,2.62
+09 May 2009,Sampdoria,Reggio Calabria,3.39,3.26,2.18
+03 May 2009,Genoa,Sampdoria,2.26,3.08,3.41
+03 May 2009,AS Roma,Chievo,1.53,3.86,6.79
+03 May 2009,Catania,AC Milan,6.72,3.79,1.55
+03 May 2009,Fiorentina,Torino,1.45,4.03,8.13
+03 May 2009,Juventus,Lecce,1.32,4.97,9.90
+03 May 2009,Palermo,Cagliari,1.99,3.24,4.04
+03 May 2009,Siena,Napoli,2.18,2.89,3.93
+03 May 2009,Udinese,Atalanta,1.93,3.24,4.23
+02 May 2009,Inter,Lazio,1.48,3.95,7.59
+02 May 2009,Bologna,Reggio Calabria,1.81,3.41,4.76
+26 Apr 2009,Napoli,Inter,4.05,3.21,1.99
+26 Apr 2009,AC Milan,Palermo,1.45,4.07,7.94
+26 Apr 2009,Bologna,Genoa,3.67,3.13,2.14
+26 Apr 2009,Lazio,Atalanta,1.83,3.28,4.71
+26 Apr 2009,Lecce,Catania,1.62,3.62,5.93
+26 Apr 2009,Reggio Calabria,Juventus,5.21,3.47,1.72
+26 Apr 2009,Sampdoria,Cagliari,2.28,3.10,3.39
+26 Apr 2009,Torino,Siena,1.78,3.34,4.99
+25 Apr 2009,Fiorentina,AS Roma,2.33,3.13,3.21
+25 Apr 2009,Chievo,Udinese,2.23,2.98,3.60
+19 Apr 2009,AC Milan,Torino,1.31,4.94,10.95
+19 Apr 2009,AS Roma,Lecce,1.33,4.72,10.58
+19 Apr 2009,Atalanta,Reggio Calabria,1.57,3.70,6.67
+19 Apr 2009,Cagliari,Napoli,2.63,2.88,3.01
+19 Apr 2009,Catania,Sampdoria,2.36,2.93,3.38
+19 Apr 2009,Palermo,Bologna,1.80,3.24,5.01
+19 Apr 2009,Siena,Chievo,2.46,2.58,3.72
+19 Apr 2009,Udinese,Fiorentina,3.06,3.04,2.45
+18 Apr 2009,Juventus,Inter,2.60,3.03,2.92
+18 Apr 2009,Genoa,Lazio,1.81,3.26,4.88
+12 Apr 2009,Reggio Calabria,Udinese,2.27,3.18,3.26
+11 Apr 2009,Genoa,Juventus,3.17,3.09,2.38
+11 Apr 2009,Bologna,Siena,2.23,3.05,3.58
+11 Apr 2009,Chievo,AC Milan,4.73,3.27,1.84
+11 Apr 2009,Fiorentina,Cagliari,1.64,3.50,6.03
+11 Apr 2009,Inter,Palermo,1.42,4.12,8.74
+11 Apr 2009,Lazio,AS Roma,3.22,3.03,2.38
+11 Apr 2009,Lecce,Sampdoria,2.56,3.03,2.94
+11 Apr 2009,Napoli,Atalanta,1.89,3.22,4.58
+11 Apr 2009,Torino,Catania,1.89,3.23,4.55
+05 Apr 2009,AC Milan,Lecce,1.26,5.29,12.73
+05 Apr 2009,Udinese,Inter,5.28,3.28,1.77
+05 Apr 2009,AS Roma,Bologna,1.48,3.75,7.46
+05 Apr 2009,Cagliari,Catania,1.98,3.00,4.20
+05 Apr 2009,Juventus,Chievo,1.31,4.68,10.03
+05 Apr 2009,Palermo,Torino,1.79,3.24,4.82
+05 Apr 2009,Reggio Calabria,Genoa,3.14,2.95,2.39
+05 Apr 2009,Sampdoria,Napoli,2.01,3.02,4.04
+05 Apr 2009,Siena,Lazio,2.47,2.97,2.99
+05 Apr 2009,Atalanta,Fiorentina,2.56,3.06,2.77
+22 Mar 2009,Napoli,AC Milan,3.48,3.09,2.21
+22 Mar 2009,Bologna,Cagliari,2.30,3.04,3.34
+22 Mar 2009,Chievo,Palermo,2.59,2.97,2.92
+22 Mar 2009,Fiorentina,Siena,1.53,3.68,7.21
+22 Mar 2009,Genoa,Udinese,1.79,3.35,4.59
+22 Mar 2009,Inter,Reggio Calabria,1.23,5.78,12.44
+22 Mar 2009,Lecce,Atalanta,2.34,3.03,3.30
+22 Mar 2009,Torino,Sampdoria,2.35,3.01,3.28
+21 Mar 2009,AS Roma,Juventus,2.74,3.09,2.68
+21 Mar 2009,Catania,Lazio,2.50,3.00,3.02
+15 Mar 2009,Inter,Fiorentina,1.69,3.44,5.91
+15 Mar 2009,Atalanta,Torino,2.16,3.02,3.70
+15 Mar 2009,Lazio,Chievo,1.64,3.46,6.22
+15 Mar 2009,Palermo,Lecce,1.67,3.50,5.76
+15 Mar 2009,Reggio Calabria,Napoli,2.80,2.99,2.71
+15 Mar 2009,Sampdoria,AS Roma,2.25,3.02,3.52
+15 Mar 2009,Siena,AC Milan,4.17,3.13,1.98
+15 Mar 2009,Udinese,Catania,1.85,3.17,4.87
+14 Mar 2009,Juventus,Bologna,1.46,3.95,8.03
+14 Mar 2009,Cagliari,Genoa,2.37,3.04,3.23
+08 Mar 2009,AC Milan,Atalanta,1.55,3.61,7.11
+08 Mar 2009,Bologna,Sampdoria,2.32,3.03,3.32
+08 Mar 2009,Catania,Siena,2.30,2.86,3.61
+08 Mar 2009,Chievo,Cagliari,2.27,3.03,3.43
+08 Mar 2009,Fiorentina,Palermo,1.63,3.44,6.45
+08 Mar 2009,Lecce,Reggio Calabria,2.17,3.06,3.67
+08 Mar 2009,Napoli,Lazio,2.30,3.09,3.29
+07 Mar 2009,Torino,Juventus,3.65,3.05,2.17
+07 Mar 2009,Genoa,Inter,2.79,3.04,2.68
+07 Mar 2009,AS Roma,Udinese,1.92,3.19,4.49
+01 Mar 2009,Inter,AS Roma,1.82,3.24,4.99
+01 Mar 2009,Atalanta,Chievo,2.02,3.01,4.32
+01 Mar 2009,Cagliari,Torino,1.98,3.11,4.27
+01 Mar 2009,Palermo,Catania,1.77,3.21,5.52
+01 Mar 2009,Reggio Calabria,Fiorentina,3.26,3.09,2.21
+01 Mar 2009,Sampdoria,AC Milan,3.08,3.04,2.46
+01 Mar 2009,Siena,Genoa,2.73,2.90,2.86
+01 Mar 2009,Udinese,Lecce,1.73,3.27,5.46
+28 Feb 2009,Juventus,Napoli,1.62,3.41,6.61
+28 Feb 2009,Lazio,Bologna,1.69,3.40,5.86
+22 Feb 2009,AC Milan,Cagliari,1.52,3.77,7.21
+22 Feb 2009,Catania,Reggio Calabria,1.88,3.09,4.82
+22 Feb 2009,Fiorentina,Chievo,1.43,4.03,8.56
+22 Feb 2009,Lecce,Lazio,3.20,2.99,2.41
+22 Feb 2009,Napoli,Genoa,2.17,3.08,3.60
+22 Feb 2009,Sampdoria,Atalanta,2.24,3.02,3.52
+22 Feb 2009,Torino,Udinese,2.44,2.97,3.18
+21 Feb 2009,Palermo,Juventus,2.75,3.00,2.74
+21 Feb 2009,AS Roma,Siena,1.67,3.53,5.89
+21 Feb 2009,Bologna,Inter,4.84,3.05,1.92
+15 Feb 2009,Inter,AC Milan,2.24,3.03,3.43
+15 Feb 2009,Atalanta,AS Roma,3.50,3.07,2.16
+15 Feb 2009,Cagliari,Lecce,1.83,3.21,4.65
+15 Feb 2009,Chievo,Catania,2.13,3.01,3.67
+15 Feb 2009,Genoa,Fiorentina,2.41,2.97,3.10
+15 Feb 2009,Juventus,Sampdoria,1.47,3.81,7.58
+15 Feb 2009,Reggio Calabria,Palermo,2.74,3.03,2.65
+15 Feb 2009,Siena,Udinese,2.39,2.99,3.10
+14 Feb 2009,Napoli,Bologna,1.57,3.60,6.40
+14 Feb 2009,Lazio,Torino,1.65,3.44,5.80
+08 Feb 2009,Palermo,Napoli,2.08,3.06,3.94
+08 Feb 2009,AS Roma,Genoa,1.71,3.36,5.56
+08 Feb 2009,Cagliari,Atalanta,2.15,3.06,3.79
+08 Feb 2009,Catania,Juventus,4.58,3.25,1.86
+08 Feb 2009,Fiorentina,Lazio,1.68,3.34,6.02
+08 Feb 2009,Sampdoria,Siena,1.90,3.06,4.73
+08 Feb 2009,Torino,Chievo,1.98,3.07,4.30
+08 Feb 2009,Udinese,Bologna,1.70,3.38,5.73
+07 Feb 2009,AC Milan,Reggio Calabria,1.21,5.97,16.00
+07 Feb 2009,Lecce,Inter,6.95,3.56,1.57
+02 Feb 2009,Bologna,Fiorentina,3.33,3.02,2.25
+01 Feb 2009,Lazio,AC Milan,3.50,3.15,2.11
+01 Feb 2009,Atalanta,Catania,1.85,3.17,4.67
+01 Feb 2009,Chievo,Sampdoria,2.95,2.96,2.54
+01 Feb 2009,Genoa,Palermo,1.92,3.16,4.32
+01 Feb 2009,Inter,Torino,1.22,5.57,14.10
+01 Feb 2009,Reggio Calabria,AS Roma,4.75,3.23,1.80
+01 Feb 2009,Siena,Lecce,1.87,3.13,4.61
+31 Jan 2009,Juventus,Cagliari,1.38,4.28,8.75
+31 Jan 2009,Napoli,Udinese,1.86,3.19,4.49
+28 Jan 2009,AC Milan,Genoa,1.43,4.08,8.73
+28 Jan 2009,AS Roma,Palermo,1.48,3.84,8.06
+28 Jan 2009,Atalanta,Bologna,1.76,3.25,5.43
+28 Jan 2009,Cagliari,Siena,1.97,3.06,4.45
+28 Jan 2009,Catania,Inter,5.47,3.28,1.74
+28 Jan 2009,Chievo,Lecce,2.09,3.01,3.76
+28 Jan 2009,Fiorentina,Napoli,1.67,3.35,6.28
+28 Jan 2009,Sampdoria,Lazio,2.42,3.01,3.15
+28 Jan 2009,Torino,Reggio Calabria,1.81,3.20,5.26
+28 Jan 2009,Udinese,Juventus,4.54,3.19,1.89
+25 Jan 2009,Inter,Sampdoria,1.39,4.21,10.00
+25 Jan 2009,Bologna,AC Milan,9.40,3.76,1.59
+25 Jan 2009,Genoa,Catania,1.59,3.49,6.75
+25 Jan 2009,Lazio,Cagliari,1.66,3.42,6.25
+25 Jan 2009,Lecce,Torino,2.19,2.94,3.73
+25 Jan 2009,Napoli,AS Roma,2.82,3.00,2.69
+25 Jan 2009,Palermo,Udinese,1.92,3.18,4.45
+25 Jan 2009,Siena,Atalanta,2.44,2.90,3.24
+24 Jan 2009,Juventus,Fiorentina,1.72,3.31,5.51
+24 Jan 2009,Reggio Calabria,Chievo,2.02,3.08,4.10
+18 Jan 2009,Lazio,Juventus,3.14,3.10,2.38
+18 Jan 2009,Atalanta,Inter,5.27,3.28,1.77
+18 Jan 2009,Cagliari,Udinese,2.24,3.08,3.44
+18 Jan 2009,Catania,Bologna,1.95,3.08,4.44
+18 Jan 2009,Chievo,Napoli,3.33,3.04,2.31
+18 Jan 2009,Lecce,Genoa,2.59,3.03,2.87
+18 Jan 2009,Sampdoria,Palermo,1.87,3.11,4.85
+18 Jan 2009,Torino,AS Roma,4.01,3.18,1.99
+17 Jan 2009,AC Milan,Fiorentina,1.59,3.54,6.67
+17 Jan 2009,Siena,Reggio Calabria,1.81,3.18,5.07
+14 Jan 2009,AS Roma,Sampdoria,1.78,3.17,4.98
+11 Jan 2009,AS Roma,AC Milan,2.77,3.07,2.70
+11 Jan 2009,Bologna,Chievo,1.84,3.19,4.89
+11 Jan 2009,Fiorentina,Lecce,1.33,4.56,11.46
+11 Jan 2009,Juventus,Siena,1.29,5.08,12.32
+11 Jan 2009,Napoli,Catania,1.56,3.55,7.19
+11 Jan 2009,Palermo,Atalanta,2.03,3.08,4.18
+11 Jan 2009,Reggio Calabria,Lazio,3.18,3.07,2.38
+11 Jan 2009,Udinese,Sampdoria,2.25,2.97,3.57
+10 Jan 2009,Inter,Cagliari,1.29,5.09,10.93
+10 Jan 2009,Genoa,Torino,1.95,3.14,4.26
+21 Dec 2008,AC Milan,Udinese,1.61,3.66,6.14
+21 Dec 2008,Atalanta,Juventus,4.15,3.08,2.01
+21 Dec 2008,Cagliari,Reggio Calabria,1.79,3.28,5.06
+21 Dec 2008,Catania,AS Roma,4.70,3.15,1.90
+21 Dec 2008,Chievo,Genoa,2.29,3.03,3.38
+21 Dec 2008,Lecce,Bologna,2.14,2.93,3.96
+21 Dec 2008,Sampdoria,Fiorentina,2.74,2.93,2.82
+21 Dec 2008,Torino,Napoli,2.49,3.01,3.04
+20 Dec 2008,Siena,Inter,6.16,3.46,1.64
+20 Dec 2008,Lazio,Palermo,1.97,2.95,4.71
+14 Dec 2008,Juventus,AC Milan,2.24,2.98,3.52
+14 Dec 2008,AS Roma,Cagliari,1.38,4.16,10.36
+14 Dec 2008,Fiorentina,Catania,1.43,4.04,8.76
+14 Dec 2008,Genoa,Atalanta,1.90,3.12,4.66
+14 Dec 2008,Inter,Chievo,1.17,6.40,18.90
+14 Dec 2008,Palermo,Siena,1.85,3.15,4.83
+14 Dec 2008,Reggio Calabria,Sampdoria,2.52,2.93,3.09
+14 Dec 2008,Udinese,Lazio,2.28,3.01,3.44
+13 Dec 2008,Napoli,Lecce,1.47,3.90,8.47
+13 Dec 2008,Bologna,Torino,2.22,3.00,3.55
+07 Dec 2008,Sampdoria,Genoa,2.55,2.72,3.38
+07 Dec 2008,AC Milan,Catania,1.39,4.28,11.13
+07 Dec 2008,Atalanta,Udinese,2.31,3.05,3.32
+07 Dec 2008,Cagliari,Palermo,2.45,2.98,3.14
+07 Dec 2008,Lecce,Juventus,6.01,3.15,1.74
+07 Dec 2008,Napoli,Siena,1.61,3.49,6.63
+07 Dec 2008,Reggio Calabria,Bologna,2.06,3.00,4.18
+07 Dec 2008,Torino,Fiorentina,3.23,3.00,2.39
+06 Dec 2008,Lazio,Inter,3.89,3.13,2.06
+06 Dec 2008,Chievo,AS Roma,5.23,3.01,1.87
+30 Nov 2008,Palermo,AC Milan,3.83,3.00,2.11
+30 Nov 2008,AS Roma,Fiorentina,1.95,3.06,4.47
+30 Nov 2008,Atalanta,Lazio,2.63,2.81,3.05
+30 Nov 2008,Cagliari,Sampdoria,2.55,2.95,3.01
+30 Nov 2008,Genoa,Bologna,1.57,3.56,7.02
+30 Nov 2008,Inter,Napoli,1.42,4.28,7.34
+30 Nov 2008,Siena,Torino,2.16,2.94,3.89
+30 Nov 2008,Udinese,Chievo,1.46,3.99,7.72
+29 Nov 2008,Juventus,Reggio Calabria,1.27,4.88,12.30
+29 Nov 2008,Catania,Lecce,2.05,2.86,4.52
+23 Nov 2008,Torino,AC Milan,5.68,3.28,1.70
+23 Nov 2008,Bologna,Palermo,2.59,3.00,2.92
+23 Nov 2008,Chievo,Siena,2.26,2.93,3.56
+23 Nov 2008,Lazio,Genoa,2.02,2.94,4.55
+23 Nov 2008,Lecce,AS Roma,4.30,3.15,1.97
+23 Nov 2008,Napoli,Cagliari,1.60,3.55,6.59
+23 Nov 2008,Reggio Calabria,Atalanta,2.48,2.97,3.12
+23 Nov 2008,Sampdoria,Catania,1.63,3.43,6.58
+22 Nov 2008,Inter,Juventus,2.18,2.82,4.17
+22 Nov 2008,Fiorentina,Udinese,1.90,3.09,4.49
+16 Nov 2008,AS Roma,Lazio,2.31,2.96,3.36
+16 Nov 2008,AC Milan,Chievo,1.18,6.81,15.40
+16 Nov 2008,Atalanta,Napoli,2.73,2.92,2.84
+16 Nov 2008,Cagliari,Fiorentina,3.14,2.97,2.39
+16 Nov 2008,Catania,Torino,2.18,2.96,3.82
+16 Nov 2008,Sampdoria,Lecce,1.58,3.52,7.06
+16 Nov 2008,Siena,Bologna,1.91,3.12,4.67
+16 Nov 2008,Udinese,Reggio Calabria,1.40,4.24,9.00
+15 Nov 2008,Palermo,Inter,4.72,3.03,1.89
+13 Nov 2008,Juventus,Genoa,1.58,3.50,6.55
+09 Nov 2008,Lecce,AC Milan,6.94,3.31,1.62
+09 Nov 2008,Catania,Cagliari,2.07,3.01,4.09
+09 Nov 2008,Chievo,Juventus,6.17,3.44,1.65
+09 Nov 2008,Fiorentina,Atalanta,1.54,3.60,7.37
+09 Nov 2008,Genoa,Reggio Calabria,1.52,3.70,7.59
+09 Nov 2008,Inter,Udinese,1.59,3.38,7.49
+09 Nov 2008,Lazio,Siena,1.69,3.24,6.47
+09 Nov 2008,Napoli,Sampdoria,1.81,3.24,5.00
+08 Nov 2008,Bologna,AS Roma,5.38,2.99,1.91
+08 Nov 2008,Torino,Palermo,2.48,2.75,3.37
+02 Nov 2008,AC Milan,Napoli,1.68,3.20,5.61
+02 Nov 2008,Atalanta,Lecce,1.78,3.21,5.16
+02 Nov 2008,Cagliari,Bologna,1.97,3.01,4.56
+02 Nov 2008,Lazio,Catania,1.63,3.27,7.47
+02 Nov 2008,Palermo,Chievo,1.62,3.41,6.52
+02 Nov 2008,Sampdoria,Torino,1.74,3.06,6.12
+02 Nov 2008,Siena,Fiorentina,3.14,2.75,2.60
+02 Nov 2008,Udinese,Genoa,1.87,3.14,4.74
+01 Nov 2008,Juventus,AS Roma,2.08,2.98,3.96
+01 Nov 2008,Reggio Calabria,Inter,8.43,3.66,1.52
+29 Oct 2008,AC Milan,Siena,1.24,4.88,10.98
+29 Oct 2008,Bologna,Juventus,4.23,3.09,1.99
+29 Oct 2008,Catania,Udinese,2.82,2.88,2.77
+29 Oct 2008,Chievo,Lazio,3.29,3.02,2.33
+29 Oct 2008,Fiorentina,Inter,3.70,2.88,2.24
+29 Oct 2008,Genoa,Cagliari,1.63,3.36,6.48
+29 Oct 2008,Lecce,Palermo,3.28,2.86,2.47
+29 Oct 2008,Napoli,Reggio Calabria,1.44,3.98,8.74
+29 Oct 2008,Torino,Atalanta,2.49,2.92,3.15
+26 Oct 2008,Palermo,Fiorentina,2.48,2.93,3.04
+26 Oct 2008,Atalanta,AC Milan,4.55,3.25,1.83
+26 Oct 2008,Cagliari,Chievo,2.14,2.94,3.80
+26 Oct 2008,Inter,Genoa,1.31,4.72,10.30
+26 Oct 2008,Lazio,Napoli,2.12,3.00,3.72
+26 Oct 2008,Reggio Calabria,Lecce,2.21,2.94,3.59
+26 Oct 2008,Sampdoria,Bologna,1.71,3.30,5.48
+26 Oct 2008,Udinese,AS Roma,2.57,2.98,2.88
+25 Oct 2008,Juventus,Torino,1.54,3.65,6.82
+25 Oct 2008,Siena,Catania,2.19,2.93,3.65
+19 Oct 2008,AS Roma,Inter,3.14,3.01,2.45
+19 Oct 2008,AC Milan,Sampdoria,1.42,3.97,9.13
+19 Oct 2008,Bologna,Lazio,3.56,3.06,2.22
+19 Oct 2008,Catania,Palermo,2.72,2.88,2.88
+19 Oct 2008,Chievo,Atalanta,2.51,2.92,3.13
+19 Oct 2008,Genoa,Siena,1.81,3.11,5.28
+19 Oct 2008,Lecce,Udinese,2.92,2.98,2.60
+19 Oct 2008,Torino,Cagliari,1.86,3.13,4.87
+18 Oct 2008,Napoli,Juventus,2.48,3.01,3.08
+18 Oct 2008,Fiorentina,Reggio Calabria,1.44,3.97,8.75
+05 Oct 2008,Cagliari,AC Milan,8.64,3.96,1.43
+05 Oct 2008,Atalanta,Sampdoria,2.41,2.92,3.27
+05 Oct 2008,Chievo,Fiorentina,3.18,2.97,2.44
+05 Oct 2008,Genoa,Napoli,2.13,2.99,3.87
+05 Oct 2008,Juventus,Palermo,1.51,3.69,7.73
+05 Oct 2008,Reggio Calabria,Catania,2.24,2.97,3.61
+05 Oct 2008,Siena,AS Roma,4.36,3.17,1.94
+05 Oct 2008,Udinese,Torino,1.72,3.35,5.49
+04 Oct 2008,Inter,Bologna,1.21,5.95,13.68
+04 Oct 2008,Lazio,Lecce,1.43,3.97,8.55
+28 Sep 2008,AC Milan,Inter,3.04,2.95,2.56
+28 Sep 2008,AS Roma,Atalanta,1.64,3.47,6.11
+28 Sep 2008,Bologna,Napoli,2.70,2.88,2.90
+28 Sep 2008,Catania,Chievo,2.04,2.93,4.31
+28 Sep 2008,Lecce,Cagliari,2.09,2.94,4.15
+28 Sep 2008,Palermo,Reggio Calabria,1.58,3.55,6.86
+28 Sep 2008,Torino,Lazio,3.07,2.91,2.55
+28 Sep 2008,Udinese,Siena,1.63,3.44,6.32
+27 Sep 2008,Fiorentina,Genoa,1.73,3.34,5.42
+27 Sep 2008,Sampdoria,Juventus,3.49,3.03,2.24
+24 Sep 2008,Atalanta,Cagliari,1.69,3.33,6.16
+24 Sep 2008,Bologna,Udinese,2.60,2.88,3.10
+24 Sep 2008,Chievo,Torino,2.21,2.93,3.71
+24 Sep 2008,Genoa,AS Roma,3.19,3.01,2.43
+24 Sep 2008,Inter,Lecce,1.18,6.52,20.13
+24 Sep 2008,Juventus,Catania,1.32,4.79,10.13
+24 Sep 2008,Lazio,Fiorentina,2.48,2.95,3.14
+24 Sep 2008,Napoli,Palermo,2.00,3.04,4.32
+24 Sep 2008,Reggio Calabria,AC Milan,7.25,3.80,1.52
+24 Sep 2008,Siena,Sampdoria,2.68,2.95,2.92
+21 Sep 2008,AC Milan,Lazio,1.67,3.44,5.76
+21 Sep 2008,Cagliari,Juventus,6.00,3.45,1.65
+21 Sep 2008,Fiorentina,Bologna,1.49,3.76,8.24
+21 Sep 2008,Lecce,Siena,2.26,2.88,3.72
+21 Sep 2008,Palermo,Genoa,2.16,3.00,3.83
+21 Sep 2008,Sampdoria,Chievo,1.66,3.39,6.23
+21 Sep 2008,Torino,Inter,6.44,3.46,1.62
+21 Sep 2008,Udinese,Napoli,2.00,3.07,4.21
+20 Sep 2008,AS Roma,Reggio Calabria,1.35,4.54,9.86
+20 Sep 2008,Catania,Atalanta,2.45,2.89,3.25
+14 Sep 2008,Juventus,Udinese,1.53,3.83,7.46
+14 Sep 2008,Bologna,Atalanta,2.22,2.92,3.71
+14 Sep 2008,Genoa,AC Milan,4.79,3.20,1.85
+14 Sep 2008,Lazio,Sampdoria,2.14,2.95,3.95
+14 Sep 2008,Lecce,Chievo,2.41,2.88,3.32
+14 Sep 2008,Napoli,Fiorentina,2.59,2.92,3.00
+14 Sep 2008,Reggio Calabria,Torino,2.55,2.92,3.04
+14 Sep 2008,Siena,Cagliari,1.95,3.05,4.47
+13 Sep 2008,Inter,Catania,1.23,5.46,14.69
+13 Sep 2008,Palermo,AS Roma,3.54,3.04,2.23
+31 Aug 2008,Fiorentina,Juventus,2.72,2.98,2.81
+31 Aug 2008,AC Milan,Bologna,1.32,4.63,11.14
+31 Aug 2008,AS Roma,Napoli,1.61,3.54,6.25
+31 Aug 2008,Atalanta,Siena,1.99,3.04,4.40
+31 Aug 2008,Cagliari,Lazio,2.89,2.99,2.62
+31 Aug 2008,Catania,Genoa,2.40,2.94,3.29
+31 Aug 2008,Chievo,Reggio Calabria,1.97,3.10,4.29
+31 Aug 2008,Torino,Lecce,1.81,3.16,5.21
+30 Aug 2008,Sampdoria,Inter,4.20,3.13,1.89
+30 Aug 2008,Udinese,Palermo,2.06,2.99,3.76
