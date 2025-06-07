@@ -149,37 +149,7 @@ for (league in league.name[3:5]){
              Minute.clean = ifelse(Minute.clean >= 45, 45, Minute.clean))
   }
   
-  
-  
-  
-  # gam.obj <- gam(Shots ~ 
-  #       s(Score.Diff) + s(Minute.clean) + s(Weighted.Win.Prob)  + HomeAway + s(RedCard.Diff, k=3)
-  #     + s(TeamSeason, bs="re") +  s(ID, bs="re"),
-  #     family = "poisson", data= our.df.cut[1:10000,] %>% mutate(const = 0))
-  
-  
-  ##  Too tough to understand what's going on here
-  ##  A bunch of "sub-categories" of objects ("lme", "gam")
-  
-  # gamm.obj <- gamm(Shots ~ 
-  #        s(Score.Diff) + s(Minute.clean) + s(Weighted.Win.Prob)  + HomeAway + s(RedCard.Diff, k=3),
-  #      #+ s(season, const, by=Team, bs="gp") +  s(ID, bs="re"),
-  #      family = "poisson",
-  #      random = list(TeamSeason = ~1, ID=~1),  # Random intercepts for GroupID
-  #      data= our.df.cut[1:10000,])
-  
-  
-  
-  # ## Takes WAY too long, even for smaller subset of data (just 10K)
-  # gamm(Shots ~ 
-  #        s(Score.Diff) + s(Minute.clean) + s(Weighted.Win.Prob)  + HomeAway + s(RedCard.Diff, k=3),
-  #      #+ s(season, const, by=Team, bs="gp") +  s(ID, bs="re"),
-  #      family = "poisson",
-  #      random = list(Team = ~1),  # Random intercepts for GroupID
-  #      correlation = corExp(form = ~ season_jitt | Team),
-  #      data= our.df.cut[1:10000,] %>% mutate(season_jitt = season + runif(n(), -0.01, 0.01)))
-  
-  
+
   summary(gam.obj)
   
   ######
@@ -252,21 +222,11 @@ for (league in league.name[3:5]){
     
   } else {
     
-    
-    # print("ZIP")
-    # gam.ziP.obj[[league]] <- gam(Shots ~
-    #                                s(Score.Diff) + s(Minute.clean) + s(Weighted.Win.Prob)  + HomeAway + s(RedCard.Diff, k=5)
-    #                              + s(TeamSeason, bs="re"),
-    #                              family="ziP", data= our.df.cut)
+
   }
   
   
-  
-  #print(league)
-  # print(BIC(#glm.obj[[league]], glm.nb.obj[[league]], glm.ziP.obj[[league]],
-  #   gam.obj[[league]], gam.nb.obj[[league]]
-  #   , gam.ziP.obj[[league]]
-  # ))
+
   
   cat("\n")
   
